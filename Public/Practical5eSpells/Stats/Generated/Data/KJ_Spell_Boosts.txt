@@ -31,287 +31,287 @@ type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_ACID_DAMAGE"
 data "DescriptionParams" "DealDamage(5d6, Acid)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Acid)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Acid)"
 
 new entry "KJ_ABSORB_ELEMENTS_ACID_DAMAGE_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_ACID_DAMAGE"
 data "DescriptionParams" "DealDamage(6d6, Acid)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Acid)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Acid)"
 
 new entry "KJ_ABSORB_ELEMENTS_ACID_DAMAGE_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_ACID_DAMAGE"
 data "DescriptionParams" "DealDamage(7d6, Acid)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Acid)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Acid)"
 
 new entry "KJ_ABSORB_ELEMENTS_ACID_DAMAGE_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_ACID_DAMAGE"
 data "DescriptionParams" "DealDamage(8d6, Acid)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Acid)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Acid)"
 
 new entry "KJ_ABSORB_ELEMENTS_ACID_DAMAGE_9"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_ACID_DAMAGE"
 data "DescriptionParams" "DealDamage(9d6, Acid)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Acid)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Acid)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 type "StatusData"
 data "StatusType" "BOOST"
 using "ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(1d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(2d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(3d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(4d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(5d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(6d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(7d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(8d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_COLD_DAMAGE_9"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_COLD_DAMAGE"
 data "DescriptionParams" "DealDamage(9d6, Cold)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Cold)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Cold)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 type "StatusData"
 data "StatusType" "BOOST"
 using "ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(1d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(2d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(3d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(4d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(5d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(6d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(7d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(8d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_9"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_FIRE_DAMAGE"
 data "DescriptionParams" "DealDamage(9d6, Fire)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Fire)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Fire)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 type "StatusData"
 data "StatusType" "BOOST"
 using "ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(1d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(2d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(3d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(4d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(5d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(6d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(7d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(8d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_9"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE"
 data "DescriptionParams" "DealDamage(9d6, Lightning)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Lightning)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Lightning)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 type "StatusData"
 data "StatusType" "BOOST"
 using "ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(1d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(1d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_2"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(2d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(2d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_3"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(3d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(3d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_4"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(4d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(4d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_5"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(5d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(5d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_6"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(6d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(6d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_7"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(7d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(7d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_8"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(8d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(8d6, Thunder)"
 
 new entry "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_9"
 type "StatusData"
 data "StatusType" "BOOST"
 using "KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE"
 data "DescriptionParams" "DealDamage(9d6, Thunder)"
-data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Thunder)
+data "Boosts" "IF(IsWeaponAttack()):CharacterWeaponDamage(9d6, Thunder)"
 
 new entry "KJ_ACID_COVERED"
 type "StatusData"
