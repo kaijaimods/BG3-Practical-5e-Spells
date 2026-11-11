@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentList>
+	<content contentuid="h3c04f0efgcd86g4a1bg95bag4eb035869792" version="1">Frostbite</content>
+	<content contentuid="h6ab48ec6g3ff7g4de0g8e5cg3da78d7f351f" version="1">The target is &lt;LSTag Type="Status" Tooltip="MAG_FROSTBITE_SPELL"&gt;Frostbitten&lt;/LSTag&gt; until it attacks or the end of its next turn.</content>
+	<content contentuid="h03f566e0gb0b8g4ca7ga6ecg39c1cd5f4139" version="1">Green-Flame Blade</content>
+	<content contentuid="hb6bdb78agc55dg45a1ga985g1dcc2affc98f" version="1">Green-Flame (Main Hand)</content>
+	<content contentuid="hb7cf880fg5d5ag4c83g9897gb1350369430d" version="1">Green-Flame (Off-Hand)</content>
+	<content contentuid="h32f49880g7a4cg4897g9bc7gf79c099fd5a0" version="1">You can cause green fire to leap from the target to a different creature of your choice that you can see within [1] of it.</content>
+	<content contentuid="h1a28e2a7g834bg40a7gb18fg621c1a2be0e2" version="1">Adds your Off-Hand &lt;LSTag Tooltip="AbilityModifier"&gt;Ability Modifier&lt;/LSTag&gt; to the damage.</content>
+	<content contentuid="h1471c1fcg775ag4b18g8d1fgc83cdedf11f3" version="1">Green-Flame Blade Splash Damage</content>
+	<content contentuid="h00a3b9beg58c9g4a9ag8323gdce3a676a225" version="1">The Green-Flame Blade can splash a second creature within [1] of its first target.</content>
+	<content contentuid="hb8f39f9bg6a8cg4a2fga895g87b9e9511ebc" version="1">Green-Flame Target</content>
+	<content contentuid="he4546243g783eg4efdg87b2g1d2905279f60" version="1">The Green-Flame Blade can strike at this target.</content>
+	<content contentuid="hed1b2f07g88c5g43b0ga944ga018a8565691" version="1">%%%Green Flame Aura</content>
+	<content contentuid="hbcf9dbb8g1155g4070gb0ffgce474bb39dfd" version="1">%%%Green Flame Technical</content>
+	<content contentuid="h6d1656b5g41d6g4b02g9237gc99e373909cf" version="1">Lightning Lure</content>
+	<content contentuid="h2d665a31g171cg4670gba2eg80cc1c320da6" version="1">Mind Sliver</content>
+	<content contentuid="h05bdd115g3221g4901g9432gada6c6cb6bdf" version="1">You drive a disorienting spike of psychic energy into the mind of one creature you can see within range.</content>
+	<content contentuid="hb8176b1bg59d2g45ddg8a28gc200eb8d51f6" version="1">Mind Pierced</content>
+	<content contentuid="hee8be49fgedceg487bgbae9gf15fabb80c76" version="1">You have a [1] penalty to your next saving throw.</content>
+	<content contentuid="h26f32b40g1608g49dcgb819g1e31723f1aa2" version="1">Primal Savagery</content>
+	<content contentuid="h9ee32c3bga88cg4282gbe04gc7a5176870b1" version="1">You channel primal magic to cause your fingernails to sharpen to deliver a corrosive attack.</content>
+	<content contentuid="hbe39667agcd55g4ee9gb8afgae9150be2d8c" version="1">Sword Burst</content>
+	<content contentuid="h2e63bc5egeca7g4b21g9f55g37b19fa160cc" version="1">You create a momentary circle of spectral blades that sweep around you.</content>
+	<content contentuid="hb36e08e4g2c02g44cdg8952g4d69b769a2b3" version="1">Sapping Sting</content>
+	<content contentuid="he2e70bbegeb94g482eg8748g202dce9ae791" version="1">You sap the vitality of one creature you can see in range.</content>
+	<content contentuid="h315659c0g61fdg4b06ga651g5f0e938a6f29" version="1">Word of Radiance</content>
+	<content contentuid="hf2bbde95g4533g48c5gbbceg6138f4e274ce" version="1">You utter a divine word, and burning radiance erupts from you.</content>
+	<content contentuid="hbc99f570gad06g4e7fgba50g9e7726ada7b7" version="1">Catapult</content>
+	<content contentuid="h415d5871gcbe4g42fcgb2f9gd246f5db2b7e" version="1">Catapult one object weighing 1 to [1] pounds within range that isn’t being worn or carried.</content>
+	<content contentuid="h0e38a6d4g430cg48c5ga04cgb381150cc10a" version="1">Deals an additional [1] damage and can launch an additional [2].</content>
+	<content contentuid="h2a98ddadg1280g4d71g941dg54d2f1b58d9c" version="1">Too heavy to Catapult.</content>
+	<content contentuid="hb53f2e69g7230g4dddg9ef7gc55324ebcaf6" version="1">Too light to Catapult.</content>
+	<content contentuid="h28a1ffa3gde86g4a0bg82beg01480eb67d08" version="1">Cause Fear</content>
+	<content contentuid="h7030472fgf419g42eega4d5g8745f67b3f06" version="1">Targets become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt;.</content>
+	<content contentuid="h62207b14g0b35g4b22g86e4g3334bb3a0f74" version="1">Frost Fingers</content>
+	<content contentuid="hb18c988agcccfg48f6gb61bg50322e5d72fb" version="1">The cold freezes nonmagical liquids in the area that aren't being worn or carried.</content>
+	<content contentuid="h4138309bg462dg4a1egabe2gcaa11a217667" version="1">Tashas Caustic Brew</content>
+	<content contentuid="h2f584dcbgdde5g4000g94acgd86730f02b20" version="1">A creature covered in the acid takes [1] acid damage at the start of each of its turns.</content>
+	<content contentuid="h1a689167g07f3g4862g9e74g7e1bf287af0e" version="1">A creature can remove the acid off itself or another creature with the Help action.</content>
+	<content contentuid="h5d366587gca88g43f9gbf23gbdbe984b0611" version="1">Acid Covered</content>
+	<content contentuid="h5cd3d135gbde2g44f4ga1d0g3418a71005d8" version="1">Remove Acid</content>
+	<content contentuid="h15102684g3d76g4dc4gadb7gfd2620fad069" version="1">Scrape or wash off caustic acid</content>
+	<content contentuid="haa32c808gfc4bg423fgadfdg444222bd7611" version="1">Zephyr Strike</content>
+	<content contentuid="hdecfcdf2g834ag490eg9e69ga4e341d2eadf" version="1">Your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hcf1940d1g937cg46bagb3c9g8f0723f98681" version="1">When activated, your next attack has Advantage and deals an additional [1] and grants additional movement.</content>
+	<content contentuid="he3aeeb36gd84eg4bdfg9360g666064fe75ed" version="1">Activate Zephyr Strike</content>
+	<content contentuid="h0bb7d653gd011g44d8ga796gf9c4976a1731" version="1">Your next attack has Advantage and deals an additional [1].</content>
+	<content contentuid="h13d5b11bg365ag448fgbb25g96f5ba942e82" version="1">You can move an additional [1] after your next attack this round.</content>
+	<content contentuid="hc54fb731g8553g4f2fga083gef34c05ea687" version="1">Take half damage from the next elemental attack targetting you, and deal an additional [1] of that element type on your next attack.</content>
+	<content contentuid="h0c384294gd48eg4d0fg9097g6866146a0bac" version="1">Chaos Bolt</content>
+	<content contentuid="hc8ae5405g622bg455bga389g658693382017" version="1">Deals a random damage type.</content>
+	<content contentuid="h8e91f39fgf2deg4fa6g9ba3g32974fd11463" version="1">Can randomly leap to additional targets.</content>
+	<content contentuid="h81c760b2gd28eg43b1gb627gbd3467775c96" version="1">Fortune's Favor</content>
+	<content contentuid="ha424e2acge8deg4221ga256g022dbfe3f53b" version="1">Give one creature the ability to reroll one attack roll, ability check, or saving throw.</content>
+	<content contentuid="h721604eagfbb7g42c2g9881g4c55a9428616" version="1">Dragon's Breath</content>
+	<content contentuid="h7603bf1dg09ffg4261gb204g52c10f80dcd3" version="1">Dragon's Breath: Acid</content>
+	<content contentuid="h0dd8524fgd0c5g4d32gadeag9295df219b19" version="1">Dragon's Breath: Cold</content>
+	<content contentuid="hab7d93d5g56afg41d1g831egbe1f2fd69850" version="1">Dragon's Breath: Fire</content>
+	<content contentuid="h5bdb4dd2ge504g4e66g835fg77ffe88a16a7" version="1">Dragon's Breath: Lightning</content>
+	<content contentuid="ha8b2b2f9ge523g467bg8a28g883ca04d9846" version="1">Dragon's Breath: Poison</content>
+	<content contentuid="h645dce30g483eg4c04g8a6fg57db7f7efc1a" version="1">Upcast Levels</content>
+	<content contentuid="hee8583cdg246bg4129ga610gc442f9773869" version="1">Give one creature the power to spew magical energy from its mouth.</content>
+	<content contentuid="ha8af91e2g6efbg492cgbf95g63cb674d1302" version="1">Choose acid, cold, fire, lightning, or poison.</content>
+	<content contentuid="h0dde5d0fg2584g40c0gb157g449f1d4730f2" version="1">Give one creature the power to spew magical Acid from its mouth.</content>
+	<content contentuid="h9f58e498gc759g4192gbf48g1cea7d17996b" version="1">Give one creature the power to spew magical Cold from its mouth.</content>
+	<content contentuid="h5e79eb83gf98eg4d60gaae1g5e20edbb1ea6" version="1">Give one creature the power to spew magical Fire from its mouth.</content>
+	<content contentuid="h19331858g063cg4fd0g8b8fgd6480481c133" version="1">Give one creature the power to spew magical Lightning from its mouth.</content>
+	<content contentuid="h353a5aa2g2984g4650g94e5g6c7e3dc11bbc" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="ha64077b9g2c88g47a3g8c46gf5e6f04af0d3" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="h3f0d85d3gf9c7g4cb5g8e03g23a094079d18" version="1">You have the power to spew magical energy from your mouth.</content>
+	<content contentuid="h444ecb09g7b17g45aeg81d6g4c06f00c48b9" version="1">Kinetic Jaunt</content>
+	<content contentuid="h6976f26eg62ffg4c6ag992agae7f47ed406e" version="1">You have increased mobility and your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hbbe773fageaeag4e5ag8754ge6576309cc42" version="1">You will take [1] if you end your turn inside another creature.</content>
+	<content contentuid="h1dbf8a37ga64fg45e4gb24cg009c28b54c7c" version="1">Aganazzar's Scorcher</content>
+	<content contentuid="h214998d4geea3g4ea8gbc94g41e3e76befae" version="1">Project a line of fire [1] long</content>
+	<content contentuid="hb3c2bef7g600bg4ef4g8a4dg43d5b496791c" version="1">Borrowed Knowledge</content>
+	<content contentuid="h66b1be7cg96aeg456eg8023g59a82e39f8c8" version="1">Only one Borrowed Knowledge effect can be active at a time.</content>
+	<content contentuid="hc46ffe8eg1ddag4cf9g80e2gc1fd039fc193" version="1">Borrowed Knowledge: Charisma</content>
+	<content contentuid="h7bdf6617gf2c1g4113gaaf8g19ed2c4715ef" version="1">Borrowed Knowledge: Dexterity</content>
+	<content contentuid="haf3e27b6g537bg4bf9gbadag3531a6d2d700" version="1">Borrowed Knowledge: Intelligence</content>
+	<content contentuid="he2a237dfgc9edg4c45g982dgb2008454be15" version="1">Borrowed Knowledge: Strength</content>
+	<content contentuid="hc8ceb8f2gbf52g446cg8367ga1efc84f0edd" version="1">Borrowed Knowledge: Wisdom</content>
+	<content contentuid="h789bf0f8gd17dg49e5g95e2ge51cf24df426" version="1">Starry Wisp</content>
+	<content contentuid="h538589b1g02e9g4e4dg9195g3e37d21ec3ec" version="1">You launch a mote of light at one creature or object within range.</content>
+	<content contentuid="h616d1384g0fdbg4311g93aeg71372bd30ed3" version="1">You emit light and can't become invisible.</content>
+	<content contentuid="hd1002aafg26b3g42ebga2deg0c5c50f60ad4" version="1">Sorcerous Burst</content>
+	<content contentuid="haa9234efgf449g4b50g8b8dgc3679d250a7f" version="1">Sorcerous Burst: Acid</content>
+	<content contentuid="h9dcb8b8eg0d58g45b1g8f50g9f30c45503c4" version="1">Sorcerous Burst: Cold</content>
+	<content contentuid="h10dbcad6g64d1g43f9gbc17ga5e309cd9eb0" version="1">Sorcerous Burst: Fire</content>
+	<content contentuid="h1909aaeeg708cg43daga099g7ab597d5c504" version="1">Sorcerous Burst: Lightning</content>
+	<content contentuid="h340ee5d0g408fg4c56ga56eg9e7619a82f68" version="1">Sorcerous Burst: Poison</content>
+	<content contentuid="h4486a8beg314fg4896g9cceg28adbb02b0c9" version="1">Sorcerous Burst: Psychic</content>
+	<content contentuid="h613df416g65e4g452eg9b6cgec34138c9827" version="1">Sorcerous Burst: Thunder</content>
+	<content contentuid="hdf5554deg95a5g4ad1g9041g9bdf220f5945" version="1">You cast volatile sorcerous energy at one creature or object within range.</content>
+	<content contentuid="h9aa0af3ag7217g43dbg9558gf44f4bb15ac2" version="1">You choose the type of damage: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.</content>
+	<content contentuid="h5ac0095cg6a25g48c0gae36g47ed2aeabb8e" version="1">Exploding Dice</content>
+	<content contentuid="h99790d20g3048g4794gbbc2g79021761cce3" version="1">Mind Spiked</content>
+	<content contentuid="ha86eef28ge4b6g4940g9a1bgad0be15dd196" version="1">You feel like someone is watching you.</content>
+	<content contentuid="h562ecd57g6b37g489agbd7dg8c7743b81f65" version="1">Vortex Warp</content>
+	<content contentuid="h1616e2bbg9c97g450cg9a30g0c3fc02929ad" version="1">Teleport target creature.</content>
+	<content contentuid="h911647e5g27a3g4f47g9d60g090be45fefb7" version="1">The range increases by [1] per level.</content>
+	<content contentuid="ha1f1d0ecg762bg4268g8452g2189911eba4a" version="1">Warding Wind</content>
+	<content contentuid="h06fbe7a8ga95ag47fbg8e2aged56af846a73" version="1">A strong wind blows around you in a [1] radius and moves with you, remaining centered on you.</content>
+	<content contentuid="hd493cae3g4f0eg400fg8763gbe425c585872" version="1">The wind extinguishes small fires, disperses clouds, slows creatures, and disrupts ranged weapon attacks.</content>
+	<content contentuid="h8ae81691gf377g48f9g9836g324838bfd3dc" version="1">Scroll of Frostbite</content>
+	<content contentuid="h3ab48265gbfc3g4675ga6a0gbc5f03d026ee" version="1">Scroll of Green-Flame Blade</content>
+	<content contentuid="h4b9ef50fg1745g46ecg9b01gede356c32d7f" version="1">Scroll of Lightning Lure</content>
+	<content contentuid="h271b5f11g15a5g40e1gaf78g28e51d319592" version="1">Scroll of Mind Sliver</content>
+	<content contentuid="h50e2a0fag7496g4ea1gaf2cg79d642d7bb16" version="1">Scroll of Sapping Sting</content>
+	<content contentuid="h5162cc2dgb052g4db3gab96g4bba59ba5f1b" version="1">Scroll of Sword Burst</content>
+	<content contentuid="h4ea63f53g76e4g4b9bgab84g3811a7246652" version="1">Scroll of Thunderclap</content>
+	<content contentuid="h3131f345gc56eg40d2g9411ge33fa21766ca" version="1">Scroll of Absorb Elements</content>
+	<content contentuid="h0d43483cgf216g4d2cg8c66ga89883c00404" version="1">Scroll of Catapult</content>
+	<content contentuid="h2c45fad7gc842g42bbg8997g982d2c074152" version="1">Scroll of Cause Fear</content>
+	<content contentuid="h0959b889g2fffg4d7egb433g85d7c1437599" version="1">Scroll of Frost Fingers</content>
+	<content contentuid="h849006eeg0116g493eg9f5bg2400f447f9b1" version="1">Scroll of Tasha's Caustic Brew</content>
+	<content contentuid="h73278bbbg0de2g4c46g9aebg2fbdde05842c" version="1">Scroll of Aganazzar's Scorcher</content>
+	<content contentuid="he9fda933g2442g4ec3ga63ag0fed4ea0a4e1" version="1">Scroll of Borrowed Knowledge</content>
+	<content contentuid="he9fda933g2442g4ec3ga63ag0fed4ea0a4e1" version="1">Scroll of Dragon's Breath</content>
+	<content contentuid="h3e3a9a7dg9449g406dg8ef4g49c2f1b94d81" version="1">Scroll of Fortune's Favor</content>
+	<content contentuid="hf5b7b093gbad5g4a9eg8cfag9484e35c5933" version="1">Scroll of Kinetic Jaunt</content>
+	<content contentuid="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1">Scroll of Mind Spike</content>
+	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
+	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
+	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
+</contentList>

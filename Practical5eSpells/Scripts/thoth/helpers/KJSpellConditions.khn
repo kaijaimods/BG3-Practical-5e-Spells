@@ -1,0 +1,65 @@
+local __util = require 'larian.util'
+
+function KJSkipOffhandModifier()
+	return (HasPassive('FightingStyle_TwoWeaponFighting',context.Source))
+end
+
+function KJAddPactModifier()
+	return (~KJSkipOffhandModifier() & (HasStatus('HEXBLADE_BIND', GetActiveWeapon(context.Source, false)) | HasStatus('PACT_BLADE', GetActiveWeapon(context.Source, false))))
+end
+
+function KJAddCastModifier()
+	return (~KJSkipOffhandModifier() & ~KJAddPactModifier() & (HasStatus('SHILLELAGH', GetActiveWeapon(context.Source, false)) | HasPassive('MAG_MeleeCaster_Passive',context.Source)))
+end
+
+function KJAddFinesseModifier()
+	return (~KJSkipOffhandModifier() & ~KJAddPactModifier() & ~KJAddCastModifier() & WieldingWeapon('Finesse', true, true, context.Source))
+end
+
+function KJAddStrengthModifier()
+	return (~KJSkipOffhandModifier() & ~KJAddPactModifier() & ~KJAddCastModifier() & ~KJAddFinesseModifier())
+end
+
+
+
+function KJCanCatapult(value)
+	return ConditionResult(value >= (context.Target.Weight / 1000),{ConditionError("KJCatapultHeavy_False")}) and ConditionResult(0.5 <= (context.Target.Weight / 1000),{ConditionError("KJCatapultLight_False")})
+end
+
+function KJDoCAcid()
+	return HasStatus('KJ_CHAOSDAMAGE_ACID', context.Source)
+end
+function KJDoCCold()
+	return HasStatus('KJ_CHAOSDAMAGE_COLD', context.Source)
+end
+function KJDoCFire()
+	return HasStatus('KJ_CHAOSDAMAGE_FIRE', context.Source)
+end
+function KJDoCForce()
+	return HasStatus('KJ_CHAOSDAMAGE_FORCE', context.Source)
+end
+function KJDoCLightning()
+	return HasStatus('KJ_CHAOSDAMAGE_LIGHTNING', context.Source)
+end
+function KJDoCPoison()
+	return HasStatus('KJ_CHAOSDAMAGE_POISON', context.Source)
+end
+function KJDoCPsychic()
+	return HasStatus('KJ_CHAOSDAMAGE_PSYCHIC', context.Source)
+end
+function KJDoCThunder()
+	return HasStatus('KJ_CHAOSDAMAGE_THUNDER', context.Source)
+end
+function KJDoCNone()
+	return  ~(KJDoCAcid() | KJDoCCold() | KJDoCFire() | KJDoCForce() | KJDoCLightning() | KJDoCPoison() | KJDoCPsychic() | KJDoCThunder())
+end
+
+function IsRerollInteresting(value)
+    local value = value or 20
+    local rollSuccess = context.InterruptedRoll.Total >= context.InterruptedRoll.Difficulty
+    local bonus = context.InterruptedRoll.Total - context.InterruptedRoll.NaturalRoll
+	
+    local result = not rollSuccess and ((context.InterruptedRoll.NaturalRoll < value) and (context.InterruptedRoll.Difficulty <= (value + bonus)))
+	
+    return ConditionResult(result)
+end
