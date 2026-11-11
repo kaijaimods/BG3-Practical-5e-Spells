@@ -56,7 +56,7 @@
                     <attribute id="UUID" type="guid" value="586a8796-34f4-41f5-a3ef-95738561d55d" />
                 </node>
                     <attribute id="Name" type="FixedString" value="Cleric cantrips (Wisdom)" />
-                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_Guidance;Target_Light;Shout_ProduceFlame;Target_Resistance;Target_SacredFlame;Shout_Thaumaturgy;Shout_WordOfRadiance" />
+                    <attribute id="Spells" type="LSString" value="Shout_BladeWard;Target_BurstingSinew;Target_Guidance;Target_Light;Shout_ProduceFlame;Target_Resistance;Target_SacredFlame;Shout_Thaumaturgy;Target_TollTheDead;Shout_WordOfRadiance" />
                     <attribute id="UUID" type="guid" value="2f43a103-5bf1-4534-b14f-663decc0c525" />
                 </node>
         <node id="SpellList">
