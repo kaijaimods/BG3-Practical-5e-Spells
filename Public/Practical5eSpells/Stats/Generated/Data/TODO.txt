@@ -13,5 +13,6 @@ Warding Wind -- add Deafened status and handle it in all spells that are affecte
 
 3rd level
 Ash's Strike -- Would like a better AoE indicator
+Life Transference -- want an animation that doesn't float
 Spirit Shroud -- Might want to replace the aura effect again
 Tidal Wave -- Refactor. Needs to be a wall, not a zone. Update sounds/visuals. Add scroll. Update spell lists

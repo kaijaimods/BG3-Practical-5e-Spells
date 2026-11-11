@@ -135,6 +135,7 @@
 	<content contentuid="h09db820bg4025g4f12gaa33gdb8b5a0b2863" version="1">Scroll of Enemies Abound</content>
 	<content contentuid="he34e7ac5g971dg47a7g807egc31ed78ad538" version="1">Scroll of Flame Arrows</content>
 	<content contentuid="hbdd5dd90g570ag4fb5gbea9g93e586f2c61d" version="1">Scroll of Intellect Fortress</content>
+	<content contentuid="h1b3694c8gaabdg4d99ga20eg7da093b283c0" version="1">Scroll of Life Transference</content>
 	<content contentuid="h3d7927a0g18d4g49ebg82c1ga9433cb81091" version="1">Scroll of Melf's Minute Meteors</content>
 	<content contentuid="h2a3bd909gd0a4g48d0gb276g9c2593c0edc8" version="1">Scroll of Spirit Shroud</content>
 	<content contentuid="h78097c51gb69dg4897gac75g60168caacd87" version="1">Scroll of Thunder Step</content>
@@ -204,5 +205,8 @@
 	<content contentuid="h9b4b4c49g5bf7g48a7ga6fcg2165762f9e77" version="1">Intellect Fortress</content>
 	<content contentuid="h1230f299ge56ag4c24g9c4bgcd0430edc454" version="1">Target creature has resistance to psychic damage and advantage on Intelligence, Wisdom, and Charisma saving throws.</content>
 	<content contentuid="hec85243eg0557g49eag906cgff6c7d490e04" version="1">Resistance psychic damage and advantage on Intelligence, Wisdom, and Charisma saving throws.</content>
+	<content contentuid="h8d0073dag1520g4625g97aage1227e3feeaf" version="1">Life Transference</content>
+	<content contentuid="hb6156ac4ga562g40e1gabc8g831a6f91ef95" version="1">You take [1], which can’t be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.</content>
+	<content contentuid="he1addedbg9088g4bccg9b90g576897c9b96c" version="1">Damage</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>
