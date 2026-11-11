@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="0"/>
+    <region id="TooltipUpcastDescriptions">
+        <node id="root">
+            <children>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional damage and weight limit"/>
+                    <attribute id="Text" type="TranslatedString" handle="h0e38a6d4g430cg48c5ga04cgb381150cc10a" version="1"/>
+                    <attribute id="UUID" type="guid" value="9b27b942-9e72-4628-9fb4-f6cf2e8e0277"/>
+                </node>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Extra Range"/>
+                    <attribute id="Text" type="TranslatedString" handle="h911647e5g27a3g4f47g9d60g090be45fefb7" version="1"/>
+                    <attribute id="UUID" type="guid" value="85c63641-cf83-4ae2-bf32-ff3b47c7b217"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
