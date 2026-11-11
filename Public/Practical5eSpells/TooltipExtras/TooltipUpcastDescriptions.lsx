@@ -29,6 +29,11 @@
                     <attribute id="Text" type="TranslatedString" handle="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1"/>
                     <attribute id="UUID" type="guid" value="5142acf3-2918-4275-9ce8-bb67a2f69747"/>
                 </node>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional arrows"/>
+                    <attribute id="Text" type="TranslatedString" handle="h4fbc169dgdff6g41aag98c6g9c24cf6c713b" version="1"/>
+                    <attribute id="UUID" type="guid" value="c88b4c01-2d94-4769-8776-65615db36cc0"/>
+                </node>
             </children>
         </node>
     </region>

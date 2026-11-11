@@ -24,6 +24,16 @@
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
                     <attribute id="UUID" type="guid" value="f644b4e6-e4bc-4aa1-a997-66141217af28" />
                 </node>
+        <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h7ee77f93g93b2g445cga950g4dded0aded81" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h10d3027bg3dcbg46cdga37dgb07ee2f8ca88" version="1" />
+                    <attribute id="IsSpellResource" type="bool" value="false" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="FlameArrows" />
+                    <attribute id="ReplenishType" type="FixedString" value="Never" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="901c0b7d-aebb-48a4-928c-85b96cf12e66" />
+                </node>
       </children>
     </node>
   </region>

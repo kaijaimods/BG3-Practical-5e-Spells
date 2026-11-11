@@ -965,6 +965,46 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h195e8b66g4e45g4a52gba13g91ecb6e3db7b" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="ef385fce-9a04-40d6-be9c-d4df3c9f2ed3" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_Catnap" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_Catnap" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_Catnap&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_Catnap" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_Catnap" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="h09db820bg4025g4f12gaa33gdb8b5a0b2863" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -997,6 +1037,86 @@
 											<attribute id="Conditions" type="LSString" value="" />
 											<attribute id="Consume" type="bool" value="True" />
 											<attribute id="SpellId" type="FixedString" value="Target_EnemiesAbound" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="he34e7ac5g971dg47a7g807egc31ed78ad538" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="3603f039-c54f-4d61-89fa-60088b4ae1d8" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_FlameArrows" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_FlameArrows" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_FlameArrows&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_FlameArrows" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_FlameArrows" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hbdd5dd90g570ag4fb5gbea9g93e586f2c61d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a36727ac-f4de-4759-8cca-c967d0a18520" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_IntellectFortress" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_IntellectFortress" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_IntellectFortress&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_IntellectFortress" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_IntellectFortress" />
 										</node>
 									</children>
 								</node>

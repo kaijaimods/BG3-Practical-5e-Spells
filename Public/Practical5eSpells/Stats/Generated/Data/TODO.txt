@@ -12,7 +12,6 @@ healing spirit -- need to get interrupt working for the player and add move spel
 Warding Wind -- add Deafened status and handle it in all spells that are affected, like Harpy's Lure  ability or Command spell.
 
 3rd level
-Ash's Strike -- Add AoE indicator to Aura Effect
-Catnap -- Need limit this to apply Short Rest to just the target(s); splitting the party when you cast would subvert any way to try and block that via statuses. need to add to spell lists and create scrolls.
-Spirit Shroud -- Would be nice to replace the aura effect
+Ash's Strike -- Would like a better AoE indicator
+Spirit Shroud -- Might want to replace the aura effect again
 Tidal Wave -- Refactor. Needs to be a wall, not a zone. Update sounds/visuals. Add scroll. Update spell lists
