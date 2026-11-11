@@ -725,6 +725,46 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h27d8dac6g3cc3g4a71g80edg96c4bdec628d" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="cd62e25c-575f-48c2-99ee-f8fe21efc97d" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_RimesBindingIce" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_RimesBindingIce" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Zone_RimesBindingIce&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Zone_RimesBindingIce" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Zone_RimesBindingIce" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -757,6 +797,46 @@
 											<attribute id="Conditions" type="LSString" value="" />
 											<attribute id="Consume" type="bool" value="True" />
 											<attribute id="SpellId" type="FixedString" value="Teleportation_VortexWarp" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="fd2c4c12-675c-4217-be4d-ab68cfe58488" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_WitherAndBloom" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_WitherAndBloom" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_WitherAndBloom&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_WitherAndBloom" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_WitherAndBloom" />
 										</node>
 									</children>
 								</node>
@@ -802,6 +882,64 @@
 								</node>
 							</children>
 						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="AnubisConfigName" type="FixedString" value="SPL_DancingLights" />
+					<attribute id="CanClickThrough" type="bool" value="True" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5ff99e33g9f85g4463g9026g6622608667c4" version="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Evocation_DancingLights" />
+					<attribute id="IsInspector" type="bool" value="False" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="LoopSound" type="FixedString" value="b74990cb-221f-72c7-5673-8404c9114ce5" />
+					<attribute id="MapKey" type="FixedString" value="3c22bcce-9dec-4772-a1a5-d2a67d43516f" />
+					<attribute id="Name" type="LSString" value="LTS_DancingLights_01" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e40d1292-1da8-4c8f-b1dc-213cfdd4e135" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="0239fd57-8416-3578-6701-cfd6fb222305" />
+					<attribute id="ReadinessFlags" type="uint32" value="128" />
+					<attribute id="SoundAttenuation" type="int16" value="25" />
+					<attribute id="Stats" type="FixedString" value="OBJ_GenericImmutableObject" />
+					<attribute id="Tooltip" type="uint8" value="0" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="48c21bca-dda7-3bd8-5442-359af5efe951" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2.2493527" />
+									<attribute id="Max" type="fvec3" value="0.0850952 2.1285183 0.078182" />
+									<attribute id="Min" type="fvec3" value="-0.10634826 0 -0.11429413" />
+									<attribute id="Radius" type="float" value="0.5695793" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2.2493527" />
+									<attribute id="Max" type="fvec3" value="0.0850952 2.1285183 0.078182" />
+									<attribute id="Min" type="fvec3" value="-0.10634826 0 -0.11429413" />
+									<attribute id="Radius" type="float" value="0.5695793" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="2.2493527" />
+									<attribute id="Max" type="fvec3" value="0.0850952 2.1285183 0.078182" />
+									<attribute id="Min" type="fvec3" value="-0.10634826 0 -0.11429413" />
+									<attribute id="Radius" type="float" value="0.5695793" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="OnUsePeaceActions" />
+						<node id="ScriptOverrides">
+							<children>
+								<node id="ScriptOverrides" />
+							</children>
+						</node>
+						<node id="Scripts" />
+						<node id="Tags" />
 					</children>
 				</node>
 			</children>

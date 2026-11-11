@@ -122,12 +122,25 @@
 	<content contentuid="h3e3a9a7dg9449g406dg8ef4g49c2f1b94d81" version="1">Scroll of Fortune's Favor</content>
 	<content contentuid="hf5b7b093gbad5g4a9eg8cfag9484e35c5933" version="1">Scroll of Kinetic Jaunt</content>
 	<content contentuid="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1">Scroll of Mind Spike</content>
+	<content contentuid="h27d8dac6g3cc3g4a71g80edg96c4bdec628d" version="1">Scroll of Rime's Binding Ice</content>
 	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
 	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
+	<content contentuid="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1">Scroll of Wither and Bloom</content>
 	<content contentuid="h69bd94e7g85afg43e8gbca8ge40853427a7f" version="1">Healing Spirit</content>
 	<content contentuid="h166ed9a2gfb0eg4d6ag97b4g300fed59128d" version="1">Summon an intangible spirit. Whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore [1] hit points to that creature (no action required).</content>
 	<content contentuid="hcd76b64ag9793g4d75g9808g48924d79b69e" version="1">The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice).</content>
 	<content contentuid="hd10061c5g987cg495agb549ga200834835c7" version="1">Heaing Charges</content>
 	<content contentuid="hc29a07degffdfg42e0gac62ga425accb8595" version="1">The number of times the Healing Spirit can still heal.</content>
+	<content contentuid="hae89aee7g89b5g4396g8d7bg32af99698f90" version="1">Wither and Bloom</content>
+	<content contentuid="h9c29c6c2g4070g4f7cg9749gddb988cb6546" version="1">Damage each enemy creature in a [1] radius.</content>
+	<content contentuid="hbe2c51e7g5f35g4a95g9eadg6983215b1e75" version="1">You can choose one creature in the area to heal [1].</content>
+	<content contentuid="hab768585g76eag40f1gbf90g6cd6e69b6322" version="1">Deals an additional [1] and heals an additional [2] per level.</content>
+	<content contentuid="ha328a1e6g3a55g4ffcgb8cfg98bf1f15d27a" version="1">Bloom</content>
+	<content contentuid="h96c7b17bgf8beg492fgb51bgd7708222cb5f" version="1">Heal target creature that was within the effect of your Wither and Bloom.</content>
+	<content contentuid="h507108ffg5593g44bfg896egfe33f1bbd3cc" version="1">Rime's Binding Ice</content>
+	<content contentuid="hd5b8a963gdb63g4370g8d99gb143685ba49c" version="1">Targets are hindered by ice formations, unable to move for 1 minute or until another creature helps it.</content>
+	<content contentuid="h3bef2945g8164g4da0g9fddg9637fe13c1ba" version="1">Targets still take half damage and aren't hindered by ice.</content>
+	<content contentuid="h76a3e997g3f14g4f90gb5e7gb4da9f220154" version="1">Hindered by Ice</content>
+	<content contentuid="h18eceb30g9707g47dfg9df0g6e02c928eb93" version="1">Hindered by ice and cannot move until helped.</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>
