@@ -13,5 +13,4 @@ Warding Wind -- add Deafened status and handle it in all spells that are affecte
 
 3rd level
 Spirit Shroud -- Would be nice to replace the aura effect
-Thunder Step -- Add damage aoe to origin. Update sounds/visuals. Add scroll. Update spell lists
 Tidal Wave -- Refactor. Needs to be a wall, not a zone. Update sounds/visuals. Add scroll. Update spell lists
