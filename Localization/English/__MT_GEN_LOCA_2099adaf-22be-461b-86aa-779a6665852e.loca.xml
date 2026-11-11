@@ -179,6 +179,6 @@
 	<content contentuid="h607a8031g5718g4284g8f5bgda88a8c69098" version="1">Launch [1] meteors at target location, dealing [2] to each creature within [3] of the impact.</content>
 	<content contentuid="hd7a1afcag9994g419bgad81gd4c79b71ad98" version="1">Minute Meteor</content>
 	<content contentuid="h929ed0f6ge944g4583ga8b9gbb79c6eb7b0f" version="1">The number of remaining meteors.</content>
-	<content contentuid="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1">The number of meteors created increases by two for each slot level above 3rd.</content>
+	<content contentuid="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1">The number of meteors created increases by 2 per level.</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>

@@ -20,8 +20,8 @@
                     <attribute id="UUID" type="guid" value="af1dfbc2-bde8-46f2-85d8-0cfd8fae70f7"/>
                 </node>
                 <node id="TooltipUpcastDescriptions">
-                    <attribute id="Name" type="FixedString" value="Additional meteor"/>
-                    <attribute id="Text" type="TranslatedString" handle="5142acf3-2918-4275-9ce8-bb67a2f69747" version="1"/>
+                    <attribute id="Name" type="FixedString" value="Additional meteors"/>
+                    <attribute id="Text" type="TranslatedString" handle="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1"/>
                     <attribute id="UUID" type="guid" value="5142acf3-2918-4275-9ce8-bb67a2f69747"/>
                 </node>
             </children>

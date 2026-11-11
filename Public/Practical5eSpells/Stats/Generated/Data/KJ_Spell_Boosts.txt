@@ -583,7 +583,7 @@ data "StackId" "KJ_MINUTE_METEORS"
 data "Passives" "KJ_Minute_Meteors_Helper"
 data "Boosts" "ActionResource(MinuteMeteors,6,0);UnlockSpell(Projectile_MinuteMeteor_2);UnlockSpell(Projectile_MinuteMeteor_1)"
 data "StatusGroups" "SG_RemoveOnRespec;RemoveOnLongRest"
-data "StatusEffect" "VFX_Status_Managed_Negative_Torso_Root_Large_01:Dummy_Root;VFX_Status_Managed_Negative_Torso_Root_Large_01:Dummy_Root"
+data "StatusEffect" "24c3b4fa-f9e8-44a9-a0ad-995bf0ec1696"
 
 new entry "KJ_Minute_Meteors_Helper"
 type "PassiveData"
