@@ -69,6 +69,7 @@
 	<content contentuid="h353a5aa2g2984g4650g94e5g6c7e3dc11bbc" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
 	<content contentuid="ha64077b9g2c88g47a3g8c46gf5e6f04af0d3" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
 	<content contentuid="h3f0d85d3gf9c7g4cb5g8e03g23a094079d18" version="1">You have the power to spew magical energy from your mouth.</content>
+	<content contentuid="h78be6f00gd1edg40e4gb2fcgdef516f41318" version="1">Target cannot already have Dragon's Breath.</content>
 	<content contentuid="h444ecb09g7b17g45aeg81d6g4c06f00c48b9" version="1">Kinetic Jaunt</content>
 	<content contentuid="h6976f26eg62ffg4c6ag992agae7f47ed406e" version="1">You have increased mobility and your movement doesn’t provoke opportunity attacks.</content>
 	<content contentuid="hbbe773fageaeag4e5ag8754ge6576309cc42" version="1">You will take [1] if you end your turn inside another creature.</content>

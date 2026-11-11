@@ -54,6 +54,10 @@ function KJDoCNone()
 	return  ~(KJDoCAcid() | KJDoCCold() | KJDoCFire() | KJDoCForce() | KJDoCLightning() | KJDoCPoison() | KJDoCPsychic() | KJDoCThunder())
 end
 
+function KJHasDragonsBreath()
+	return ConditionResult(HasStatus('KJ_DRAGONSBREATH_DC',context.Target).Result,{ConditionError("CE_Status_SG_DragonsBreath_True")},{ConditionError("CE_Status_SG_DragonsBreath_True")})
+end
+
 function IsRerollInteresting(value)
     local value = value or 20
     local rollSuccess = context.InterruptedRoll.Total >= context.InterruptedRoll.Difficulty

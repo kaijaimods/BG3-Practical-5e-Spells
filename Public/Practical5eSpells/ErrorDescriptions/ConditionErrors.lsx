@@ -16,6 +16,12 @@
                     <attribute id="Identifier" type="FixedString" value="KJCatapultLight_False"/>
                     <attribute id="UUID" type="guid" value="2ac5e486-5b0d-494e-b26b-71dc55772057"/>
                 </node>
+                <node id="ConditionErrors">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h78be6f00gd1edg40e4gb2fcgdef516f41318" version="1"/>
+                    <attribute id="ErrorDescriptionType" type="uint8" value="0"/>
+                    <attribute id="Identifier" type="FixedString" value="CE_Status_SG_DragonsBreath_True"/>
+                    <attribute id="UUID" type="guid" value="f7ff5068-1da4-4d17-a9cb-21940ae2f5bf"/>
+                </node>
             </children>
         </node>
     </region>

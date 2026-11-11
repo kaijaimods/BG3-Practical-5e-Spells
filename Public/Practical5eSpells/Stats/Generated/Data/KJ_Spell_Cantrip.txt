@@ -274,6 +274,7 @@ data "PrepareEffect" "556fd141-698d-4c08-9322-ad155821260a"
 data "CastEffect" "0340b957-f9eb-45bc-9c6f-d4def37f5249"
 data "TargetEffect" "7bc94f99-636c-40e9-a438-79394823a3be"
 data "DamageType" "Necrotic"
+
 new entry "Projectile_SorcerousBurst"
 type "SpellData"
 data "SpellType" "Projectile"
