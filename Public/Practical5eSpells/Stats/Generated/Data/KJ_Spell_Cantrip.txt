@@ -518,6 +518,12 @@ data "CastEffect" "27ae62db-1606-4e42-9bc9-aeb09dcc4f64"
 data "HitEffect" "154802bd-3dae-4bdc-9889-4addfdc0ca57"
 data "DamageType" "Thunder"
 
+new entry "Target_TrueStrike"
+type "SpellData"
+using "Target_TrueStrike"
+data "SpellType" "Target"
+data "SpellFlags" "HasSomaticComponent;IsSpell;HasHighGroundRangeExtension;IsHarmful"
+
 new entry "Shout_WordOfRadiance"
 type "SpellData"
 data "SpellType" "Shout"

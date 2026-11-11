@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="9" build="328" />
+  <region id="ActionResourceDefinitions">
+    <node id="root">
+      <children>
+        <node id="ActionResourceDefinition">
+                    <attribute id="Description" type="TranslatedString" handle="hc29a07degffdfg42e0gac62ga425accb8595" version="1" />
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd10061c5g987cg495agb549ga200834835c7" version="1" />
+                    <attribute id="IsSpellResource" type="bool" value="false" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="HealingSpiritCharges" />
+                    <attribute id="ReplenishType" type="FixedString" value="Never" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="4c1e12bf-8686-4200-8444-cd2210fa12c1" />
+                </node>
+      </children>
+    </node>
+  </region>
+</save>

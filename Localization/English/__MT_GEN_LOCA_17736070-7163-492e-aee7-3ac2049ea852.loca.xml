@@ -118,11 +118,16 @@
 	<content contentuid="h849006eeg0116g493eg9f5bg2400f447f9b1" version="1">Scroll of Tasha's Caustic Brew</content>
 	<content contentuid="h73278bbbg0de2g4c46g9aebg2fbdde05842c" version="1">Scroll of Aganazzar's Scorcher</content>
 	<content contentuid="he9fda933g2442g4ec3ga63ag0fed4ea0a4e1" version="1">Scroll of Borrowed Knowledge</content>
-	<content contentuid="he9fda933g2442g4ec3ga63ag0fed4ea0a4e1" version="1">Scroll of Dragon's Breath</content>
+	<content contentuid="hc6c6a469gb80fg438bg8358ga243a85313e4" version="1">Scroll of Dragon's Breath</content>
 	<content contentuid="h3e3a9a7dg9449g406dg8ef4g49c2f1b94d81" version="1">Scroll of Fortune's Favor</content>
 	<content contentuid="hf5b7b093gbad5g4a9eg8cfag9484e35c5933" version="1">Scroll of Kinetic Jaunt</content>
 	<content contentuid="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1">Scroll of Mind Spike</content>
 	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
 	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
+	<content contentuid="h69bd94e7g85afg43e8gbca8ge40853427a7f" version="1">Healing Spirit</content>
+	<content contentuid="h166ed9a2gfb0eg4d6ag97b4g300fed59128d" version="1">Summon an intangible spirit. Whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore [1] hit points to that creature (no action required).</content>
+	<content contentuid="hcd76b64ag9793g4d75g9808g48924d79b69e" version="1">The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice).</content>
+	<content contentuid="hd10061c5g987cg495agb549ga200834835c7" version="1">Heaing Charges</content>
+	<content contentuid="hc29a07degffdfg42e0gac62ga425accb8595" version="1">The number of times the Healing Spirit can still heal.</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>

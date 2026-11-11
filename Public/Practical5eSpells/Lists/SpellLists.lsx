@@ -6,7 +6,7 @@
       <children>
         <node id="SpellList">
 					<attribute id="Name" type="FixedString" value="KJ's Utility Spells" />
-					<attribute id="Spells" type="LSString" value="Shout_AbsorbElements;Zone_AganazzarsScorcher;Shout_BorrowedKnowledge;Throw_Catapult;Target_CauseFear;Projectile_ChaosBolt;Target_DragonsBreath_Container;Target_FortunesFavor;Target_Frostbite;Zone_FrostFingers;Target_GreenFlameBlade_Container;Shout_KineticJaunt;Target_LightningLure;Target_MindSliver;Target_MindSpike;Target_PrimalSavagery;Target_SappingSting;Projectile_SorcerousBurst;Projectile_StarryWisp;Shout_SwordBurst;Zone_TashasCausticBrew;Shout_Thunderclap;Teleportation_VortexWarp;Shout_WardingWind;Shout_WordOfRadiance;Shout_ZephyrStrike;" />
+					<attribute id="Spells" type="LSString" value="Shout_AbsorbElements;Zone_AganazzarsScorcher;Shout_BorrowedKnowledge;Throw_Catapult;Target_CauseFear;Projectile_ChaosBolt;Target_DragonsBreath_Container;Target_FortunesFavor;Target_Frostbite;Zone_FrostFingers;Target_GreenFlameBlade_Container;Target_HealingSpirit;Shout_KineticJaunt;Target_LightningLure;Target_MindSliver;Target_MindSpike;Target_PrimalSavagery;Target_SappingSting;Projectile_SorcerousBurst;Projectile_StarryWisp;Shout_SwordBurst;Zone_TashasCausticBrew;Shout_Thunderclap;Teleportation_VortexWarp;Shout_WardingWind;Shout_WordOfRadiance;Shout_ZephyrStrike;" />
 					<attribute id="UUID" type="guid" value="7bcd6334-8c30-4021-bbe2-59cbe564b943" />
 				</node>
         <node id="SpellList">

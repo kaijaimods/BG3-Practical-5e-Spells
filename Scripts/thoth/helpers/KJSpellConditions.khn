@@ -67,3 +67,12 @@ function IsRerollInteresting(value)
 	
     return ConditionResult(result)
 end
+
+function KJGetSummonerModifier()
+	entity = GetSummoner(context.Source)
+	result = GetModifier(entity.Wisdom)
+	if entity.Charisma > entity.Wisdom then
+		result = GetModifier(entity.Charisma)
+	end
+	return result
+end
