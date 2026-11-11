@@ -133,6 +133,7 @@
 	<content contentuid="h33be49ceg3a21g4206g9e86g5bbab2ee1a5d" version="1">Scroll of Ashardalon's Stride</content>
 	<content contentuid="h195e8b66g4e45g4a52gba13g91ecb6e3db7b" version="1">Scroll of Catnap</content>
 	<content contentuid="h09db820bg4025g4f12gaa33gdb8b5a0b2863" version="1">Scroll of Enemies Abound</content>
+	<content contentuid="h7d4e0a65g3fafg47b5g88acgae9e13e43b3b" version="1">Scroll of Erupting Earth</content>
 	<content contentuid="he34e7ac5g971dg47a7g807egc31ed78ad538" version="1">Scroll of Flame Arrows</content>
 	<content contentuid="hbdd5dd90g570ag4fb5gbea9g93e586f2c61d" version="1">Scroll of Intellect Fortress</content>
 	<content contentuid="h1b3694c8gaabdg4d99ga20eg7da093b283c0" version="1">Scroll of Life Transference</content>
@@ -208,5 +209,10 @@
 	<content contentuid="h8d0073dag1520g4625g97aage1227e3feeaf" version="1">Life Transference</content>
 	<content contentuid="hb6156ac4ga562g40e1gabc8g831a6f91ef95" version="1">You take [1], which can’t be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.</content>
 	<content contentuid="he1addedbg9088g4bccg9b90g576897c9b96c" version="1">Damage</content>
+	<content contentuid="h3807513dgf864g46d2ga0adg5c6296345e70" version="1">Aura of Vitality</content>
+	<content contentuid="h78d29e8dgf11eg464dg9de3g2425e2466511" version="1">You can use a bonus action to cause one creature within [1] to regain [2].</content>
+	<content contentuid="ha7e87458g35e5g4438gbeefgfbd1da4b721a" version="1">Cause one creature to regain [1].</content>
+	<content contentuid="hc37c2c07g2486g4f25g86ecge225860d994a" version="1">Erupting Earth</content>
+	<content contentuid="h54dda0f7g8264g408egb42eg445058124992" version="1">Deal damage to all creatures in a [1] radius, leaving behind difficult terrain.</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>

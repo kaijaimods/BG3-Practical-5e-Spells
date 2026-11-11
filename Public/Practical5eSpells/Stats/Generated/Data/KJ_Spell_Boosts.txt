@@ -361,6 +361,16 @@ data "OnApplyFunctors" "DealDamage(4d6, Fire, Magical);IF(Item()):ApplyStatus(BU
 data "TickType" "StartTurn"
 data "StatusPropertyFlags" "DisableOverhead;DisableCombatlog;DisablePortraitIndicator;NonExtendable"
 
+new entry "KJ_AURA_OF_RADIANCE"
+type "StatusData"
+data "StatusType" "BOOST"
+data "Icon" "Action_Paladin_HealingRadiance"
+data "DisplayName" "h3807513dgf864g46d2ga0adg5c6296345e70;1"
+data "Description" "h78d29e8dgf11eg464dg9de3g2425e2466511;1"
+data "DescriptionParams" "RegainHitPoints(2d6)"
+data "Boosts" "UnlockSpell(Target_AuraOfVitality_Heal)"
+data "StatusEffect" "2b1ca2c8-fa5e-48da-984b-5d733df6449d"
+
 new entry "KJ_BORROWED_KNOWLEDGE_CHARISMA"
 type "StatusData"
 data "StatusType" "BOOST"
