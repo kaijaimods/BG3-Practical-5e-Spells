@@ -54,6 +54,14 @@ function KJDoCNone()
 	return  ~(KJDoCAcid() | KJDoCCold() | KJDoCFire() | KJDoCForce() | KJDoCLightning() | KJDoCPoison() | KJDoCPsychic() | KJDoCThunder())
 end
 
+function KJGuardianOfNatureBeast()
+	return ConditionResult(context.HitDescription.AttackAbility == Ability.Strength)
+end
+
+function KJGuardianOfNatureTree()
+	return ConditionResult(context.HitDescription.AttackAbility == Ability.Dexterity) | ConditionResult(context.HitDescription.AttackAbility == Ability.Wisdom)
+end
+
 function KJHasDragonsBreath()
 	return ConditionResult(HasStatus('KJ_DRAGONSBREATH_DC',context.Target).Result,{ConditionError("CE_Status_SG_DragonsBreath_True")},{ConditionError("CE_Status_SG_DragonsBreath_True")})
 end
