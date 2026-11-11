@@ -47,6 +47,27 @@ data "DescriptionParams" "6d6"
 data "Properties" "IF(SpellDamageTypeIs(DamageType.Acid)):ApplyStatus(KJ_ABSORB_ELEMENTS_ACID_DAMAGE_6,100,2);IF(SpellDamageTypeIs(DamageType.Cold)):ApplyStatus(KJ_ABSORB_ELEMENTS_COLD_DAMAGE_6,100,2);IF(SpellDamageTypeIs(DamageType.Fire)):ApplyStatus(KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_6,100,2);IF(SpellDamageTypeIs(DamageType.Lightning)):ApplyStatus(KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_6,100,2);IF(SpellDamageTypeIs(DamageType.Thunder)):ApplyStatus(KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_6,100,2);IF(SpellDamageTypeIs(DamageType.Acid)):SetDamageResistance(Acid);IF(SpellDamageTypeIs(DamageType.Cold)):SetDamageResistance(Cold);IF(SpellDamageTypeIs(DamageType.Fire)):SetDamageResistance(Fire);IF(SpellDamageTypeIs(DamageType.Lightning)):SetDamageResistance(Lightning);IF(SpellDamageTypeIs(DamageType.Thunder)):SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET, ABSORB_ELEMENTS_ACTIVE,100,1)"
 data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:6"
 
+new entry "Interrupt_AbsorbElements_7"
+type "InterruptData"
+using Interrupt_AbsorbElements
+data "DescriptionParams" "7d6"
+data "Properties" "IF(SpellDamageTypeIs(DamageType.Acid)):ApplyStatus(KJ_ABSORB_ELEMENTS_ACID_DAMAGE_7,100,2);IF(SpellDamageTypeIs(DamageType.Cold)):ApplyStatus(KJ_ABSORB_ELEMENTS_COLD_DAMAGE_7,100,2);IF(SpellDamageTypeIs(DamageType.Fire)):ApplyStatus(KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_7,100,2);IF(SpellDamageTypeIs(DamageType.Lightning)):ApplyStatus(KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_7,100,2);IF(SpellDamageTypeIs(DamageType.Thunder)):ApplyStatus(KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_7,100,2);IF(SpellDamageTypeIs(DamageType.Acid)):SetDamageResistance(Acid);IF(SpellDamageTypeIs(DamageType.Cold)):SetDamageResistance(Cold);IF(SpellDamageTypeIs(DamageType.Fire)):SetDamageResistance(Fire);IF(SpellDamageTypeIs(DamageType.Lightning)):SetDamageResistance(Lightning);IF(SpellDamageTypeIs(DamageType.Thunder)):SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET, ABSORB_ELEMENTS_ACTIVE,100,1)"
+data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:7"
+
+new entry "Interrupt_AbsorbElements_8"
+type "InterruptData"
+using Interrupt_AbsorbElements
+data "DescriptionParams" "8d6"
+data "Properties" "IF(SpellDamageTypeIs(DamageType.Acid)):ApplyStatus(KJ_ABSORB_ELEMENTS_ACID_DAMAGE_8,100,2);IF(SpellDamageTypeIs(DamageType.Cold)):ApplyStatus(KJ_ABSORB_ELEMENTS_COLD_DAMAGE_8,100,2);IF(SpellDamageTypeIs(DamageType.Fire)):ApplyStatus(KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_8,100,2);IF(SpellDamageTypeIs(DamageType.Lightning)):ApplyStatus(KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_8,100,2);IF(SpellDamageTypeIs(DamageType.Thunder)):ApplyStatus(KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_8,100,2);IF(SpellDamageTypeIs(DamageType.Acid)):SetDamageResistance(Acid);IF(SpellDamageTypeIs(DamageType.Cold)):SetDamageResistance(Cold);IF(SpellDamageTypeIs(DamageType.Fire)):SetDamageResistance(Fire);IF(SpellDamageTypeIs(DamageType.Lightning)):SetDamageResistance(Lightning);IF(SpellDamageTypeIs(DamageType.Thunder)):SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET, ABSORB_ELEMENTS_ACTIVE,100,1)"
+data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:8"
+
+new entry "Interrupt_AbsorbElements_9"
+type "InterruptData"
+using Interrupt_AbsorbElements
+data "DescriptionParams" "9d6"
+data "Properties" "IF(SpellDamageTypeIs(DamageType.Acid)):ApplyStatus(KJ_ABSORB_ELEMENTS_ACID_DAMAGE_9,100,2);IF(SpellDamageTypeIs(DamageType.Cold)):ApplyStatus(KJ_ABSORB_ELEMENTS_COLD_DAMAGE_9,100,2);IF(SpellDamageTypeIs(DamageType.Fire)):ApplyStatus(KJ_ABSORB_ELEMENTS_FIRE_DAMAGE_9,100,2);IF(SpellDamageTypeIs(DamageType.Lightning)):ApplyStatus(KJ_ABSORB_ELEMENTS_LIGHTNING_DAMAGE_9,100,2);IF(SpellDamageTypeIs(DamageType.Thunder)):ApplyStatus(KJ_ABSORB_ELEMENTS_THUNDER_DAMAGE_9,100,2);IF(SpellDamageTypeIs(DamageType.Acid)):SetDamageResistance(Acid);IF(SpellDamageTypeIs(DamageType.Cold)):SetDamageResistance(Cold);IF(SpellDamageTypeIs(DamageType.Fire)):SetDamageResistance(Fire);IF(SpellDamageTypeIs(DamageType.Lightning)):SetDamageResistance(Lightning);IF(SpellDamageTypeIs(DamageType.Thunder)):SetDamageResistance(Thunder);ApplyStatus(OBSERVER_TARGET, ABSORB_ELEMENTS_ACTIVE,100,1)"
+data "Cost" "ReactionActionPoint:1;SpellSlotsGroup:1:1:9"
+
 new entry "KJ_Interrupt_FortunesFavor"
 type "InterruptData"
 data "DisplayName" "h81c760b2gd28eg43b1gb627gbd3467775c96;1"
