@@ -58,14 +58,26 @@ function KJHasDragonsBreath()
 	return ConditionResult(HasStatus('KJ_DRAGONSBREATH_DC',context.Target).Result,{ConditionError("CE_Status_SG_DragonsBreath_True")},{ConditionError("CE_Status_SG_DragonsBreath_True")})
 end
 
-function IsRerollInteresting(value)
+function IsMentalSaveInteresting(value)
     local value = value or 20
-    local rollSuccess = context.InterruptedRoll.Total >= context.InterruptedRoll.Difficulty
-    local bonus = context.InterruptedRoll.Total - context.InterruptedRoll.NaturalRoll
+    local rollInteresting = IsRerollInteresting(value)
 	
-    local result = not rollSuccess and ((context.InterruptedRoll.NaturalRoll < value) and (context.InterruptedRoll.Difficulty <= (value + bonus)))
+    local result = rollInteresting
 	
     return ConditionResult(result)
+end
+
+function IsRerollInteresting(value)
+    local value = value or 20
+    local rollSuccess = false
+	
+    if context.InterruptedRoll.RollCritical == RollCritical.None then
+        rollSuccess = context.InterruptedRoll.Total >= context.InterruptedRoll.Difficulty
+    else
+        rollSuccess = context.InterruptedRoll.RollCritical == RollCritical.Success
+    end
+	
+    return ConditionResult(not rollSuccess)
 end
 
 function KJGetSummonerModifier()

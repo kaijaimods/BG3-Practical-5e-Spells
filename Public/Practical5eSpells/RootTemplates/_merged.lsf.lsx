@@ -688,7 +688,7 @@
 					<attribute id="DisplayName" type="TranslatedString" handle="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="a8ad0e90-22b1-4bc7-be0a-c411d1a9006b" />
+					<attribute id="MapKey" type="FixedString" value="8eec90ed-3f8a-40b5-bc08-bc1d3b9ec9d7" />
 					<attribute id="Name" type="LSString" value="LOOT_SCROLL_MindSpike" />
 					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
 					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_MindSpike" />
@@ -717,6 +717,46 @@
 											<attribute id="Conditions" type="LSString" value="" />
 											<attribute id="Consume" type="bool" value="True" />
 											<attribute id="SpellId" type="FixedString" value="Target_MindSpike" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h8882d22fg385bg4a14gaf8eg3812da52662b" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="dea78ece-4639-4d2b-911c-0b6bbab9096a" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_SnillocsSnowballSwarm" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_SnillocsSnowballSwarm" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_SnillocsSnowballSwarm&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_SnillocsSnowballSwarm" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_SnillocsSnowballSwarm" />
 										</node>
 									</children>
 								</node>

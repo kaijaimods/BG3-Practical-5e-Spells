@@ -123,6 +123,7 @@
 	<content contentuid="hf5b7b093gbad5g4a9eg8cfag9484e35c5933" version="1">Scroll of Kinetic Jaunt</content>
 	<content contentuid="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1">Scroll of Mind Spike</content>
 	<content contentuid="h27d8dac6g3cc3g4a71g80edg96c4bdec628d" version="1">Scroll of Rime's Binding Ice</content>
+	<content contentuid="h8882d22fg385bg4a14gaf8eg3812da52662b" version="1">Scroll of Snilloc's Snowball Swarm</content>
 	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
 	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
 	<content contentuid="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1">Scroll of Wither and Bloom</content>
@@ -142,5 +143,9 @@
 	<content contentuid="h3bef2945g8164g4da0g9fddg9637fe13c1ba" version="1">Targets still take half damage and aren't hindered by ice.</content>
 	<content contentuid="h76a3e997g3f14g4f90gb5e7gb4da9f220154" version="1">Hindered by Ice</content>
 	<content contentuid="h18eceb30g9707g47dfg9df0g6e02c928eb93" version="1">Hindered by ice and cannot move until helped.</content>
+	<content contentuid="hd7cf9114g16a7g48c3g96d6gad3747864af7" version="1">Snilloc's Snowball Swarm</content>
+	<content contentuid="h42d8faf2gd056g4882g823dg753c70a32a0d" version="1">A flurry of magic snowballs erupts from a point you choose within a 5-foot-radius area.</content>
+	<content contentuid="h27e1002dg9519g47a3ga910g48d6d80f6eb1" version="1">Mental Barrier</content>
+	<content contentuid="h9b8219e0gb9feg47e4g8f33gacf90ac1aa6e" version="1">You protect your mind with a wall of looping, repetitive thought. Until the start of your next turn, you have advantage on Intelligence, Wisdom, and Charisma saving throws, and you have resistance to psychic damage.</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>
