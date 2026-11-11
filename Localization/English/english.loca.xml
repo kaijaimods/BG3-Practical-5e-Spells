@@ -27,6 +27,781 @@
 	<content contentuid="h315659c0g61fdg4b06ga651g5f0e938a6f29" version="1">Word of Radiance</content>
 	<content contentuid="hf2bbde95g4533g48c5gbbceg6138f4e274ce" version="1">You utter a divine word, and burning radiance erupts from you.</content>
 	<content contentuid="hbc99f570gad06g4e7fgba50g9e7726ada7b7" version="1">Catapult</content>
+	<content contentuid="h415d5871gcbe4g42fcgb2f9gd246f5db2b7e" version="1">Catapult one object weighing 1 to [1] within range that isn’t being worn or carried.</content>
+	<content contentuid="h0e38a6d4g430cg48c5ga04cgb381150cc10a" version="1">Deals an additional [1] damage and can launch an additional [2].</content>
+	<content contentuid="h2a98ddadg1280g4d71g941dg54d2f1b58d9c" version="1">Too heavy to Catapult.</content>
+	<content contentuid="hb53f2e69g7230g4dddg9ef7gc55324ebcaf6" version="1">Too light to Catapult.</content>
+	<content contentuid="h28a1ffa3gde86g4a0bg82beg01480eb67d08" version="1">Cause Fear</content>
+	<content contentuid="h7030472fgf419g42eega4d5g8745f67b3f06" version="1">Targets become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt;.</content>
+	<content contentuid="h62207b14g0b35g4b22g86e4g3334bb3a0f74" version="1">Frost Fingers</content>
+	<content contentuid="hb18c988agcccfg48f6gb61bg50322e5d72fb" version="1">The cold freezes nonmagical liquids in the area that aren't being worn or carried.</content>
+	<content contentuid="h4138309bg462dg4a1egabe2gcaa11a217667" version="1">Tashas Caustic Brew</content>
+	<content contentuid="h2f584dcbgdde5g4000g94acgd86730f02b20" version="1">A creature covered in the acid takes [1] acid damage at the start of each of its turns.</content>
+	<content contentuid="h1a689167g07f3g4862g9e74g7e1bf287af0e" version="1">A creature can remove the acid off itself or another creature with the </content>
+	<content contentuid="h5d366587gca88g43f9gbf23gbdbe984b0611" version="1">Acid Covered</content>
+	<content contentuid="h5cd3d135gbde2g44f4ga1d0g3418a71005d8" version="1">Remove Acid</content>
+	<content contentuid="h15102684g3d76g4dc4gadb7gfd2620fad069" version="1">Scrape or wash off caustic acid</content>
+	<content contentuid="haa32c808gfc4bg423fgadfdg444222bd7611" version="1">Zephyr Strike</content>
+	<content contentuid="hdecfcdf2g834ag490eg9e69ga4e341d2eadf" version="1">Your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hcf1940d1g937cg46bagb3c9g8f0723f98681" version="1">When activated, your next attack has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deals an additional [1] and grants additional movement.</content>
+	<content contentuid="he3aeeb36gd84eg4bdfg9360g666064fe75ed" version="1">Activate Zephyr Strike</content>
+	<content contentuid="h0bb7d653gd011g44d8ga796gf9c4976a1731" version="1">Your next attack has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deals an additional [1].</content>
+	<content contentuid="h13d5b11bg365ag448fgbb25g96f5ba942e82" version="1">You can move an additional [1] after your next attack this round.</content>
+	<content contentuid="hc54fb731g8553g4f2fga083gef34c05ea687" version="1">Take half damage from the next elemental attack targetting you, and deal an additional [1] of that element type on your next attack.</content>
+	<content contentuid="h0c384294gd48eg4d0fg9097g6866146a0bac" version="1">Chaos Bolt</content>
+	<content contentuid="hc8ae5405g622bg455bga389g658693382017" version="1">Deals a random damage type.</content>
+	<content contentuid="h8e91f39fgf2deg4fa6g9ba3g32974fd11463" version="1">Can randomly leap to additional targets.</content>
+	<content contentuid="h81c760b2gd28eg43b1gb627gbd3467775c96" version="1">Fortune's Favor</content>
+	<content contentuid="ha424e2acge8deg4221ga256g022dbfe3f53b" version="1">Give one creature the ability to reroll one &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h87713d18g4a03g417bg8298g983434a96a12" version="1">You can reroll one &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h721604eagfbb7g42c2g9881g4c55a9428616" version="1">Dragon's Breath</content>
+	<content contentuid="h7603bf1dg09ffg4261gb204g52c10f80dcd3" version="1">Dragon's Breath: Acid</content>
+	<content contentuid="h0dd8524fgd0c5g4d32gadeag9295df219b19" version="1">Dragon's Breath: Cold</content>
+	<content contentuid="hab7d93d5g56afg41d1g831egbe1f2fd69850" version="1">Dragon's Breath: Fire</content>
+	<content contentuid="h5bdb4dd2ge504g4e66g835fg77ffe88a16a7" version="1">Dragon's Breath: Lightning</content>
+	<content contentuid="ha8b2b2f9ge523g467bg8a28g883ca04d9846" version="1">Dragon's Breath: Poison</content>
+	<content contentuid="h645dce30g483eg4c04g8a6fg57db7f7efc1a" version="1">Upcast Levels</content>
+	<content contentuid="hee8583cdg246bg4129ga610gc442f9773869" version="1">Give one creature the power to spew magical energy from its mouth.</content>
+	<content contentuid="ha8af91e2g6efbg492cgbf95g63cb674d1302" version="1">Choose acid, cold, fire, lightning, or poison.</content>
+	<content contentuid="h0dde5d0fg2584g40c0gb157g449f1d4730f2" version="1">Give one creature the power to spew magical Acid from its mouth.</content>
+	<content contentuid="h9f58e498gc759g4192gbf48g1cea7d17996b" version="1">Give one creature the power to spew magical Cold from its mouth.</content>
+	<content contentuid="h5e79eb83gf98eg4d60gaae1g5e20edbb1ea6" version="1">Give one creature the power to spew magical Fire from its mouth.</content>
+	<content contentuid="h19331858g063cg4fd0g8b8fgd6480481c133" version="1">Give one creature the power to spew magical Lightning from its mouth.</content>
+	<content contentuid="h353a5aa2g2984g4650g94e5g6c7e3dc11bbc" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="ha64077b9g2c88g47a3g8c46gf5e6f04af0d3" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="h3f0d85d3gf9c7g4cb5g8e03g23a094079d18" version="1">You have the power to spew magical energy from your mouth.</content>
+	<content contentuid="h78be6f00gd1edg40e4gb2fcgdef516f41318" version="1">Target cannot already have Dragon's Breath.</content>
+	<content contentuid="h444ecb09g7b17g45aeg81d6g4c06f00c48b9" version="1">Kinetic Jaunt</content>
+	<content contentuid="h6976f26eg62ffg4c6ag992agae7f47ed406e" version="1">You have increased mobility and your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hbbe773fageaeag4e5ag8754ge6576309cc42" version="1">You will take [1] if you end your turn inside another creature.</content>
+	<content contentuid="h1dbf8a37ga64fg45e4gb24cg009c28b54c7c" version="1">Aganazzar's Scorcher</content>
+	<content contentuid="h214998d4geea3g4ea8gbc94g41e3e76befae" version="1">Project a line of fire [1] long</content>
+	<content contentuid="hb3c2bef7g600bg4ef4g8a4dg43d5b496791c" version="1">Borrowed Knowledge</content>
+	<content contentuid="h66b1be7cg96aeg456eg8023g59a82e39f8c8" version="1">Only one Borrowed Knowledge effect can be active at a time.</content>
+	<content contentuid="hc46ffe8eg1ddag4cf9g80e2gc1fd039fc193" version="1">Borrowed Knowledge: Charisma</content>
+	<content contentuid="h7bdf6617gf2c1g4113gaaf8g19ed2c4715ef" version="1">Borrowed Knowledge: Dexterity</content>
+	<content contentuid="haf3e27b6g537bg4bf9gbadag3531a6d2d700" version="1">Borrowed Knowledge: Intelligence</content>
+	<content contentuid="he2a237dfgc9edg4c45g982dgb2008454be15" version="1">Borrowed Knowledge: Strength</content>
+	<content contentuid="hc8ceb8f2gbf52g446cg8367ga1efc84f0edd" version="1">Borrowed Knowledge: Wisdom</content>
+	<content contentuid="h789bf0f8gd17dg49e5g95e2ge51cf24df426" version="1">Starry Wisp</content>
+	<content contentuid="h538589b1g02e9g4e4dg9195g3e37d21ec3ec" version="1">You launch a mote of light at one creature or object within range.</content>
+	<content contentuid="h616d1384g0fdbg4311g93aeg71372bd30ed3" version="1">You emit light and can't become invisible.</content>
+	<content contentuid="hd1002aafg26b3g42ebga2deg0c5c50f60ad4" version="1">Sorcerous Burst</content>
+	<content contentuid="haa9234efgf449g4b50g8b8dgc3679d250a7f" version="1">Sorcerous Burst: Acid</content>
+	<content contentuid="h9dcb8b8eg0d58g45b1g8f50g9f30c45503c4" version="1">Sorcerous Burst: Cold</content>
+	<content contentuid="h10dbcad6g64d1g43f9gbc17ga5e309cd9eb0" version="1">Sorcerous Burst: Fire</content>
+	<content contentuid="h1909aaeeg708cg43daga099g7ab597d5c504" version="1">Sorcerous Burst: Lightning</content>
+	<content contentuid="h340ee5d0g408fg4c56ga56eg9e7619a82f68" version="1">Sorcerous Burst: Poison</content>
+	<content contentuid="h4486a8beg314fg4896g9cceg28adbb02b0c9" version="1">Sorcerous Burst: Psychic</content>
+	<content contentuid="h613df416g65e4g452eg9b6cgec34138c9827" version="1">Sorcerous Burst: Thunder</content>
+	<content contentuid="hdf5554deg95a5g4ad1g9041g9bdf220f5945" version="1">You cast volatile sorcerous energy at one creature or object within range.</content>
+	<content contentuid="h9aa0af3ag7217g43dbg9558gf44f4bb15ac2" version="1">You choose the type of damage: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.</content>
+	<content contentuid="h5ac0095cg6a25g48c0gae36g47ed2aeabb8e" version="1">Exploding Dice</content>
+	<content contentuid="h99790d20g3048g4794gbbc2g79021761cce3" version="1">Mind Spiked</content>
+	<content contentuid="ha86eef28ge4b6g4940g9a1bgad0be15dd196" version="1">You feel like someone is watching you.</content>
+	<content contentuid="h562ecd57g6b37g489agbd7dg8c7743b81f65" version="1">Vortex Warp</content>
+	<content contentuid="h1616e2bbg9c97g450cg9a30g0c3fc02929ad" version="1">Teleport target creature.</content>
+	<content contentuid="h911647e5g27a3g4f47g9d60g090be45fefb7" version="1">The range increases by [1] per level.</content>
+	<content contentuid="ha1f1d0ecg762bg4268g8452g2189911eba4a" version="1">Warding Wind</content>
+	<content contentuid="h06fbe7a8ga95ag47fbg8e2aged56af846a73" version="1">A strong wind blows around you in a [1] radius and moves with you, remaining centered on you.</content>
+	<content contentuid="hd493cae3g4f0eg400fg8763gbe425c585872" version="1">The wind extinguishes small fires, disperses clouds, slows creatures, and disrupts ranged weapon attacks.</content>
+	<content contentuid="h2ea368aegd61cg497dgb114g52de5a67da71" version="1">Wind Warded</content>
+	<content contentuid="hd6e391f8g99c6g4a91g9ef0g657b2d2ba083" version="1">Affected by a strong wind.</content>
+	<content contentuid="h8ae81691gf377g48f9g9836g324838bfd3dc" version="1">Scroll of Frostbite</content>
+	<content contentuid="h3ab48265gbfc3g4675ga6a0gbc5f03d026ee" version="1">Scroll of Green-Flame Blade</content>
+	<content contentuid="h4b9ef50fg1745g46ecg9b01gede356c32d7f" version="1">Scroll of Lightning Lure</content>
+	<content contentuid="h271b5f11g15a5g40e1gaf78g28e51d319592" version="1">Scroll of Mind Sliver</content>
+	<content contentuid="h50e2a0fag7496g4ea1gaf2cg79d642d7bb16" version="1">Scroll of Sapping Sting</content>
+	<content contentuid="h5162cc2dgb052g4db3gab96g4bba59ba5f1b" version="1">Scroll of Sword Burst</content>
+	<content contentuid="h4ea63f53g76e4g4b9bgab84g3811a7246652" version="1">Scroll of Thunderclap</content>
+	<content contentuid="h3131f345gc56eg40d2g9411ge33fa21766ca" version="1">Scroll of Absorb Elements</content>
+	<content contentuid="h0d43483cgf216g4d2cg8c66ga89883c00404" version="1">Scroll of Catapult</content>
+	<content contentuid="h2c45fad7gc842g42bbg8997g982d2c074152" version="1">Scroll of Cause Fear</content>
+	<content contentuid="h0959b889g2fffg4d7egb433g85d7c1437599" version="1">Scroll of Frost Fingers</content>
+	<content contentuid="h849006eeg0116g493eg9f5bg2400f447f9b1" version="1">Scroll of Tasha's Caustic Brew</content>
+	<content contentuid="h73278bbbg0de2g4c46g9aebg2fbdde05842c" version="1">Scroll of Aganazzar's Scorcher</content>
+	<content contentuid="he9fda933g2442g4ec3ga63ag0fed4ea0a4e1" version="1">Scroll of Borrowed Knowledge</content>
+	<content contentuid="hc6c6a469gb80fg438bg8358ga243a85313e4" version="1">Scroll of Dragon's Breath</content>
+	<content contentuid="h3e3a9a7dg9449g406dg8ef4g49c2f1b94d81" version="1">Scroll of Fortune's Favor</content>
+	<content contentuid="hf5b7b093gbad5g4a9eg8cfag9484e35c5933" version="1">Scroll of Kinetic Jaunt</content>
+	<content contentuid="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1">Scroll of Mind Spike</content>
+	<content contentuid="h27d8dac6g3cc3g4a71g80edg96c4bdec628d" version="1">Scroll of Rime's Binding Ice</content>
+	<content contentuid="h8882d22fg385bg4a14gaf8eg3812da52662b" version="1">Scroll of Snilloc's Snowball Swarm</content>
+	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
+	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
+	<content contentuid="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1">Scroll of Wither and Bloom</content>
+	<content contentuid="h33be49ceg3a21g4206g9e86g5bbab2ee1a5d" version="1">Scroll of Ashardalon's Stride</content>
+	<content contentuid="h195e8b66g4e45g4a52gba13g91ecb6e3db7b" version="1">Scroll of Catnap</content>
+	<content contentuid="h09db820bg4025g4f12gaa33gdb8b5a0b2863" version="1">Scroll of Enemies Abound</content>
+	<content contentuid="h7d4e0a65g3fafg47b5g88acgae9e13e43b3b" version="1">Scroll of Erupting Earth</content>
+	<content contentuid="he34e7ac5g971dg47a7g807egc31ed78ad538" version="1">Scroll of Flame Arrows</content>
+	<content contentuid="hbdd5dd90g570ag4fb5gbea9g93e586f2c61d" version="1">Scroll of Intellect Fortress</content>
+	<content contentuid="h1b3694c8gaabdg4d99ga20eg7da093b283c0" version="1">Scroll of Life Transference</content>
+	<content contentuid="h3d7927a0g18d4g49ebg82c1ga9433cb81091" version="1">Scroll of Melf's Minute Meteors</content>
+	<content contentuid="h2a3bd909gd0a4g48d0gb276g9c2593c0edc8" version="1">Scroll of Spirit Shroud</content>
+	<content contentuid="h78097c51gb69dg4897gac75g60168caacd87" version="1">Scroll of Thunder Step</content>
+	<content contentuid="h8993f426ga5c0g4598g8b72gbbfd49fb1317" version="1">Scroll of Elemental Bane</content>
+	<content contentuid="h1d14258age7d8g4498gb311g03e5f3a95b92" version="1">Scroll of Gravity Sinkhole</content>
+	<content contentuid="h6bd4d372gbbd4g492agb8d8ge4b3cef529cc" version="1">Scroll of Raulothim's Psychic Lance</content>
+	<content contentuid="h24769c10g3c9fg4217ga1a9g0370c1dabfd5" version="1">Scroll of Storm Sphere</content>
+	<content contentuid="he4e40923gfeabg4131g9f97g8319e73204e7" version="1">Scroll of Vitriolic Sphere</content>
+	<content contentuid="h69bd94e7g85afg43e8gbca8ge40853427a7f" version="1">Healing Spirit</content>
+	<content contentuid="h166ed9a2gfb0eg4d6ag97b4g300fed59128d" version="1">Summon an intangible spirit. Whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore [1] hit points to that creature (no action required).</content>
+	<content contentuid="hcd76b64ag9793g4d75g9808g48924d79b69e" version="1">The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice).</content>
+	<content contentuid="hd10061c5g987cg495agb549ga200834835c7" version="1">Heaing Charges</content>
+	<content contentuid="hc29a07degffdfg42e0gac62ga425accb8595" version="1">The number of times the Healing Spirit can still heal.</content>
+	<content contentuid="hae89aee7g89b5g4396g8d7bg32af99698f90" version="1">Wither and Bloom</content>
+	<content contentuid="h9c29c6c2g4070g4f7cg9749gddb988cb6546" version="1">Damage each enemy creature in a [1] radius.</content>
+	<content contentuid="hbe2c51e7g5f35g4a95g9eadg6983215b1e75" version="1">You can choose one creature in the area to heal [1].</content>
+	<content contentuid="hab768585g76eag40f1gbf90g6cd6e69b6322" version="1">Deals an additional [1] and heals an additional [2] per level.</content>
+	<content contentuid="ha328a1e6g3a55g4ffcgb8cfg98bf1f15d27a" version="1">Bloom</content>
+	<content contentuid="h96c7b17bgf8beg492fgb51bgd7708222cb5f" version="1">Heal target creature that was within the effect of your Wither and Bloom.</content>
+	<content contentuid="h507108ffg5593g44bfg896egfe33f1bbd3cc" version="1">Rime's Binding Ice</content>
+	<content contentuid="hd5b8a963gdb63g4370g8d99gb143685ba49c" version="1">Targets are hindered by ice formations, unable to move for 1 minute or until another creature helps it.</content>
+	<content contentuid="h3bef2945g8164g4da0g9fddg9637fe13c1ba" version="1">Targets still take half damage and aren't hindered by ice.</content>
+	<content contentuid="h76a3e997g3f14g4f90gb5e7gb4da9f220154" version="1">Hindered by Ice</content>
+	<content contentuid="h18eceb30g9707g47dfg9df0g6e02c928eb93" version="1">Hindered by ice and cannot move until helped.</content>
+	<content contentuid="hd7cf9114g16a7g48c3g96d6gad3747864af7" version="1">Snilloc's Snowball Swarm</content>
+	<content contentuid="h42d8faf2gd056g4882g823dg753c70a32a0d" version="1">A flurry of magic snowballs erupts from a point you choose within a 5-foot-radius area.</content>
+	<content contentuid="h27e1002dg9519g47a3ga910g48d6d80f6eb1" version="1">Mental Barrier</content>
+	<content contentuid="h9b8219e0gb9feg47e4g8f33gacf90ac1aa6e" version="1">You protect your mind with a wall of looping, repetitive thought. Until the start of your next turn, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and you have resistance to psychic damage.</content>
+	<content contentuid="h3c9e0dc4g7af5g4a1dg911egd633ff31087a" version="1">Tidal Wave</content>
+	<content contentuid="h94336bfegf343g4e87g8cd8gc9b3566c8a5c" version="1">You conjure up a wave of water that crashes down on an area within range.</content>
+	<content contentuid="habb4207cgae98g4bb3g899egf8f4c94d378f" version="1">Thunder Step</content>
+	<content contentuid="h86c77804g3acbg44d5gae14gb5d911a0928e" version="1">You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, damaging each creature within [1] of the space you left.</content>
+	<content contentuid="ha3138095g07aag4b22g89dbgf6117f9d33a9" version="1">You can bring one extra creature with you.</content>
+	<content contentuid="h4d1f6b51g3c8ag4319gaa19g6995b38728cc" version="1">Spirit Shroud</content>
+	<content contentuid="h2761fed9g707bg4f23g9a2dged9e28913d21" version="1">Spirit Shroud: Cold</content>
+	<content contentuid="h221265aag8ec6g4c57g8a63g024e48e43679" version="1">Spirit Shroud: Necrotic</content>
+	<content contentuid="h19aad7cfg752bg44acg9d3fg85d3ab26619c" version="1">Spirit Shroud: Radiant</content>
+	<content contentuid="h0e6b2e9cgd5a9g4a79g8754gbdb7ec17cd4c" version="1">Any attack you make deals an extra [1] when you hit a creature within [2] of you. This damage is radiant, necrotic, or cold. Any creature that takes this damage can’t regain hit points until the start of your next turn.</content>
+	<content contentuid="hd0c6e4fbgd4f0g4391gad57g9e7970113d63" version="1">Enemies that starts their turn within [1] of you has its speed reduced by [1] until the start of your next turn.</content>
+	<content contentuid="h2e5f6eb7g1492g42afga82bga99f2e8af62e" version="1">Spririt Shrouded</content>
+	<content contentuid="hdf0f815fgcb4ag4ad8g8240gcc4baf8fd85e" version="1">Spirits are hindering your movement. Your speed is reduced by [1].</content>
+	<content contentuid="h44446647g1343g443fga403gef3cb85d530a" version="1">Spirits are preventing you from healing.</content>
+	<content contentuid="h7f24232dg7c3dg40ecg9920g8dad33bca312" version="1">Motivational Speech</content>
+	<content contentuid="h3d829823g712bg4245g980bg8459c62803a4" version="1">Each affected creature gains [1] and has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If an affected creature is hit by an attack, it has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; it makes.</content>
+	<content contentuid="h9ae7a2bbgfeacg4436g9d40g747b1dc31950" version="1">Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.</content>
+	<content contentuid="h02f0167fgb6e5g40b0g91afg78fe4d7efecf" version="1">You gains [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If you are hit by an attack, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; you make.</content>
+	<content contentuid="h8d0310cdg80a0g465cga90ag1699ffe2e911" version="1">When you lose the temporary hit points granted by this spell, the spell ends.</content>
+	<content contentuid="he031181egb365g4ea9g8088ge1a9e697cc6a" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="h5f9e5c25gb840g4f86g8854gc577246d8752" version="1">Melf's Minute Meteors</content>
+	<content contentuid="h7e523935g1a10g4a90gb131gf3cd3d8453ce" version="1">You create [1] tiny meteors in your space. When you cast the spell — and as a </content>
+	<content contentuid="h0778a11ag8389g49c9g8e4agdf53dee2cdc1" version="1">Minute Meteors are floating around you.</content>
+	<content contentuid="hc0c5d48dgd010g4372g8e02ga7301c72da38" version="1">Launch Minute Meteors</content>
+	<content contentuid="h607a8031g5718g4284g8f5bgda88a8c69098" version="1">Launch [1] meteors at target location, dealing [2] to each creature within [3] of the impact.</content>
+	<content contentuid="hd7a1afcag9994g419bgad81gd4c79b71ad98" version="1">Minute Meteor</content>
+	<content contentuid="h929ed0f6ge944g4583ga8b9gbb79c6eb7b0f" version="1">The number of remaining meteors.</content>
+	<content contentuid="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1">The number of meteors created increases by 2 per level.</content>
+	<content contentuid="h401dd168g5cabg466ag9b75g66f4027a6d3e" version="1">Ashardalon's Stride</content>
+	<content contentuid="h3efa844ag9596g4110ga3b0g2559036cb447" version="1">Your speed increases by [1] and moving doesn’t provoke opportunity attacks. Nearby creatures and objects that aren’t being worn or carried, it take [2] from your trail of heat.</content>
+	<content contentuid="hd6030890gc03dg4607gb4e1g1ecc496cec67" version="1">Your speed is increased by [1] and this spell deals an additional [2] per level.</content>
+	<content contentuid="h6c12a817gcc17g41dcg98bagbb8ccc2d6bff" version="1">Will ignite surfaces.</content>
+	<content contentuid="h54e8a938g2f48g4d68g8364gdbd7a09f1331" version="1">Catnap</content>
+	<content contentuid="hf112f970g04a7g43b7g8b9agfea697e4a1b2" version="1">Up to 3 target gains the benefit of a short rest and can’t be affected by this spell again until they finish a long rest.</content>
+	<content contentuid="hbad37b32g6225g4fa6ga5cegb0e47701f100" version="1">Enemies Abound</content>
+	<content contentuid="h13373e2fgfdd4g4b55gb513g6f3d386c41ae" version="1">Target becomes hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
+	<content contentuid="hafb2e3bag2a97g4856ga57bg86b68b24252e" version="1">Hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
+	<content contentuid="h36244133gb49bg4da8gbb03g4d988f9c38a9" version="1">Flame Arrows</content>
+	<content contentuid="h1f11c84ag9ec2g4576g8b0cg92996c01989e" version="1">Enchant [1] arrows to deal an additional [2].</content>
+	<content contentuid="h21523c95ged21g46f5ga891gfadb3de8fbec" version="1">Your arrows are enchanted to deal an additional .</content>
+	<content contentuid="h7ee77f93g93b2g445cga950g4dded0aded81" version="1">Flame Arrow</content>
+	<content contentuid="h10d3027bg3dcbg46cdga37dgb07ee2f8ca88" version="1">The number of remaining flame arrows.</content>
+	<content contentuid="h4fbc169dgdff6g41aag98c6g9c24cf6c713b" version="1">The number of arrows enchanted increases by 2 per level.</content>
+	<content contentuid="h9b4b4c49g5bf7g48a7ga6fcg2165762f9e77" version="1">Intellect Fortress</content>
+	<content contentuid="h1230f299ge56ag4c24g9c4bgcd0430edc454" version="1">Target creature has resistance to psychic damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="hec85243eg0557g49eag906cgff6c7d490e04" version="1">Resistance psychic damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h8d0073dag1520g4625g97aage1227e3feeaf" version="1">Life Transference</content>
+	<content contentuid="hb6156ac4ga562g40e1gabc8g831a6f91ef95" version="1">You take [1], which can’t be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.</content>
+	<content contentuid="he1addedbg9088g4bccg9b90g576897c9b96c" version="1">Damage</content>
+	<content contentuid="h3807513dgf864g46d2ga0adg5c6296345e70" version="1">Aura of Vitality</content>
+	<content contentuid="h78d29e8dgf11eg464dg9de3g2425e2466511" version="1">You can use a </content>
+	<content contentuid="ha7e87458g35e5g4438gbeefgfbd1da4b721a" version="1">Cause one creature to regain [1].</content>
+	<content contentuid="hc37c2c07g2486g4f25g86ecge225860d994a" version="1">Erupting Earth</content>
+	<content contentuid="h54dda0f7g8264g408egb42eg445058124992" version="1">Deal damage to all creatures in a [1] radius, leaving behind &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+	<content contentuid="h92add63bg350ag4f94ga553ge42fd1638aa7" version="1">Elemental Bane</content>
+	<content contentuid="ha9c2fef3gf15dg42e9g8f73g6c2140c10aa1" version="1">Elemental Bane: Acid</content>
+	<content contentuid="hf2829c2cgc627g4be8g8e11g93d79c923222" version="1">Elemental Bane: Cold</content>
+	<content contentuid="hd384c7fbg7e22g4a86ga23eg8ea129145890" version="1">Elemental Bane: Fire</content>
+	<content contentuid="h6f0cb0e5gbc3ag4e17ga649gf04c3e5a7406" version="1">Elemental Bane: Lightning</content>
+	<content contentuid="h5f645ffbg23a4g420bg9bedg70e8ae3a82e5" version="1">Elemental Bane: Thunder</content>
+	<content contentuid="h58e695beg0756g446cgaa4eg0834df30502f" version="1">Choose one of the following damage types: acid, cold, fire, lightning, or thunder.</content>
+	<content contentuid="h4df54721gea49g4a7egbccfgdcf9737f4c6c" version="1">The target loses any resistance to the chosen damage type, and the first time each turn the affected target takes that type of damage, the target takes an extra [1].</content>
+	<content contentuid="hc1f65da1g4629g4a17gb34dgce7bbced0ce4" version="1">The target loses any resistance to Acid damage, and the first time each turn the affected target takes Acid damage, the target takes an extra [1].</content>
+	<content contentuid="h6c0333e3ge623g4b07gac64g4bb4c3d912e1" version="1">The target loses any resistance to Cold damage, and the first time each turn the affected target takes Cold damage, the target takes an extra [1].</content>
+	<content contentuid="h08bc6979g47bag42c1gbb44g9bb7ca8cf267" version="1">The target loses any resistance to Fire damage, and the first time each turn the affected target takes Fire damage, the target takes an extra [1].</content>
+	<content contentuid="hc5a66efbg1460g4e83gbb9ag8bc206a43261" version="1">The target loses any resistance to Lightning damage, and the first time each turn the affected target takes Lightning damage, the target takes an extra [1].</content>
+	<content contentuid="hffdd43b5g2829g4253g8fb6g0e751e99610b" version="1">The target loses any resistance to Thunder damage, and the first time each turn the affected target takes Thunder damage, the target takes an extra [1].</content>
+	<content contentuid="h496bffb8g4d4dg4212gbad9gb8fda3cbf4b9" version="1">Gravity Sinkhole</content>
+	<content contentuid="hffe56545gd31dg4e39g81f1g2e727064eedf" version="1">Create a [1] radius sphere of crushing force that pulls creatures towards its center.</content>
+	<content contentuid="h4299b8f3g533eg493dg92f2gc33d46d3c8b4" version="1">Guardian of Nature</content>
+	<content contentuid="hb67ec43ag6f0cg4aaeg9d92g328f4bc60772" version="1">Guardian of Nature: Primal Beast</content>
+	<content contentuid="h9ac2112dg42c4g4fcdg940egefcb5f5fd8ed" version="1">Guardian of Nature: Great Tree</content>
+	<content contentuid="h9b2e7e98g32a0g4a55g90e7g0c00b875f816" version="1">A nature spirit answers your call and transforms you into a powerful guardian, granting several benefits.</content>
+	<content contentuid="hdc1aa648geef3g450bg8632g05f26efca1f9" version="1">You choose to assume the form of a Primal Beast or a Giant Tree.</content>
+	<content contentuid="h96d819fcg90c8g480dga796g5db1c7b9f7ea" version="1">Increases your movement speed by [1], grants darkvision, grants &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on strength-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and adds [2] to melee attacks.</content>
+	<content contentuid="h67541404g2550g48b9g9496g2f87adf91115" version="1">Grants [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;, grants &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, grants &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and on dexterity- and wisdom-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and creates d&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; for enemies within [2].</content>
+	<content contentuid="hd9063243g7345g407fga660gf9035c14d4bb" version="1">Raulothim's Psychic Lance</content>
+	<content contentuid="h946b50b9g3389g4217g8038gbeb95cd35077" version="1">On a failed save, the target is &lt;LSTag Type="Status" Tooltip="KJ_PSYCHIC_LANCE_INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="h9f79fb89g8059g49c4gb1b2g01fc52c8d213" version="1">Incapacitated</content>
+	<content contentuid="h29c3339fg19fag42daga9aegc6433fd7afbe" version="1">Cannot take actions or reactions.</content>
+	<content contentuid="hc76c5739g8bddg4c4agb4begcd9899f855ea" version="1">Shadow of Moil</content>
+	<content contentuid="h031ec8c3g5bd8g4bc5gaed9gff1f284a7573" version="1">You gain resistance to radiant damage. In addition, whenever a creature within [1] of you hits you with an attack, the shadows lash out at that creature, dealing [2].</content>
+	<content contentuid="h5a196223ga368g4a31g8e76g0afe74234247" version="1">Storm Sphere</content>
+	<content contentuid="h29b76663g2d1bg4889gad95g71e9b0f23809" version="1">Storm Sphere: Lightning</content>
+	<content contentuid="h8a3bda42g28c9g446cg9519g5860e2969ec3" version="1">A [1] radius storm rages, counting as &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and dealing [2] to creatures that start their turn within it.</content>
+	<content contentuid="h4f00e26fgb8fdg4e72gb813g6b650465fe8e" version="1">You can use a </content>
+	<content contentuid="h6f03bf39g2102g44ddg82d9gd50cd38b0db1" version="1">Call down lighting and strike a creature within [1] of the storm for [2].</content>
+	<content contentuid="h5d8b4fb3g1380g4cc1gb546g77426a124afd" version="1">Take [1] if you start your turn in the storm.</content>
+	<content contentuid="h739f85eege2edg4364g9bcfg93b9c0c3a716" version="1">Cordon of Arrows</content>
+	<content contentuid="ha989c873g5bb3g4bccga477g98e019470608" version="1">Arrows</content>
+	<content contentuid="h0661cc46ga510g4eb1ga24fg9828ce1de25e" version="1">Number of Arrows left for Cordon of Arrows</content>
+	<content contentuid="h2a4fafd4g3497g4935ga954g0fc531513aad" version="1">Vitriolic Sphere</content>
+	<content contentuid="h53241f95g08afg462cg94ffg8c530718f98a" version="1">You point at a place within range, and acid streaks there and explodes in a [1] radius.</content>
+	<content contentuid="h8166bd5eg960bg49e0gbad6g45fdebc81c84" version="1">A creature covered in the acid takes [1] immediately and [2] at the end of its next turn.</content>
+	<content contentuid="h6155bfb4g5417g44d0g9b15ge1013dc25aa9" version="1">Circle of Power</content>
+	<content contentuid="h79cf8bcfg3fafg48bdga5ecg0c5ff5f2ee26" version="1">For the duration, each friendly creature within [1] of you has advantage on saving throws against spells and other magical effects.</content>
+	<content contentuid="hbc6fd926g7a47g4043gb4b5gab73ca0b5d6f" version="1">When an affected creature succeeds on a saving throw made against a spell or magical effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throws.</content>
+	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
+	<content contentuid="h3c04f0efgcd86g4a1bg95bag4eb035869792" version="1">Frostbite</content>
+	<content contentuid="h6ab48ec6g3ff7g4de0g8e5cg3da78d7f351f" version="1">The target is &lt;LSTag Type="Status" Tooltip="MAG_FROSTBITE_SPELL"&gt;Frostbitten&lt;/LSTag&gt; until it attacks or the end of its next turn.</content>
+	<content contentuid="h03f566e0gb0b8g4ca7ga6ecg39c1cd5f4139" version="1">Green-Flame Blade</content>
+	<content contentuid="hb6bdb78agc55dg45a1ga985g1dcc2affc98f" version="1">Green-Flame (Main Hand)</content>
+	<content contentuid="hb7cf880fg5d5ag4c83g9897gb1350369430d" version="1">Green-Flame (Off-Hand)</content>
+	<content contentuid="h32f49880g7a4cg4897g9bc7gf79c099fd5a0" version="1">You can cause green fire to leap from the target to a different creature of your choice that you can see within [1] of it.</content>
+	<content contentuid="h1a28e2a7g834bg40a7gb18fg621c1a2be0e2" version="1">Adds your Off-Hand &lt;LSTag Tooltip="AbilityModifier"&gt;Ability Modifier&lt;/LSTag&gt; to the damage.</content>
+	<content contentuid="h1471c1fcg775ag4b18g8d1fgc83cdedf11f3" version="1">Green-Flame Blade Splash Damage</content>
+	<content contentuid="h00a3b9beg58c9g4a9ag8323gdce3a676a225" version="1">The Green-Flame Blade can splash a second creature within [1] of its first target.</content>
+	<content contentuid="hb8f39f9bg6a8cg4a2fga895g87b9e9511ebc" version="1">Green-Flame Target</content>
+	<content contentuid="he4546243g783eg4efdg87b2g1d2905279f60" version="1">The Green-Flame Blade can strike at this target.</content>
+	<content contentuid="hed1b2f07g88c5g43b0ga944ga018a8565691" version="1">%%%Green Flame Aura</content>
+	<content contentuid="hbcf9dbb8g1155g4070gb0ffgce474bb39dfd" version="1">%%%Green Flame Technical</content>
+	<content contentuid="h6d1656b5g41d6g4b02g9237gc99e373909cf" version="1">Lightning Lure</content>
+	<content contentuid="h2d665a31g171cg4670gba2eg80cc1c320da6" version="1">Mind Sliver</content>
+	<content contentuid="h05bdd115g3221g4901g9432gada6c6cb6bdf" version="1">You drive a disorienting spike of psychic energy into the mind of one creature you can see within range.</content>
+	<content contentuid="hb8176b1bg59d2g45ddg8a28gc200eb8d51f6" version="1">Mind Pierced</content>
+	<content contentuid="hee8be49fgedceg487bgbae9gf15fabb80c76" version="1">You have a [1] penalty to your next &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h26f32b40g1608g49dcgb819g1e31723f1aa2" version="1">Primal Savagery</content>
+	<content contentuid="h9ee32c3bga88cg4282gbe04gc7a5176870b1" version="1">You channel primal magic to cause your fingernails to sharpen to deliver a corrosive attack.</content>
+	<content contentuid="hbe39667agcd55g4ee9gb8afgae9150be2d8c" version="1">Sword Burst</content>
+	<content contentuid="h2e63bc5egeca7g4b21g9f55g37b19fa160cc" version="1">You create a momentary circle of spectral blades that sweep around you.</content>
+	<content contentuid="hb36e08e4g2c02g44cdg8952g4d69b769a2b3" version="1">Sapping Sting</content>
+	<content contentuid="he2e70bbegeb94g482eg8748g202dce9ae791" version="1">You sap the vitality of one creature you can see in range.</content>
+	<content contentuid="h315659c0g61fdg4b06ga651g5f0e938a6f29" version="1">Word of Radiance</content>
+	<content contentuid="hf2bbde95g4533g48c5gbbceg6138f4e274ce" version="1">You utter a divine word, and burning radiance erupts from you.</content>
+	<content contentuid="hbc99f570gad06g4e7fgba50g9e7726ada7b7" version="1">Catapult</content>
+	<content contentuid="h415d5871gcbe4g42fcgb2f9gd246f5db2b7e" version="1">Catapult one object weighing 1 to [1] pounds within range that isn’t being worn or carried.</content>
+	<content contentuid="h0e38a6d4g430cg48c5ga04cgb381150cc10a" version="1">Deals an additional [1] damage and can launch an additional [2].</content>
+	<content contentuid="h2a98ddadg1280g4d71g941dg54d2f1b58d9c" version="1">Too heavy to Catapult.</content>
+	<content contentuid="hb53f2e69g7230g4dddg9ef7gc55324ebcaf6" version="1">Too light to Catapult.</content>
+	<content contentuid="h28a1ffa3gde86g4a0bg82beg01480eb67d08" version="1">Cause Fear</content>
+	<content contentuid="h7030472fgf419g42eega4d5g8745f67b3f06" version="1">Targets become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt;.</content>
+	<content contentuid="h62207b14g0b35g4b22g86e4g3334bb3a0f74" version="1">Frost Fingers</content>
+	<content contentuid="hb18c988agcccfg48f6gb61bg50322e5d72fb" version="1">The cold freezes nonmagical liquids in the area that aren't being worn or carried.</content>
+	<content contentuid="h4138309bg462dg4a1egabe2gcaa11a217667" version="1">Tashas Caustic Brew</content>
+	<content contentuid="h2f584dcbgdde5g4000g94acgd86730f02b20" version="1">A creature covered in the acid takes [1] acid damage at the start of each of its turns.</content>
+	<content contentuid="h1a689167g07f3g4862g9e74g7e1bf287af0e" version="1">A creature can remove the acid off itself or another creature with the Help action.</content>
+	<content contentuid="h5d366587gca88g43f9gbf23gbdbe984b0611" version="1">Acid Covered</content>
+	<content contentuid="h5cd3d135gbde2g44f4ga1d0g3418a71005d8" version="1">Remove Acid</content>
+	<content contentuid="h15102684g3d76g4dc4gadb7gfd2620fad069" version="1">Scrape or wash off caustic acid</content>
+	<content contentuid="haa32c808gfc4bg423fgadfdg444222bd7611" version="1">Zephyr Strike</content>
+	<content contentuid="hdecfcdf2g834ag490eg9e69ga4e341d2eadf" version="1">Your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hcf1940d1g937cg46bagb3c9g8f0723f98681" version="1">When activated, your next attack has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deals an additional [1] and grants additional movement.</content>
+	<content contentuid="he3aeeb36gd84eg4bdfg9360g666064fe75ed" version="1">Activate Zephyr Strike</content>
+	<content contentuid="h0bb7d653gd011g44d8ga796gf9c4976a1731" version="1">Your next attack has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deals an additional [1].</content>
+	<content contentuid="h13d5b11bg365ag448fgbb25g96f5ba942e82" version="1">You can move an additional [1] after your next attack this round.</content>
+	<content contentuid="hc54fb731g8553g4f2fga083gef34c05ea687" version="1">Take half damage from the next elemental attack targetting you, and deal an additional [1] of that element type on your next attack.</content>
+	<content contentuid="h0c384294gd48eg4d0fg9097g6866146a0bac" version="1">Chaos Bolt</content>
+	<content contentuid="hc8ae5405g622bg455bga389g658693382017" version="1">Deals a random damage type.</content>
+	<content contentuid="h8e91f39fgf2deg4fa6g9ba3g32974fd11463" version="1">Can randomly leap to additional targets.</content>
+	<content contentuid="h81c760b2gd28eg43b1gb627gbd3467775c96" version="1">Fortune's Favor</content>
+	<content contentuid="ha424e2acge8deg4221ga256g022dbfe3f53b" version="1">Give one creature the ability to reroll one &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h87713d18g4a03g417bg8298g983434a96a12" version="1">You can reroll one &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h721604eagfbb7g42c2g9881g4c55a9428616" version="1">Dragon's Breath</content>
+	<content contentuid="h7603bf1dg09ffg4261gb204g52c10f80dcd3" version="1">Dragon's Breath: Acid</content>
+	<content contentuid="h0dd8524fgd0c5g4d32gadeag9295df219b19" version="1">Dragon's Breath: Cold</content>
+	<content contentuid="hab7d93d5g56afg41d1g831egbe1f2fd69850" version="1">Dragon's Breath: Fire</content>
+	<content contentuid="h5bdb4dd2ge504g4e66g835fg77ffe88a16a7" version="1">Dragon's Breath: Lightning</content>
+	<content contentuid="ha8b2b2f9ge523g467bg8a28g883ca04d9846" version="1">Dragon's Breath: Poison</content>
+	<content contentuid="h645dce30g483eg4c04g8a6fg57db7f7efc1a" version="1">Upcast Levels</content>
+	<content contentuid="hee8583cdg246bg4129ga610gc442f9773869" version="1">Give one creature the power to spew magical energy from its mouth.</content>
+	<content contentuid="ha8af91e2g6efbg492cgbf95g63cb674d1302" version="1">Choose acid, cold, fire, lightning, or poison.</content>
+	<content contentuid="h0dde5d0fg2584g40c0gb157g449f1d4730f2" version="1">Give one creature the power to spew magical Acid from its mouth.</content>
+	<content contentuid="h9f58e498gc759g4192gbf48g1cea7d17996b" version="1">Give one creature the power to spew magical Cold from its mouth.</content>
+	<content contentuid="h5e79eb83gf98eg4d60gaae1g5e20edbb1ea6" version="1">Give one creature the power to spew magical Fire from its mouth.</content>
+	<content contentuid="h19331858g063cg4fd0g8b8fgd6480481c133" version="1">Give one creature the power to spew magical Lightning from its mouth.</content>
+	<content contentuid="h353a5aa2g2984g4650g94e5g6c7e3dc11bbc" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="ha64077b9g2c88g47a3g8c46gf5e6f04af0d3" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="h3f0d85d3gf9c7g4cb5g8e03g23a094079d18" version="1">You have the power to spew magical energy from your mouth.</content>
+	<content contentuid="h78be6f00gd1edg40e4gb2fcgdef516f41318" version="1">Target cannot already have Dragon's Breath.</content>
+	<content contentuid="h444ecb09g7b17g45aeg81d6g4c06f00c48b9" version="1">Kinetic Jaunt</content>
+	<content contentuid="h6976f26eg62ffg4c6ag992agae7f47ed406e" version="1">You have increased mobility and your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hbbe773fageaeag4e5ag8754ge6576309cc42" version="1">You will take [1] if you end your turn inside another creature.</content>
+	<content contentuid="h1dbf8a37ga64fg45e4gb24cg009c28b54c7c" version="1">Aganazzar's Scorcher</content>
+	<content contentuid="h214998d4geea3g4ea8gbc94g41e3e76befae" version="1">Project a line of fire [1] long</content>
+	<content contentuid="hb3c2bef7g600bg4ef4g8a4dg43d5b496791c" version="1">Borrowed Knowledge</content>
+	<content contentuid="h66b1be7cg96aeg456eg8023g59a82e39f8c8" version="1">Only one Borrowed Knowledge effect can be active at a time.</content>
+	<content contentuid="hc46ffe8eg1ddag4cf9g80e2gc1fd039fc193" version="1">Borrowed Knowledge: Charisma</content>
+	<content contentuid="h7bdf6617gf2c1g4113gaaf8g19ed2c4715ef" version="1">Borrowed Knowledge: Dexterity</content>
+	<content contentuid="haf3e27b6g537bg4bf9gbadag3531a6d2d700" version="1">Borrowed Knowledge: Intelligence</content>
+	<content contentuid="he2a237dfgc9edg4c45g982dgb2008454be15" version="1">Borrowed Knowledge: Strength</content>
+	<content contentuid="hc8ceb8f2gbf52g446cg8367ga1efc84f0edd" version="1">Borrowed Knowledge: Wisdom</content>
+	<content contentuid="h789bf0f8gd17dg49e5g95e2ge51cf24df426" version="1">Starry Wisp</content>
+	<content contentuid="h538589b1g02e9g4e4dg9195g3e37d21ec3ec" version="1">You launch a mote of light at one creature or object within range.</content>
+	<content contentuid="h616d1384g0fdbg4311g93aeg71372bd30ed3" version="1">You emit light and can't become invisible.</content>
+	<content contentuid="hd1002aafg26b3g42ebga2deg0c5c50f60ad4" version="1">Sorcerous Burst</content>
+	<content contentuid="haa9234efgf449g4b50g8b8dgc3679d250a7f" version="1">Sorcerous Burst: Acid</content>
+	<content contentuid="h9dcb8b8eg0d58g45b1g8f50g9f30c45503c4" version="1">Sorcerous Burst: Cold</content>
+	<content contentuid="h10dbcad6g64d1g43f9gbc17ga5e309cd9eb0" version="1">Sorcerous Burst: Fire</content>
+	<content contentuid="h1909aaeeg708cg43daga099g7ab597d5c504" version="1">Sorcerous Burst: Lightning</content>
+	<content contentuid="h340ee5d0g408fg4c56ga56eg9e7619a82f68" version="1">Sorcerous Burst: Poison</content>
+	<content contentuid="h4486a8beg314fg4896g9cceg28adbb02b0c9" version="1">Sorcerous Burst: Psychic</content>
+	<content contentuid="h613df416g65e4g452eg9b6cgec34138c9827" version="1">Sorcerous Burst: Thunder</content>
+	<content contentuid="hdf5554deg95a5g4ad1g9041g9bdf220f5945" version="1">You cast volatile sorcerous energy at one creature or object within range.</content>
+	<content contentuid="h9aa0af3ag7217g43dbg9558gf44f4bb15ac2" version="1">You choose the type of damage: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.</content>
+	<content contentuid="h5ac0095cg6a25g48c0gae36g47ed2aeabb8e" version="1">Exploding Dice</content>
+	<content contentuid="h99790d20g3048g4794gbbc2g79021761cce3" version="1">Mind Spiked</content>
+	<content contentuid="ha86eef28ge4b6g4940g9a1bgad0be15dd196" version="1">You feel like someone is watching you.</content>
+	<content contentuid="h562ecd57g6b37g489agbd7dg8c7743b81f65" version="1">Vortex Warp</content>
+	<content contentuid="h1616e2bbg9c97g450cg9a30g0c3fc02929ad" version="1">Teleport target creature.</content>
+	<content contentuid="h911647e5g27a3g4f47g9d60g090be45fefb7" version="1">The range increases by [1] per level.</content>
+	<content contentuid="ha1f1d0ecg762bg4268g8452g2189911eba4a" version="1">Warding Wind</content>
+	<content contentuid="h06fbe7a8ga95ag47fbg8e2aged56af846a73" version="1">A strong wind blows around you in a [1] radius and moves with you, remaining centered on you.</content>
+	<content contentuid="hd493cae3g4f0eg400fg8763gbe425c585872" version="1">The wind extinguishes small fires, disperses clouds, slows creatures, and disrupts ranged weapon attacks.</content>
+	<content contentuid="h2ea368aegd61cg497dgb114g52de5a67da71" version="1">Wind Warded</content>
+	<content contentuid="hd6e391f8g99c6g4a91g9ef0g657b2d2ba083" version="1">Affected by a strong wind.</content>
+	<content contentuid="h8ae81691gf377g48f9g9836g324838bfd3dc" version="1">Scroll of Frostbite</content>
+	<content contentuid="h3ab48265gbfc3g4675ga6a0gbc5f03d026ee" version="1">Scroll of Green-Flame Blade</content>
+	<content contentuid="h4b9ef50fg1745g46ecg9b01gede356c32d7f" version="1">Scroll of Lightning Lure</content>
+	<content contentuid="h271b5f11g15a5g40e1gaf78g28e51d319592" version="1">Scroll of Mind Sliver</content>
+	<content contentuid="h50e2a0fag7496g4ea1gaf2cg79d642d7bb16" version="1">Scroll of Sapping Sting</content>
+	<content contentuid="h5162cc2dgb052g4db3gab96g4bba59ba5f1b" version="1">Scroll of Sword Burst</content>
+	<content contentuid="h4ea63f53g76e4g4b9bgab84g3811a7246652" version="1">Scroll of Thunderclap</content>
+	<content contentuid="h3131f345gc56eg40d2g9411ge33fa21766ca" version="1">Scroll of Absorb Elements</content>
+	<content contentuid="h0d43483cgf216g4d2cg8c66ga89883c00404" version="1">Scroll of Catapult</content>
+	<content contentuid="h2c45fad7gc842g42bbg8997g982d2c074152" version="1">Scroll of Cause Fear</content>
+	<content contentuid="h0959b889g2fffg4d7egb433g85d7c1437599" version="1">Scroll of Frost Fingers</content>
+	<content contentuid="h849006eeg0116g493eg9f5bg2400f447f9b1" version="1">Scroll of Tasha's Caustic Brew</content>
+	<content contentuid="h73278bbbg0de2g4c46g9aebg2fbdde05842c" version="1">Scroll of Aganazzar's Scorcher</content>
+	<content contentuid="he9fda933g2442g4ec3ga63ag0fed4ea0a4e1" version="1">Scroll of Borrowed Knowledge</content>
+	<content contentuid="hc6c6a469gb80fg438bg8358ga243a85313e4" version="1">Scroll of Dragon's Breath</content>
+	<content contentuid="h3e3a9a7dg9449g406dg8ef4g49c2f1b94d81" version="1">Scroll of Fortune's Favor</content>
+	<content contentuid="hf5b7b093gbad5g4a9eg8cfag9484e35c5933" version="1">Scroll of Kinetic Jaunt</content>
+	<content contentuid="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1">Scroll of Mind Spike</content>
+	<content contentuid="h27d8dac6g3cc3g4a71g80edg96c4bdec628d" version="1">Scroll of Rime's Binding Ice</content>
+	<content contentuid="h8882d22fg385bg4a14gaf8eg3812da52662b" version="1">Scroll of Snilloc's Snowball Swarm</content>
+	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
+	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
+	<content contentuid="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1">Scroll of Wither and Bloom</content>
+	<content contentuid="h33be49ceg3a21g4206g9e86g5bbab2ee1a5d" version="1">Scroll of Ashardalon's Stride</content>
+	<content contentuid="h195e8b66g4e45g4a52gba13g91ecb6e3db7b" version="1">Scroll of Catnap</content>
+	<content contentuid="h09db820bg4025g4f12gaa33gdb8b5a0b2863" version="1">Scroll of Enemies Abound</content>
+	<content contentuid="h7d4e0a65g3fafg47b5g88acgae9e13e43b3b" version="1">Scroll of Erupting Earth</content>
+	<content contentuid="he34e7ac5g971dg47a7g807egc31ed78ad538" version="1">Scroll of Flame Arrows</content>
+	<content contentuid="hbdd5dd90g570ag4fb5gbea9g93e586f2c61d" version="1">Scroll of Intellect Fortress</content>
+	<content contentuid="h1b3694c8gaabdg4d99ga20eg7da093b283c0" version="1">Scroll of Life Transference</content>
+	<content contentuid="h3d7927a0g18d4g49ebg82c1ga9433cb81091" version="1">Scroll of Melf's Minute Meteors</content>
+	<content contentuid="h2a3bd909gd0a4g48d0gb276g9c2593c0edc8" version="1">Scroll of Spirit Shroud</content>
+	<content contentuid="h78097c51gb69dg4897gac75g60168caacd87" version="1">Scroll of Thunder Step</content>
+	<content contentuid="h8993f426ga5c0g4598g8b72gbbfd49fb1317" version="1">Scroll of Elemental Bane</content>
+	<content contentuid="h1d14258age7d8g4498gb311g03e5f3a95b92" version="1">Scroll of Gravity Sinkhole</content>
+	<content contentuid="h6bd4d372gbbd4g492agb8d8ge4b3cef529cc" version="1">Scroll of Raulothim's Psychic Lance</content>
+	<content contentuid="h24769c10g3c9fg4217ga1a9g0370c1dabfd5" version="1">Scroll of Storm Sphere</content>
+	<content contentuid="h69bd94e7g85afg43e8gbca8ge40853427a7f" version="1">Healing Spirit</content>
+	<content contentuid="h166ed9a2gfb0eg4d6ag97b4g300fed59128d" version="1">Summon an intangible spirit. Whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore [1] hit points to that creature (no action required).</content>
+	<content contentuid="hcd76b64ag9793g4d75g9808g48924d79b69e" version="1">The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice).</content>
+	<content contentuid="hd10061c5g987cg495agb549ga200834835c7" version="1">Heaing Charges</content>
+	<content contentuid="hc29a07degffdfg42e0gac62ga425accb8595" version="1">The number of times the Healing Spirit can still heal.</content>
+	<content contentuid="hae89aee7g89b5g4396g8d7bg32af99698f90" version="1">Wither and Bloom</content>
+	<content contentuid="h9c29c6c2g4070g4f7cg9749gddb988cb6546" version="1">Damage each enemy creature in a [1] radius.</content>
+	<content contentuid="hbe2c51e7g5f35g4a95g9eadg6983215b1e75" version="1">You can choose one creature in the area to heal [1].</content>
+	<content contentuid="hab768585g76eag40f1gbf90g6cd6e69b6322" version="1">Deals an additional [1] and heals an additional [2] per level.</content>
+	<content contentuid="ha328a1e6g3a55g4ffcgb8cfg98bf1f15d27a" version="1">Bloom</content>
+	<content contentuid="h96c7b17bgf8beg492fgb51bgd7708222cb5f" version="1">Heal target creature that was within the effect of your Wither and Bloom.</content>
+	<content contentuid="h507108ffg5593g44bfg896egfe33f1bbd3cc" version="1">Rime's Binding Ice</content>
+	<content contentuid="hd5b8a963gdb63g4370g8d99gb143685ba49c" version="1">Targets are hindered by ice formations, unable to move for 1 minute or until another creature helps it.</content>
+	<content contentuid="h3bef2945g8164g4da0g9fddg9637fe13c1ba" version="1">Targets still take half damage and aren't hindered by ice.</content>
+	<content contentuid="h76a3e997g3f14g4f90gb5e7gb4da9f220154" version="1">Hindered by Ice</content>
+	<content contentuid="h18eceb30g9707g47dfg9df0g6e02c928eb93" version="1">Hindered by ice and cannot move until helped.</content>
+	<content contentuid="hd7cf9114g16a7g48c3g96d6gad3747864af7" version="1">Snilloc's Snowball Swarm</content>
+	<content contentuid="h42d8faf2gd056g4882g823dg753c70a32a0d" version="1">A flurry of magic snowballs erupts from a point you choose within a 5-foot-radius area.</content>
+	<content contentuid="h27e1002dg9519g47a3ga910g48d6d80f6eb1" version="1">Mental Barrier</content>
+	<content contentuid="h9b8219e0gb9feg47e4g8f33gacf90ac1aa6e" version="1">You protect your mind with a wall of looping, repetitive thought. Until the start of your next turn, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and you have resistance to psychic damage.</content>
+	<content contentuid="h3c9e0dc4g7af5g4a1dg911egd633ff31087a" version="1">Tidal Wave</content>
+	<content contentuid="h94336bfegf343g4e87g8cd8gc9b3566c8a5c" version="1">You conjure up a wave of water that crashes down on an area within range.</content>
+	<content contentuid="habb4207cgae98g4bb3g899egf8f4c94d378f" version="1">Thunder Step</content>
+	<content contentuid="h86c77804g3acbg44d5gae14gb5d911a0928e" version="1">You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, damaging each creature within [1] of the space you left.</content>
+	<content contentuid="ha3138095g07aag4b22g89dbgf6117f9d33a9" version="1">You can bring one extra creature with you.</content>
+	<content contentuid="h4d1f6b51g3c8ag4319gaa19g6995b38728cc" version="1">Spirit Shroud</content>
+	<content contentuid="h2761fed9g707bg4f23g9a2dged9e28913d21" version="1">Spirit Shroud: Cold</content>
+	<content contentuid="h221265aag8ec6g4c57g8a63g024e48e43679" version="1">Spirit Shroud: Necrotic</content>
+	<content contentuid="h19aad7cfg752bg44acg9d3fg85d3ab26619c" version="1">Spirit Shroud: Radiant</content>
+	<content contentuid="h0e6b2e9cgd5a9g4a79g8754gbdb7ec17cd4c" version="1">Any attack you make deals an extra [1] when you hit a creature within [2] of you. This damage is radiant, necrotic, or cold. Any creature that takes this damage can’t regain hit points until the start of your next turn.</content>
+	<content contentuid="hd0c6e4fbgd4f0g4391gad57g9e7970113d63" version="1">Enemies that starts their turn within [1] of you has its speed reduced by [1] until the start of your next turn.</content>
+	<content contentuid="h2e5f6eb7g1492g42afga82bga99f2e8af62e" version="1">Spririt Shrouded</content>
+	<content contentuid="hdf0f815fgcb4ag4ad8g8240gcc4baf8fd85e" version="1">Spirits are hindering your movement. Your speed is reduced by [1].</content>
+	<content contentuid="h44446647g1343g443fga403gef3cb85d530a" version="1">Spirits are preventing you from healing.</content>
+	<content contentuid="h7f24232dg7c3dg40ecg9920g8dad33bca312" version="1">Motivational Speech</content>
+	<content contentuid="h3d829823g712bg4245g980bg8459c62803a4" version="1">Each affected creature gains [1] and has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If an affected creature is hit by an attack, it has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; it makes.</content>
+	<content contentuid="h9ae7a2bbgfeacg4436g9d40g747b1dc31950" version="1">Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.</content>
+	<content contentuid="h02f0167fgb6e5g40b0g91afg78fe4d7efecf" version="1">You gains [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If you are hit by an attack, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; you make.</content>
+	<content contentuid="h8d0310cdg80a0g465cga90ag1699ffe2e911" version="1">When you lose the temporary hit points granted by this spell, the spell ends.</content>
+	<content contentuid="he031181egb365g4ea9g8088ge1a9e697cc6a" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="h5f9e5c25gb840g4f86g8854gc577246d8752" version="1">Melf's Minute Meteors</content>
+	<content contentuid="h7e523935g1a10g4a90gb131gf3cd3d8453ce" version="1">You create [1] tiny meteors in your space. When you cast the spell — and as a bonus action on each of your turns thereafter — you can launch one or two of the meteors, dealing [2] to creatures within [3].</content>
+	<content contentuid="h0778a11ag8389g49c9g8e4agdf53dee2cdc1" version="1">Minute Meteors are floating around you.</content>
+	<content contentuid="hc0c5d48dgd010g4372g8e02ga7301c72da38" version="1">Launch Minute Meteors</content>
+	<content contentuid="h607a8031g5718g4284g8f5bgda88a8c69098" version="1">Launch [1] meteors at target location, dealing [2] to each creature within [3] of the impact.</content>
+	<content contentuid="hd7a1afcag9994g419bgad81gd4c79b71ad98" version="1">Minute Meteor</content>
+	<content contentuid="h929ed0f6ge944g4583ga8b9gbb79c6eb7b0f" version="1">The number of remaining meteors.</content>
+	<content contentuid="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1">The number of meteors created increases by 2 per level.</content>
+	<content contentuid="h401dd168g5cabg466ag9b75g66f4027a6d3e" version="1">Ashardalon's Stride</content>
+	<content contentuid="h3efa844ag9596g4110ga3b0g2559036cb447" version="1">Your speed increases by [1] and moving doesn’t provoke opportunity attacks. Nearby creatures and objects that aren’t being worn or carried, it take [2] from your trail of heat.</content>
+	<content contentuid="hd6030890gc03dg4607gb4e1g1ecc496cec67" version="1">Your speed is increased by [1] and this spell deals an additional [2] per level.</content>
+	<content contentuid="h6c12a817gcc17g41dcg98bagbb8ccc2d6bff" version="1">Will ignite surfaces.</content>
+	<content contentuid="h54e8a938g2f48g4d68g8364gdbd7a09f1331" version="1">Catnap</content>
+	<content contentuid="hf112f970g04a7g43b7g8b9agfea697e4a1b2" version="1">Up to 3 target gains the benefit of a short rest and can’t be affected by this spell again until they finish a long rest.</content>
+	<content contentuid="hbad37b32g6225g4fa6ga5cegb0e47701f100" version="1">Enemies Abound</content>
+	<content contentuid="h13373e2fgfdd4g4b55gb513g6f3d386c41ae" version="1">Target becomes hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
+	<content contentuid="hafb2e3bag2a97g4856ga57bg86b68b24252e" version="1">Hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
+	<content contentuid="h36244133gb49bg4da8gbb03g4d988f9c38a9" version="1">Flame Arrows</content>
+	<content contentuid="h1f11c84ag9ec2g4576g8b0cg92996c01989e" version="1">Enchant [1] arrows to deal an additional [2].</content>
+	<content contentuid="h21523c95ged21g46f5ga891gfadb3de8fbec" version="1">Your arrows are enchanted to deal an additional .</content>
+	<content contentuid="h7ee77f93g93b2g445cga950g4dded0aded81" version="1">Flame Arrow</content>
+	<content contentuid="h10d3027bg3dcbg46cdga37dgb07ee2f8ca88" version="1">The number of remaining flame arrows.</content>
+	<content contentuid="h4fbc169dgdff6g41aag98c6g9c24cf6c713b" version="1">The number of arrows enchanted increases by 2 per level.</content>
+	<content contentuid="h9b4b4c49g5bf7g48a7ga6fcg2165762f9e77" version="1">Intellect Fortress</content>
+	<content contentuid="h1230f299ge56ag4c24g9c4bgcd0430edc454" version="1">Target creature has resistance to psychic damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="hec85243eg0557g49eag906cgff6c7d490e04" version="1">Resistance psychic damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h8d0073dag1520g4625g97aage1227e3feeaf" version="1">Life Transference</content>
+	<content contentuid="hb6156ac4ga562g40e1gabc8g831a6f91ef95" version="1">You take [1], which can’t be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.</content>
+	<content contentuid="he1addedbg9088g4bccg9b90g576897c9b96c" version="1">Damage</content>
+	<content contentuid="h3807513dgf864g46d2ga0adg5c6296345e70" version="1">Aura of Vitality</content>
+	<content contentuid="h78d29e8dgf11eg464dg9de3g2425e2466511" version="1">You can use a bonus action to cause one creature within [1] to regain [2].</content>
+	<content contentuid="ha7e87458g35e5g4438gbeefgfbd1da4b721a" version="1">Cause one creature to regain [1].</content>
+	<content contentuid="hc37c2c07g2486g4f25g86ecge225860d994a" version="1">Erupting Earth</content>
+	<content contentuid="h54dda0f7g8264g408egb42eg445058124992" version="1">Deal damage to all creatures in a [1] radius, leaving behind &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+	<content contentuid="h92add63bg350ag4f94ga553ge42fd1638aa7" version="1">Elemental Bane</content>
+	<content contentuid="ha9c2fef3gf15dg42e9g8f73g6c2140c10aa1" version="1">Elemental Bane: Acid</content>
+	<content contentuid="hf2829c2cgc627g4be8g8e11g93d79c923222" version="1">Elemental Bane: Cold</content>
+	<content contentuid="hd384c7fbg7e22g4a86ga23eg8ea129145890" version="1">Elemental Bane: Fire</content>
+	<content contentuid="h6f0cb0e5gbc3ag4e17ga649gf04c3e5a7406" version="1">Elemental Bane: Lightning</content>
+	<content contentuid="h5f645ffbg23a4g420bg9bedg70e8ae3a82e5" version="1">Elemental Bane: Thunder</content>
+	<content contentuid="h58e695beg0756g446cgaa4eg0834df30502f" version="1">Choose one of the following damage types: acid, cold, fire, lightning, or thunder.</content>
+	<content contentuid="h4df54721gea49g4a7egbccfgdcf9737f4c6c" version="1">The target loses any resistance to the chosen damage type, and the first time each turn the affected target takes that type of damage, the target takes an extra [1].</content>
+	<content contentuid="hc1f65da1g4629g4a17gb34dgce7bbced0ce4" version="1">The target loses any resistance to Acid damage, and the first time each turn the affected target takes Acid damage, the target takes an extra [1].</content>
+	<content contentuid="h6c0333e3ge623g4b07gac64g4bb4c3d912e1" version="1">The target loses any resistance to Cold damage, and the first time each turn the affected target takes Cold damage, the target takes an extra [1].</content>
+	<content contentuid="h08bc6979g47bag42c1gbb44g9bb7ca8cf267" version="1">The target loses any resistance to Fire damage, and the first time each turn the affected target takes Fire damage, the target takes an extra [1].</content>
+	<content contentuid="hc5a66efbg1460g4e83gbb9ag8bc206a43261" version="1">The target loses any resistance to Lightning damage, and the first time each turn the affected target takes Lightning damage, the target takes an extra [1].</content>
+	<content contentuid="hffdd43b5g2829g4253g8fb6g0e751e99610b" version="1">The target loses any resistance to Thunder damage, and the first time each turn the affected target takes Thunder damage, the target takes an extra [1].</content>
+	<content contentuid="h496bffb8g4d4dg4212gbad9gb8fda3cbf4b9" version="1">Gravity Sinkhole</content>
+	<content contentuid="hffe56545gd31dg4e39g81f1g2e727064eedf" version="1">Create a [1] radius sphere of crushing force that pulls creatures towards its center.</content>
+	<content contentuid="h4299b8f3g533eg493dg92f2gc33d46d3c8b4" version="1">Guardian of Nature</content>
+	<content contentuid="hb67ec43ag6f0cg4aaeg9d92g328f4bc60772" version="1">Guardian of Nature: Primal Beast</content>
+	<content contentuid="h9ac2112dg42c4g4fcdg940egefcb5f5fd8ed" version="1">Guardian of Nature: Great Tree</content>
+	<content contentuid="h9b2e7e98g32a0g4a55g90e7g0c00b875f816" version="1">A nature spirit answers your call and transforms you into a powerful guardian, granting several benefits.</content>
+	<content contentuid="hdc1aa648geef3g450bg8632g05f26efca1f9" version="1">You choose to assume the form of a Primal Beast or a Giant Tree.</content>
+	<content contentuid="h96d819fcg90c8g480dga796g5db1c7b9f7ea" version="1">Increases your movement speed by [1], grants darkvision, grants &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on strength-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and adds [2] to melee attacks.</content>
+	<content contentuid="h67541404g2550g48b9g9496g2f87adf91115" version="1">Grants [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;, grants &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, grants &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and on dexterity- and wisdom-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and creates d&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; for enemies within [2].</content>
+	<content contentuid="hd9063243g7345g407fga660gf9035c14d4bb" version="1">Raulothim's Psychic Lance</content>
+	<content contentuid="h946b50b9g3389g4217g8038gbeb95cd35077" version="1">On a failed save, the target is &lt;LSTag Type="Status" Tooltip="KJ_PSYCHIC_LANCE_INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="h9f79fb89g8059g49c4gb1b2g01fc52c8d213" version="1">Incapacitated</content>
+	<content contentuid="h29c3339fg19fag42daga9aegc6433fd7afbe" version="1">Cannot take actions or reactions.</content>
+	<content contentuid="hc76c5739g8bddg4c4agb4begcd9899f855ea" version="1">Shadow of Moil</content>
+	<content contentuid="h031ec8c3g5bd8g4bc5gaed9gff1f284a7573" version="1">You gain resistance to radiant damage. In addition, whenever a creature within [1] of you hits you with an attack, the shadows lash out at that creature, dealing [2].</content>
+	<content contentuid="h5a196223ga368g4a31g8e76g0afe74234247" version="1">Storm Sphere</content>
+	<content contentuid="h29b76663g2d1bg4889gad95g71e9b0f23809" version="1">Storm Sphere: Lightning</content>
+	<content contentuid="h8a3bda42g28c9g446cg9519g5860e2969ec3" version="1">A [1] radius storm rages, counting as &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and dealing [2] to creatures that start their turn within it.</content>
+	<content contentuid="h4f00e26fgb8fdg4e72gb813g6b650465fe8e" version="1">You can use a bonus action to call down lighting and strike a creature within [1] of the storm for [2].</content>
+	<content contentuid="h6f03bf39g2102g44ddg82d9gd50cd38b0db1" version="1">Call down lighting and strike a creature within [1] of the storm for [2].</content>
+	<content contentuid="h5d8b4fb3g1380g4cc1gb546g77426a124afd" version="1">Take [1] if you start your turn in the storm.</content>
+	<content contentuid="h739f85eege2edg4364g9bcfg93b9c0c3a716" version="1">Cordon of Arrows</content>
+	<content contentuid="ha989c873g5bb3g4bccga477g98e019470608" version="1">Arrows</content>
+	<content contentuid="h0661cc46ga510g4eb1ga24fg9828ce1de25e" version="1">Number of Arrows left for Cordon of Arrows</content>
+	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
+	<content contentuid="h3c04f0efgcd86g4a1bg95bag4eb035869792" version="1">Frostbite</content>
+	<content contentuid="h6ab48ec6g3ff7g4de0g8e5cg3da78d7f351f" version="1">The target is &lt;LSTag Type="Status" Tooltip="MAG_FROSTBITE_SPELL"&gt;Frostbitten&lt;/LSTag&gt; until it attacks or the end of its next turn.</content>
+	<content contentuid="h03f566e0gb0b8g4ca7ga6ecg39c1cd5f4139" version="1">Green-Flame Blade</content>
+	<content contentuid="hb6bdb78agc55dg45a1ga985g1dcc2affc98f" version="1">Green-Flame (Main Hand)</content>
+	<content contentuid="hb7cf880fg5d5ag4c83g9897gb1350369430d" version="1">Green-Flame (Off-Hand)</content>
+	<content contentuid="h32f49880g7a4cg4897g9bc7gf79c099fd5a0" version="1">You can cause green fire to leap from the target to a different creature of your choice that you can see within [1] of it.</content>
+	<content contentuid="h1a28e2a7g834bg40a7gb18fg621c1a2be0e2" version="1">Adds your Off-Hand &lt;LSTag Tooltip="AbilityModifier"&gt;Ability Modifier&lt;/LSTag&gt; to the damage.</content>
+	<content contentuid="h1471c1fcg775ag4b18g8d1fgc83cdedf11f3" version="1">Green-Flame Blade Splash Damage</content>
+	<content contentuid="h00a3b9beg58c9g4a9ag8323gdce3a676a225" version="1">The Green-Flame Blade can splash a second creature within [1] of its first target.</content>
+	<content contentuid="hb8f39f9bg6a8cg4a2fga895g87b9e9511ebc" version="1">Green-Flame Target</content>
+	<content contentuid="he4546243g783eg4efdg87b2g1d2905279f60" version="1">The Green-Flame Blade can strike at this target.</content>
+	<content contentuid="hed1b2f07g88c5g43b0ga944ga018a8565691" version="1">%%%Green Flame Aura</content>
+	<content contentuid="hbcf9dbb8g1155g4070gb0ffgce474bb39dfd" version="1">%%%Green Flame Technical</content>
+	<content contentuid="h6d1656b5g41d6g4b02g9237gc99e373909cf" version="1">Lightning Lure</content>
+	<content contentuid="h2d665a31g171cg4670gba2eg80cc1c320da6" version="1">Mind Sliver</content>
+	<content contentuid="h05bdd115g3221g4901g9432gada6c6cb6bdf" version="1">You drive a disorienting spike of psychic energy into the mind of one creature you can see within range.</content>
+	<content contentuid="hb8176b1bg59d2g45ddg8a28gc200eb8d51f6" version="1">Mind Pierced</content>
+	<content contentuid="hee8be49fgedceg487bgbae9gf15fabb80c76" version="1">You have a [1] penalty to your next &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h26f32b40g1608g49dcgb819g1e31723f1aa2" version="1">Primal Savagery</content>
+	<content contentuid="h9ee32c3bga88cg4282gbe04gc7a5176870b1" version="1">You channel primal magic to cause your fingernails to sharpen to deliver a corrosive attack.</content>
+	<content contentuid="hbe39667agcd55g4ee9gb8afgae9150be2d8c" version="1">Sword Burst</content>
+	<content contentuid="h2e63bc5egeca7g4b21g9f55g37b19fa160cc" version="1">You create a momentary circle of spectral blades that sweep around you.</content>
+	<content contentuid="hb36e08e4g2c02g44cdg8952g4d69b769a2b3" version="1">Sapping Sting</content>
+	<content contentuid="he2e70bbegeb94g482eg8748g202dce9ae791" version="1">You sap the vitality of one creature you can see in range.</content>
+	<content contentuid="h315659c0g61fdg4b06ga651g5f0e938a6f29" version="1">Word of Radiance</content>
+	<content contentuid="hf2bbde95g4533g48c5gbbceg6138f4e274ce" version="1">You utter a divine word, and burning radiance erupts from you.</content>
+	<content contentuid="hbc99f570gad06g4e7fgba50g9e7726ada7b7" version="1">Catapult</content>
+	<content contentuid="h415d5871gcbe4g42fcgb2f9gd246f5db2b7e" version="1">Catapult one object weighing 1 to [1] pounds within range that isn’t being worn or carried.</content>
+	<content contentuid="h0e38a6d4g430cg48c5ga04cgb381150cc10a" version="1">Deals an additional [1] damage and can launch an additional [2].</content>
+	<content contentuid="h2a98ddadg1280g4d71g941dg54d2f1b58d9c" version="1">Too heavy to Catapult.</content>
+	<content contentuid="hb53f2e69g7230g4dddg9ef7gc55324ebcaf6" version="1">Too light to Catapult.</content>
+	<content contentuid="h28a1ffa3gde86g4a0bg82beg01480eb67d08" version="1">Cause Fear</content>
+	<content contentuid="h7030472fgf419g42eega4d5g8745f67b3f06" version="1">Targets become &lt;LSTag Type="Status" Tooltip="FEARED"&gt;Fearful&lt;/LSTag&gt;.</content>
+	<content contentuid="h62207b14g0b35g4b22g86e4g3334bb3a0f74" version="1">Frost Fingers</content>
+	<content contentuid="hb18c988agcccfg48f6gb61bg50322e5d72fb" version="1">The cold freezes nonmagical liquids in the area that aren't being worn or carried.</content>
+	<content contentuid="h4138309bg462dg4a1egabe2gcaa11a217667" version="1">Tashas Caustic Brew</content>
+	<content contentuid="h2f584dcbgdde5g4000g94acgd86730f02b20" version="1">A creature covered in the acid takes [1] acid damage at the start of each of its turns.</content>
+	<content contentuid="h1a689167g07f3g4862g9e74g7e1bf287af0e" version="1">A creature can remove the acid off itself or another creature with the Help action.</content>
+	<content contentuid="h5d366587gca88g43f9gbf23gbdbe984b0611" version="1">Acid Covered</content>
+	<content contentuid="h5cd3d135gbde2g44f4ga1d0g3418a71005d8" version="1">Remove Acid</content>
+	<content contentuid="h15102684g3d76g4dc4gadb7gfd2620fad069" version="1">Scrape or wash off caustic acid</content>
+	<content contentuid="haa32c808gfc4bg423fgadfdg444222bd7611" version="1">Zephyr Strike</content>
+	<content contentuid="hdecfcdf2g834ag490eg9e69ga4e341d2eadf" version="1">Your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hcf1940d1g937cg46bagb3c9g8f0723f98681" version="1">When activated, your next attack has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deals an additional [1] and grants additional movement.</content>
+	<content contentuid="he3aeeb36gd84eg4bdfg9360g666064fe75ed" version="1">Activate Zephyr Strike</content>
+	<content contentuid="h0bb7d653gd011g44d8ga796gf9c4976a1731" version="1">Your next attack has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and deals an additional [1].</content>
+	<content contentuid="h13d5b11bg365ag448fgbb25g96f5ba942e82" version="1">You can move an additional [1] after your next attack this round.</content>
+	<content contentuid="hc54fb731g8553g4f2fga083gef34c05ea687" version="1">Take half damage from the next elemental attack targetting you, and deal an additional [1] of that element type on your next attack.</content>
+	<content contentuid="h0c384294gd48eg4d0fg9097g6866146a0bac" version="1">Chaos Bolt</content>
+	<content contentuid="hc8ae5405g622bg455bga389g658693382017" version="1">Deals a random damage type.</content>
+	<content contentuid="h8e91f39fgf2deg4fa6g9ba3g32974fd11463" version="1">Can randomly leap to additional targets.</content>
+	<content contentuid="h81c760b2gd28eg43b1gb627gbd3467775c96" version="1">Fortune's Favor</content>
+	<content contentuid="ha424e2acge8deg4221ga256g022dbfe3f53b" version="1">Give one creature the ability to reroll one &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h87713d18g4a03g417bg8298g983434a96a12" version="1">You can reroll one &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;, &lt;LSTag Tooltip="AbilityCheck"&gt;Ability Check&lt;/LSTag&gt;, or &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h721604eagfbb7g42c2g9881g4c55a9428616" version="1">Dragon's Breath</content>
+	<content contentuid="h7603bf1dg09ffg4261gb204g52c10f80dcd3" version="1">Dragon's Breath: Acid</content>
+	<content contentuid="h0dd8524fgd0c5g4d32gadeag9295df219b19" version="1">Dragon's Breath: Cold</content>
+	<content contentuid="hab7d93d5g56afg41d1g831egbe1f2fd69850" version="1">Dragon's Breath: Fire</content>
+	<content contentuid="h5bdb4dd2ge504g4e66g835fg77ffe88a16a7" version="1">Dragon's Breath: Lightning</content>
+	<content contentuid="ha8b2b2f9ge523g467bg8a28g883ca04d9846" version="1">Dragon's Breath: Poison</content>
+	<content contentuid="h645dce30g483eg4c04g8a6fg57db7f7efc1a" version="1">Upcast Levels</content>
+	<content contentuid="hee8583cdg246bg4129ga610gc442f9773869" version="1">Give one creature the power to spew magical energy from its mouth.</content>
+	<content contentuid="ha8af91e2g6efbg492cgbf95g63cb674d1302" version="1">Choose acid, cold, fire, lightning, or poison.</content>
+	<content contentuid="h0dde5d0fg2584g40c0gb157g449f1d4730f2" version="1">Give one creature the power to spew magical Acid from its mouth.</content>
+	<content contentuid="h9f58e498gc759g4192gbf48g1cea7d17996b" version="1">Give one creature the power to spew magical Cold from its mouth.</content>
+	<content contentuid="h5e79eb83gf98eg4d60gaae1g5e20edbb1ea6" version="1">Give one creature the power to spew magical Fire from its mouth.</content>
+	<content contentuid="h19331858g063cg4fd0g8b8fgd6480481c133" version="1">Give one creature the power to spew magical Lightning from its mouth.</content>
+	<content contentuid="h353a5aa2g2984g4650g94e5g6c7e3dc11bbc" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="ha64077b9g2c88g47a3g8c46gf5e6f04af0d3" version="1">Give one creature the power to spew magical Poison from its mouth.</content>
+	<content contentuid="h3f0d85d3gf9c7g4cb5g8e03g23a094079d18" version="1">You have the power to spew magical energy from your mouth.</content>
+	<content contentuid="h78be6f00gd1edg40e4gb2fcgdef516f41318" version="1">Target cannot already have Dragon's Breath.</content>
+	<content contentuid="h444ecb09g7b17g45aeg81d6g4c06f00c48b9" version="1">Kinetic Jaunt</content>
+	<content contentuid="h6976f26eg62ffg4c6ag992agae7f47ed406e" version="1">You have increased mobility and your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="hbbe773fageaeag4e5ag8754ge6576309cc42" version="1">You will take [1] if you end your turn inside another creature.</content>
+	<content contentuid="h1dbf8a37ga64fg45e4gb24cg009c28b54c7c" version="1">Aganazzar's Scorcher</content>
+	<content contentuid="h214998d4geea3g4ea8gbc94g41e3e76befae" version="1">Project a line of fire [1] long</content>
+	<content contentuid="hb3c2bef7g600bg4ef4g8a4dg43d5b496791c" version="1">Borrowed Knowledge</content>
+	<content contentuid="h66b1be7cg96aeg456eg8023g59a82e39f8c8" version="1">Only one Borrowed Knowledge effect can be active at a time.</content>
+	<content contentuid="hc46ffe8eg1ddag4cf9g80e2gc1fd039fc193" version="1">Borrowed Knowledge: Charisma</content>
+	<content contentuid="h7bdf6617gf2c1g4113gaaf8g19ed2c4715ef" version="1">Borrowed Knowledge: Dexterity</content>
+	<content contentuid="haf3e27b6g537bg4bf9gbadag3531a6d2d700" version="1">Borrowed Knowledge: Intelligence</content>
+	<content contentuid="he2a237dfgc9edg4c45g982dgb2008454be15" version="1">Borrowed Knowledge: Strength</content>
+	<content contentuid="hc8ceb8f2gbf52g446cg8367ga1efc84f0edd" version="1">Borrowed Knowledge: Wisdom</content>
+	<content contentuid="h789bf0f8gd17dg49e5g95e2ge51cf24df426" version="1">Starry Wisp</content>
+	<content contentuid="h538589b1g02e9g4e4dg9195g3e37d21ec3ec" version="1">You launch a mote of light at one creature or object within range.</content>
+	<content contentuid="h616d1384g0fdbg4311g93aeg71372bd30ed3" version="1">You emit light and can't become invisible.</content>
+	<content contentuid="hd1002aafg26b3g42ebga2deg0c5c50f60ad4" version="1">Sorcerous Burst</content>
+	<content contentuid="haa9234efgf449g4b50g8b8dgc3679d250a7f" version="1">Sorcerous Burst: Acid</content>
+	<content contentuid="h9dcb8b8eg0d58g45b1g8f50g9f30c45503c4" version="1">Sorcerous Burst: Cold</content>
+	<content contentuid="h10dbcad6g64d1g43f9gbc17ga5e309cd9eb0" version="1">Sorcerous Burst: Fire</content>
+	<content contentuid="h1909aaeeg708cg43daga099g7ab597d5c504" version="1">Sorcerous Burst: Lightning</content>
+	<content contentuid="h340ee5d0g408fg4c56ga56eg9e7619a82f68" version="1">Sorcerous Burst: Poison</content>
+	<content contentuid="h4486a8beg314fg4896g9cceg28adbb02b0c9" version="1">Sorcerous Burst: Psychic</content>
+	<content contentuid="h613df416g65e4g452eg9b6cgec34138c9827" version="1">Sorcerous Burst: Thunder</content>
+	<content contentuid="hdf5554deg95a5g4ad1g9041g9bdf220f5945" version="1">You cast volatile sorcerous energy at one creature or object within range.</content>
+	<content contentuid="h9aa0af3ag7217g43dbg9558gf44f4bb15ac2" version="1">You choose the type of damage: Acid, Cold, Fire, Lightning, Poison, Psychic, or Thunder.</content>
+	<content contentuid="h5ac0095cg6a25g48c0gae36g47ed2aeabb8e" version="1">Exploding Dice</content>
+	<content contentuid="h99790d20g3048g4794gbbc2g79021761cce3" version="1">Mind Spiked</content>
+	<content contentuid="ha86eef28ge4b6g4940g9a1bgad0be15dd196" version="1">You feel like someone is watching you.</content>
+	<content contentuid="h562ecd57g6b37g489agbd7dg8c7743b81f65" version="1">Vortex Warp</content>
+	<content contentuid="h1616e2bbg9c97g450cg9a30g0c3fc02929ad" version="1">Teleport target creature.</content>
+	<content contentuid="h911647e5g27a3g4f47g9d60g090be45fefb7" version="1">The range increases by [1] per level.</content>
+	<content contentuid="ha1f1d0ecg762bg4268g8452g2189911eba4a" version="1">Warding Wind</content>
+	<content contentuid="h06fbe7a8ga95ag47fbg8e2aged56af846a73" version="1">A strong wind blows around you in a [1] radius and moves with you, remaining centered on you.</content>
+	<content contentuid="hd493cae3g4f0eg400fg8763gbe425c585872" version="1">The wind extinguishes small fires, disperses clouds, slows creatures, and disrupts ranged weapon attacks.</content>
+	<content contentuid="h2ea368aegd61cg497dgb114g52de5a67da71" version="1">Wind Warded</content>
+	<content contentuid="hd6e391f8g99c6g4a91g9ef0g657b2d2ba083" version="1">Affected by a strong wind.</content>
+	<content contentuid="h8ae81691gf377g48f9g9836g324838bfd3dc" version="1">Scroll of Frostbite</content>
+	<content contentuid="h3ab48265gbfc3g4675ga6a0gbc5f03d026ee" version="1">Scroll of Green-Flame Blade</content>
+	<content contentuid="h4b9ef50fg1745g46ecg9b01gede356c32d7f" version="1">Scroll of Lightning Lure</content>
+	<content contentuid="h271b5f11g15a5g40e1gaf78g28e51d319592" version="1">Scroll of Mind Sliver</content>
+	<content contentuid="h50e2a0fag7496g4ea1gaf2cg79d642d7bb16" version="1">Scroll of Sapping Sting</content>
+	<content contentuid="h5162cc2dgb052g4db3gab96g4bba59ba5f1b" version="1">Scroll of Sword Burst</content>
+	<content contentuid="h4ea63f53g76e4g4b9bgab84g3811a7246652" version="1">Scroll of Thunderclap</content>
+	<content contentuid="h3131f345gc56eg40d2g9411ge33fa21766ca" version="1">Scroll of Absorb Elements</content>
+	<content contentuid="h0d43483cgf216g4d2cg8c66ga89883c00404" version="1">Scroll of Catapult</content>
+	<content contentuid="h2c45fad7gc842g42bbg8997g982d2c074152" version="1">Scroll of Cause Fear</content>
+	<content contentuid="h0959b889g2fffg4d7egb433g85d7c1437599" version="1">Scroll of Frost Fingers</content>
+	<content contentuid="h849006eeg0116g493eg9f5bg2400f447f9b1" version="1">Scroll of Tasha's Caustic Brew</content>
+	<content contentuid="h73278bbbg0de2g4c46g9aebg2fbdde05842c" version="1">Scroll of Aganazzar's Scorcher</content>
+	<content contentuid="he9fda933g2442g4ec3ga63ag0fed4ea0a4e1" version="1">Scroll of Borrowed Knowledge</content>
+	<content contentuid="hc6c6a469gb80fg438bg8358ga243a85313e4" version="1">Scroll of Dragon's Breath</content>
+	<content contentuid="h3e3a9a7dg9449g406dg8ef4g49c2f1b94d81" version="1">Scroll of Fortune's Favor</content>
+	<content contentuid="hf5b7b093gbad5g4a9eg8cfag9484e35c5933" version="1">Scroll of Kinetic Jaunt</content>
+	<content contentuid="hc200e128gd87ag41cbg9707g4bc8533c401d" version="1">Scroll of Mind Spike</content>
+	<content contentuid="h27d8dac6g3cc3g4a71g80edg96c4bdec628d" version="1">Scroll of Rime's Binding Ice</content>
+	<content contentuid="h8882d22fg385bg4a14gaf8eg3812da52662b" version="1">Scroll of Snilloc's Snowball Swarm</content>
+	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
+	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
+	<content contentuid="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1">Scroll of Wither and Bloom</content>
+	<content contentuid="h33be49ceg3a21g4206g9e86g5bbab2ee1a5d" version="1">Scroll of Ashardalon's Stride</content>
+	<content contentuid="h195e8b66g4e45g4a52gba13g91ecb6e3db7b" version="1">Scroll of Catnap</content>
+	<content contentuid="h09db820bg4025g4f12gaa33gdb8b5a0b2863" version="1">Scroll of Enemies Abound</content>
+	<content contentuid="h7d4e0a65g3fafg47b5g88acgae9e13e43b3b" version="1">Scroll of Erupting Earth</content>
+	<content contentuid="he34e7ac5g971dg47a7g807egc31ed78ad538" version="1">Scroll of Flame Arrows</content>
+	<content contentuid="hbdd5dd90g570ag4fb5gbea9g93e586f2c61d" version="1">Scroll of Intellect Fortress</content>
+	<content contentuid="h1b3694c8gaabdg4d99ga20eg7da093b283c0" version="1">Scroll of Life Transference</content>
+	<content contentuid="h3d7927a0g18d4g49ebg82c1ga9433cb81091" version="1">Scroll of Melf's Minute Meteors</content>
+	<content contentuid="h2a3bd909gd0a4g48d0gb276g9c2593c0edc8" version="1">Scroll of Spirit Shroud</content>
+	<content contentuid="h78097c51gb69dg4897gac75g60168caacd87" version="1">Scroll of Thunder Step</content>
+	<content contentuid="h8993f426ga5c0g4598g8b72gbbfd49fb1317" version="1">Scroll of Elemental Bane</content>
+	<content contentuid="h1d14258age7d8g4498gb311g03e5f3a95b92" version="1">Scroll of Gravity Sinkhole</content>
+	<content contentuid="h6bd4d372gbbd4g492agb8d8ge4b3cef529cc" version="1">Scroll of Raulothim's Psychic Lance</content>
+	<content contentuid="h24769c10g3c9fg4217ga1a9g0370c1dabfd5" version="1">Scroll of Storm Sphere</content>
+	<content contentuid="h69bd94e7g85afg43e8gbca8ge40853427a7f" version="1">Healing Spirit</content>
+	<content contentuid="h166ed9a2gfb0eg4d6ag97b4g300fed59128d" version="1">Summon an intangible spirit. Whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore [1] hit points to that creature (no action required).</content>
+	<content contentuid="hcd76b64ag9793g4d75g9808g48924d79b69e" version="1">The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice).</content>
+	<content contentuid="hd10061c5g987cg495agb549ga200834835c7" version="1">Heaing Charges</content>
+	<content contentuid="hc29a07degffdfg42e0gac62ga425accb8595" version="1">The number of times the Healing Spirit can still heal.</content>
+	<content contentuid="hae89aee7g89b5g4396g8d7bg32af99698f90" version="1">Wither and Bloom</content>
+	<content contentuid="h9c29c6c2g4070g4f7cg9749gddb988cb6546" version="1">Damage each enemy creature in a [1] radius.</content>
+	<content contentuid="hbe2c51e7g5f35g4a95g9eadg6983215b1e75" version="1">You can choose one creature in the area to heal [1].</content>
+	<content contentuid="hab768585g76eag40f1gbf90g6cd6e69b6322" version="1">Deals an additional [1] and heals an additional [2] per level.</content>
+	<content contentuid="ha328a1e6g3a55g4ffcgb8cfg98bf1f15d27a" version="1">Bloom</content>
+	<content contentuid="h96c7b17bgf8beg492fgb51bgd7708222cb5f" version="1">Heal target creature that was within the effect of your Wither and Bloom.</content>
+	<content contentuid="h507108ffg5593g44bfg896egfe33f1bbd3cc" version="1">Rime's Binding Ice</content>
+	<content contentuid="hd5b8a963gdb63g4370g8d99gb143685ba49c" version="1">Targets are hindered by ice formations, unable to move for 1 minute or until another creature helps it.</content>
+	<content contentuid="h3bef2945g8164g4da0g9fddg9637fe13c1ba" version="1">Targets still take half damage and aren't hindered by ice.</content>
+	<content contentuid="h76a3e997g3f14g4f90gb5e7gb4da9f220154" version="1">Hindered by Ice</content>
+	<content contentuid="h18eceb30g9707g47dfg9df0g6e02c928eb93" version="1">Hindered by ice and cannot move until helped.</content>
+	<content contentuid="hd7cf9114g16a7g48c3g96d6gad3747864af7" version="1">Snilloc's Snowball Swarm</content>
+	<content contentuid="h42d8faf2gd056g4882g823dg753c70a32a0d" version="1">A flurry of magic snowballs erupts from a point you choose within a 5-foot-radius area.</content>
+	<content contentuid="h27e1002dg9519g47a3ga910g48d6d80f6eb1" version="1">Mental Barrier</content>
+	<content contentuid="h9b8219e0gb9feg47e4g8f33gacf90ac1aa6e" version="1">You protect your mind with a wall of looping, repetitive thought. Until the start of your next turn, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;, and you have resistance to psychic damage.</content>
+	<content contentuid="h3c9e0dc4g7af5g4a1dg911egd633ff31087a" version="1">Tidal Wave</content>
+	<content contentuid="h94336bfegf343g4e87g8cd8gc9b3566c8a5c" version="1">You conjure up a wave of water that crashes down on an area within range.</content>
+	<content contentuid="habb4207cgae98g4bb3g899egf8f4c94d378f" version="1">Thunder Step</content>
+	<content contentuid="h86c77804g3acbg44d5gae14gb5d911a0928e" version="1">You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, damaging each creature within [1] of the space you left.</content>
+	<content contentuid="ha3138095g07aag4b22g89dbgf6117f9d33a9" version="1">You can bring one extra creature with you.</content>
+	<content contentuid="h4d1f6b51g3c8ag4319gaa19g6995b38728cc" version="1">Spirit Shroud</content>
+	<content contentuid="h2761fed9g707bg4f23g9a2dged9e28913d21" version="1">Spirit Shroud: Cold</content>
+	<content contentuid="h221265aag8ec6g4c57g8a63g024e48e43679" version="1">Spirit Shroud: Necrotic</content>
+	<content contentuid="h19aad7cfg752bg44acg9d3fg85d3ab26619c" version="1">Spirit Shroud: Radiant</content>
+	<content contentuid="h0e6b2e9cgd5a9g4a79g8754gbdb7ec17cd4c" version="1">Any attack you make deals an extra [1] when you hit a creature within [2] of you. This damage is radiant, necrotic, or cold. Any creature that takes this damage can’t regain hit points until the start of your next turn.</content>
+	<content contentuid="hd0c6e4fbgd4f0g4391gad57g9e7970113d63" version="1">Enemies that starts their turn within [1] of you has its speed reduced by [1] until the start of your next turn.</content>
+	<content contentuid="h2e5f6eb7g1492g42afga82bga99f2e8af62e" version="1">Spririt Shrouded</content>
+	<content contentuid="hdf0f815fgcb4ag4ad8g8240gcc4baf8fd85e" version="1">Spirits are hindering your movement. Your speed is reduced by [1].</content>
+	<content contentuid="h44446647g1343g443fga403gef3cb85d530a" version="1">Spirits are preventing you from healing.</content>
+	<content contentuid="h7f24232dg7c3dg40ecg9920g8dad33bca312" version="1">Motivational Speech</content>
+	<content contentuid="h3d829823g712bg4245g980bg8459c62803a4" version="1">Each affected creature gains [1] and has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If an affected creature is hit by an attack, it has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; it makes.</content>
+	<content contentuid="h9ae7a2bbgfeacg4436g9d40g747b1dc31950" version="1">Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.</content>
+	<content contentuid="h02f0167fgb6e5g40b0g91afg78fe4d7efecf" version="1">You gains [1] and have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Wisdom &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;. If you are hit by an attack, you have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on the next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt; you make.</content>
+	<content contentuid="h8d0310cdg80a0g465cga90ag1699ffe2e911" version="1">When you lose the temporary hit points granted by this spell, the spell ends.</content>
+	<content contentuid="he031181egb365g4ea9g8088ge1a9e697cc6a" version="1">You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on your next &lt;LSTag Tooltip="AttackRoll"&gt;Attack Roll&lt;/LSTag&gt;.</content>
+	<content contentuid="h5f9e5c25gb840g4f86g8854gc577246d8752" version="1">Melf's Minute Meteors</content>
+	<content contentuid="h7e523935g1a10g4a90gb131gf3cd3d8453ce" version="1">You create [1] tiny meteors in your space. When you cast the spell — and as a bonus action on each of your turns thereafter — you can launch one or two of the meteors, dealing [2] to creatures within [3].</content>
+	<content contentuid="h0778a11ag8389g49c9g8e4agdf53dee2cdc1" version="1">Minute Meteors are floating around you.</content>
+	<content contentuid="hc0c5d48dgd010g4372g8e02ga7301c72da38" version="1">Launch Minute Meteors</content>
+	<content contentuid="h607a8031g5718g4284g8f5bgda88a8c69098" version="1">Launch [1] meteors at target location, dealing [2] to each creature within [3] of the impact.</content>
+	<content contentuid="hd7a1afcag9994g419bgad81gd4c79b71ad98" version="1">Minute Meteor</content>
+	<content contentuid="h929ed0f6ge944g4583ga8b9gbb79c6eb7b0f" version="1">The number of remaining meteors.</content>
+	<content contentuid="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1">The number of meteors created increases by 2 per level.</content>
+	<content contentuid="h401dd168g5cabg466ag9b75g66f4027a6d3e" version="1">Ashardalon's Stride</content>
+	<content contentuid="h3efa844ag9596g4110ga3b0g2559036cb447" version="1">Your speed increases by [1] and moving doesn’t provoke opportunity attacks. Nearby creatures and objects that aren’t being worn or carried, it take [2] from your trail of heat.</content>
+	<content contentuid="hd6030890gc03dg4607gb4e1g1ecc496cec67" version="1">Your speed is increased by [1] and this spell deals an additional [2] per level.</content>
+	<content contentuid="h6c12a817gcc17g41dcg98bagbb8ccc2d6bff" version="1">Will ignite surfaces.</content>
+	<content contentuid="h54e8a938g2f48g4d68g8364gdbd7a09f1331" version="1">Catnap</content>
+	<content contentuid="hf112f970g04a7g43b7g8b9agfea697e4a1b2" version="1">Up to 3 target gains the benefit of a short rest and can’t be affected by this spell again until they finish a long rest.</content>
+	<content contentuid="hbad37b32g6225g4fa6ga5cegb0e47701f100" version="1">Enemies Abound</content>
+	<content contentuid="h13373e2fgfdd4g4b55gb513g6f3d386c41ae" version="1">Target becomes hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
+	<content contentuid="hafb2e3bag2a97g4856ga57bg86b68b24252e" version="1">Hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
+	<content contentuid="h36244133gb49bg4da8gbb03g4d988f9c38a9" version="1">Flame Arrows</content>
+	<content contentuid="h1f11c84ag9ec2g4576g8b0cg92996c01989e" version="1">Enchant [1] arrows to deal an additional [2].</content>
+	<content contentuid="h21523c95ged21g46f5ga891gfadb3de8fbec" version="1">Your arrows are enchanted to deal an additional .</content>
+	<content contentuid="h7ee77f93g93b2g445cga950g4dded0aded81" version="1">Flame Arrow</content>
+	<content contentuid="h10d3027bg3dcbg46cdga37dgb07ee2f8ca88" version="1">The number of remaining flame arrows.</content>
+	<content contentuid="h4fbc169dgdff6g41aag98c6g9c24cf6c713b" version="1">The number of arrows enchanted increases by 2 per level.</content>
+	<content contentuid="h9b4b4c49g5bf7g48a7ga6fcg2165762f9e77" version="1">Intellect Fortress</content>
+	<content contentuid="h1230f299ge56ag4c24g9c4bgcd0430edc454" version="1">Target creature has resistance to psychic damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="hec85243eg0557g49eag906cgff6c7d490e04" version="1">Resistance psychic damage and &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Intelligence, Wisdom, and Charisma &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt;.</content>
+	<content contentuid="h8d0073dag1520g4625g97aage1227e3feeaf" version="1">Life Transference</content>
+	<content contentuid="hb6156ac4ga562g40e1gabc8g831a6f91ef95" version="1">You take [1], which can’t be reduced in any way, and one creature of your choice that you can see within range regains a number of hit points equal to twice the necrotic damage you take.</content>
+	<content contentuid="he1addedbg9088g4bccg9b90g576897c9b96c" version="1">Damage</content>
+	<content contentuid="h3807513dgf864g46d2ga0adg5c6296345e70" version="1">Aura of Vitality</content>
+	<content contentuid="h78d29e8dgf11eg464dg9de3g2425e2466511" version="1">You can use a bonus action to cause one creature within [1] to regain [2].</content>
+	<content contentuid="ha7e87458g35e5g4438gbeefgfbd1da4b721a" version="1">Cause one creature to regain [1].</content>
+	<content contentuid="hc37c2c07g2486g4f25g86ecge225860d994a" version="1">Erupting Earth</content>
+	<content contentuid="h54dda0f7g8264g408egb42eg445058124992" version="1">Deal damage to all creatures in a [1] radius, leaving behind &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt;.</content>
+	<content contentuid="h92add63bg350ag4f94ga553ge42fd1638aa7" version="1">Elemental Bane</content>
+	<content contentuid="ha9c2fef3gf15dg42e9g8f73g6c2140c10aa1" version="1">Elemental Bane: Acid</content>
+	<content contentuid="hf2829c2cgc627g4be8g8e11g93d79c923222" version="1">Elemental Bane: Cold</content>
+	<content contentuid="hd384c7fbg7e22g4a86ga23eg8ea129145890" version="1">Elemental Bane: Fire</content>
+	<content contentuid="h6f0cb0e5gbc3ag4e17ga649gf04c3e5a7406" version="1">Elemental Bane: Lightning</content>
+	<content contentuid="h5f645ffbg23a4g420bg9bedg70e8ae3a82e5" version="1">Elemental Bane: Thunder</content>
+	<content contentuid="h58e695beg0756g446cgaa4eg0834df30502f" version="1">Choose one of the following damage types: acid, cold, fire, lightning, or thunder.</content>
+	<content contentuid="h4df54721gea49g4a7egbccfgdcf9737f4c6c" version="1">The target loses any resistance to the chosen damage type, and the first time each turn the affected target takes that type of damage, the target takes an extra [1].</content>
+	<content contentuid="hc1f65da1g4629g4a17gb34dgce7bbced0ce4" version="1">The target loses any resistance to Acid damage, and the first time each turn the affected target takes Acid damage, the target takes an extra [1].</content>
+	<content contentuid="h6c0333e3ge623g4b07gac64g4bb4c3d912e1" version="1">The target loses any resistance to Cold damage, and the first time each turn the affected target takes Cold damage, the target takes an extra [1].</content>
+	<content contentuid="h08bc6979g47bag42c1gbb44g9bb7ca8cf267" version="1">The target loses any resistance to Fire damage, and the first time each turn the affected target takes Fire damage, the target takes an extra [1].</content>
+	<content contentuid="hc5a66efbg1460g4e83gbb9ag8bc206a43261" version="1">The target loses any resistance to Lightning damage, and the first time each turn the affected target takes Lightning damage, the target takes an extra [1].</content>
+	<content contentuid="hffdd43b5g2829g4253g8fb6g0e751e99610b" version="1">The target loses any resistance to Thunder damage, and the first time each turn the affected target takes Thunder damage, the target takes an extra [1].</content>
+	<content contentuid="h496bffb8g4d4dg4212gbad9gb8fda3cbf4b9" version="1">Gravity Sinkhole</content>
+	<content contentuid="hffe56545gd31dg4e39g81f1g2e727064eedf" version="1">Create a [1] radius sphere of crushing force that pulls creatures towards its center.</content>
+	<content contentuid="h4299b8f3g533eg493dg92f2gc33d46d3c8b4" version="1">Guardian of Nature</content>
+	<content contentuid="hb67ec43ag6f0cg4aaeg9d92g328f4bc60772" version="1">Guardian of Nature: Primal Beast</content>
+	<content contentuid="h9ac2112dg42c4g4fcdg940egefcb5f5fd8ed" version="1">Guardian of Nature: Great Tree</content>
+	<content contentuid="h9b2e7e98g32a0g4a55g90e7g0c00b875f816" version="1">A nature spirit answers your call and transforms you into a powerful guardian, granting several benefits.</content>
+	<content contentuid="hdc1aa648geef3g450bg8632g05f26efca1f9" version="1">You choose to assume the form of a Primal Beast or a Giant Tree.</content>
+	<content contentuid="h96d819fcg90c8g480dga796g5db1c7b9f7ea" version="1">Increases your movement speed by [1], grants darkvision, grants &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on strength-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and adds [2] to melee attacks.</content>
+	<content contentuid="h67541404g2550g48b9g9496g2f87adf91115" version="1">Grants [1] &lt;LSTag Tooltip="TemporaryHitPoints"&gt;temporary hit points&lt;/LSTag&gt;, grants &lt;LSTag Type="Passive" Tooltip="Darkvision"&gt;Darkvision&lt;/LSTag&gt;, grants &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on constitution &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throws&lt;/LSTag&gt; and on dexterity- and wisdom-based &lt;LSTag Tooltip="AttackRoll"&gt;Attack Rolls&lt;/LSTag&gt;, and creates d&lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; for enemies within [2].</content>
+	<content contentuid="hd9063243g7345g407fga660gf9035c14d4bb" version="1">Raulothim's Psychic Lance</content>
+	<content contentuid="h946b50b9g3389g4217g8038gbeb95cd35077" version="1">On a failed save, the target is &lt;LSTag Type="Status" Tooltip="KJ_PSYCHIC_LANCE_INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt; until the start of your next turn.</content>
+	<content contentuid="h9f79fb89g8059g49c4gb1b2g01fc52c8d213" version="1">Incapacitated</content>
+	<content contentuid="h29c3339fg19fag42daga9aegc6433fd7afbe" version="1">Cannot take actions or reactions.</content>
+	<content contentuid="hc76c5739g8bddg4c4agb4begcd9899f855ea" version="1">Shadow of Moil</content>
+	<content contentuid="h031ec8c3g5bd8g4bc5gaed9gff1f284a7573" version="1">You gain resistance to radiant damage. In addition, whenever a creature within [1] of you hits you with an attack, the shadows lash out at that creature, dealing [2].</content>
+	<content contentuid="h5a196223ga368g4a31g8e76g0afe74234247" version="1">Storm Sphere</content>
+	<content contentuid="h29b76663g2d1bg4889gad95g71e9b0f23809" version="1">Storm Sphere: Lightning</content>
+	<content contentuid="h8a3bda42g28c9g446cg9519g5860e2969ec3" version="1">A [1] radius storm rages, counting as &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and dealing [2] to creatures that start their turn within it.</content>
+	<content contentuid="h4f00e26fgb8fdg4e72gb813g6b650465fe8e" version="1">You can use a bonus action to call down lighting and strike a creature within [1] of the storm for [2].</content>
+	<content contentuid="h6f03bf39g2102g44ddg82d9gd50cd38b0db1" version="1">Call down lighting and strike a creature within [1] of the storm for [2].</content>
+	<content contentuid="h5d8b4fb3g1380g4cc1gb546g77426a124afd" version="1">Take [1] if you start your turn in the storm.</content>
+	<content contentuid="h739f85eege2edg4364g9bcfg93b9c0c3a716" version="1">Cordon of Arrows</content>
+	<content contentuid="ha989c873g5bb3g4bccga477g98e019470608" version="1">Arrows</content>
+	<content contentuid="h0661cc46ga510g4eb1ga24fg9828ce1de25e" version="1">Number of Arrows left for Cordon of Arrows</content>
+	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
+	<content contentuid="h3c04f0efgcd86g4a1bg95bag4eb035869792" version="1">Frostbite</content>
+	<content contentuid="h6ab48ec6g3ff7g4de0g8e5cg3da78d7f351f" version="1">The target is &lt;LSTag Type="Status" Tooltip="MAG_FROSTBITE_SPELL"&gt;Frostbitten&lt;/LSTag&gt; until it attacks or the end of its next turn.</content>
+	<content contentuid="h03f566e0gb0b8g4ca7ga6ecg39c1cd5f4139" version="1">Green-Flame Blade</content>
+	<content contentuid="hb6bdb78agc55dg45a1ga985g1dcc2affc98f" version="1">Green-Flame (Main Hand)</content>
+	<content contentuid="hb7cf880fg5d5ag4c83g9897gb1350369430d" version="1">Green-Flame (Off-Hand)</content>
+	<content contentuid="h32f49880g7a4cg4897g9bc7gf79c099fd5a0" version="1">You can cause green fire to leap from the target to a different creature of your choice that you can see within [1] of it.</content>
+	<content contentuid="h1a28e2a7g834bg40a7gb18fg621c1a2be0e2" version="1">Adds your Off-Hand &lt;LSTag Tooltip="AbilityModifier"&gt;Ability Modifier&lt;/LSTag&gt; to the damage.</content>
+	<content contentuid="h1471c1fcg775ag4b18g8d1fgc83cdedf11f3" version="1">Green-Flame Blade Splash Damage</content>
+	<content contentuid="h00a3b9beg58c9g4a9ag8323gdce3a676a225" version="1">The Green-Flame Blade can splash a second creature within [1] of its first target.</content>
+	<content contentuid="hb8f39f9bg6a8cg4a2fga895g87b9e9511ebc" version="1">Green-Flame Target</content>
+	<content contentuid="he4546243g783eg4efdg87b2g1d2905279f60" version="1">The Green-Flame Blade can strike at this target.</content>
+	<content contentuid="hed1b2f07g88c5g43b0ga944ga018a8565691" version="1">%%%Green Flame Aura</content>
+	<content contentuid="hbcf9dbb8g1155g4070gb0ffgce474bb39dfd" version="1">%%%Green Flame Technical</content>
+	<content contentuid="h6d1656b5g41d6g4b02g9237gc99e373909cf" version="1">Lightning Lure</content>
+	<content contentuid="h2d665a31g171cg4670gba2eg80cc1c320da6" version="1">Mind Sliver</content>
+	<content contentuid="h05bdd115g3221g4901g9432gada6c6cb6bdf" version="1">You drive a disorienting spike of psychic energy into the mind of one creature you can see within range.</content>
+	<content contentuid="hb8176b1bg59d2g45ddg8a28gc200eb8d51f6" version="1">Mind Pierced</content>
+	<content contentuid="hee8be49fgedceg487bgbae9gf15fabb80c76" version="1">You have a [1] penalty to your next &lt;LSTag Tooltip="SavingThrow"&gt;Saving Throw&lt;/LSTag&gt;.</content>
+	<content contentuid="h26f32b40g1608g49dcgb819g1e31723f1aa2" version="1">Primal Savagery</content>
+	<content contentuid="h9ee32c3bga88cg4282gbe04gc7a5176870b1" version="1">You channel primal magic to cause your fingernails to sharpen to deliver a corrosive attack.</content>
+	<content contentuid="hbe39667agcd55g4ee9gb8afgae9150be2d8c" version="1">Sword Burst</content>
+	<content contentuid="h2e63bc5egeca7g4b21g9f55g37b19fa160cc" version="1">You create a momentary circle of spectral blades that sweep around you.</content>
+	<content contentuid="hb36e08e4g2c02g44cdg8952g4d69b769a2b3" version="1">Sapping Sting</content>
+	<content contentuid="he2e70bbegeb94g482eg8748g202dce9ae791" version="1">You sap the vitality of one creature you can see in range.</content>
+	<content contentuid="h315659c0g61fdg4b06ga651g5f0e938a6f29" version="1">Word of Radiance</content>
+	<content contentuid="hf2bbde95g4533g48c5gbbceg6138f4e274ce" version="1">You utter a divine word, and burning radiance erupts from you.</content>
+	<content contentuid="hbc99f570gad06g4e7fgba50g9e7726ada7b7" version="1">Catapult</content>
 	<content contentuid="h415d5871gcbe4g42fcgb2f9gd246f5db2b7e" version="1">Catapult one object weighing 1 to [1] pounds within range that isn’t being worn or carried.</content>
 	<content contentuid="h0e38a6d4g430cg48c5ga04cgb381150cc10a" version="1">Deals an additional [1] damage and can launch an additional [2].</content>
 	<content contentuid="h2a98ddadg1280g4d71g941dg54d2f1b58d9c" version="1">Too heavy to Catapult.</content>
