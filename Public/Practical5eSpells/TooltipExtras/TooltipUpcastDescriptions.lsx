@@ -15,6 +15,11 @@
                     <attribute id="UUID" type="guid" value="85c63641-cf83-4ae2-bf32-ff3b47c7b217"/>
                 </node>
                 <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional damage and additional distance"/>
+                    <attribute id="Text" type="TranslatedString" handle="hd6030890gc03dg4607gb4e1g1ecc496cec67" version="1"/>
+                    <attribute id="UUID" type="guid" value="e39c571f-3e82-4b33-a07c-2b588f2fcbc2"/>
+                </node>
+                <node id="TooltipUpcastDescriptions">
                     <attribute id="Name" type="FixedString" value="Additional damage and additional healing"/>
                     <attribute id="Text" type="TranslatedString" handle="hab768585g76eag40f1gbf90g6cd6e69b6322" version="1"/>
                     <attribute id="UUID" type="guid" value="af1dfbc2-bde8-46f2-85d8-0cfd8fae70f7"/>

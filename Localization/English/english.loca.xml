@@ -130,6 +130,8 @@
 	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
 	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
 	<content contentuid="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1">Scroll of Wither and Bloom</content>
+	<content contentuid="h33be49ceg3a21g4206g9e86g5bbab2ee1a5d" version="1">Scroll of Ashardalon's Stride</content>
+	<content contentuid="h09db820bg4025g4f12gaa33gdb8b5a0b2863" version="1">Scroll of Enemies Abound</content>
 	<content contentuid="h3d7927a0g18d4g49ebg82c1ga9433cb81091" version="1">Scroll of Melf's Minute Meteors</content>
 	<content contentuid="h2a3bd909gd0a4g48d0gb276g9c2593c0edc8" version="1">Scroll of Spirit Shroud</content>
 	<content contentuid="h78097c51gb69dg4897gac75g60168caacd87" version="1">Scroll of Thunder Step</content>
@@ -181,5 +183,14 @@
 	<content contentuid="hd7a1afcag9994g419bgad81gd4c79b71ad98" version="1">Minute Meteor</content>
 	<content contentuid="h929ed0f6ge944g4583ga8b9gbb79c6eb7b0f" version="1">The number of remaining meteors.</content>
 	<content contentuid="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1">The number of meteors created increases by 2 per level.</content>
+	<content contentuid="h401dd168g5cabg466ag9b75g66f4027a6d3e" version="1">Ashardalon's Stride</content>
+	<content contentuid="h3efa844ag9596g4110ga3b0g2559036cb447" version="1">Your speed increases by [1] and moving doesn’t provoke opportunity attacks. Nearby creatures and objects that aren’t being worn or carried, it take [2] from your trail of heat.</content>
+	<content contentuid="hd6030890gc03dg4607gb4e1g1ecc496cec67" version="1">Your speed is increased by [1] and this spell deals an additional [2] per level.</content>
+	<content contentuid="h6c12a817gcc17g41dcg98bagbb8ccc2d6bff" version="1">Will ignite surfaces.</content>
+	<content contentuid="h54e8a938g2f48g4d68g8364gdbd7a09f1331" version="1">Catnap</content>
+	<content contentuid="hf112f970g04a7g43b7g8b9agfea697e4a1b2" version="1">Up to 3 target gains the benefit of a short rest and can’t be affected by this spell again until they finish a long rest.</content>
+	<content contentuid="hbad37b32g6225g4fa6ga5cegb0e47701f100" version="1">Enemies Abound</content>
+	<content contentuid="h13373e2fgfdd4g4b55gb513g6f3d386c41ae" version="1">Target becomes hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
+	<content contentuid="hafb2e3bag2a97g4856ga57bg86b68b24252e" version="1">Hostile to everyone in the vicinity. Makes a new save every time it takes damage.</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>

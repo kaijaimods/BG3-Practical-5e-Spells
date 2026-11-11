@@ -5,12 +5,16 @@
         <node id="root">
             <children>
                 <node id="TooltipExtraTexts">
-                    <attribute id="Text" type="TranslatedString" handle="h66b1be7cg96aeg456eg8023g59a82e39f8c8" version="2"/>
+                    <attribute id="Text" type="TranslatedString" handle="h66b1be7cg96aeg456eg8023g59a82e39f8c8" version="1"/>
                     <attribute id="UUID" type="guid" value="9e4718be-1378-46e9-8fee-5107df8c9007"/>
                 </node>
                 <node id="TooltipExtraTexts">
-                    <attribute id="Text" type="TranslatedString" handle="h3bef2945g8164g4da0g9fddg9637fe13c1ba" version="2"/>
+                    <attribute id="Text" type="TranslatedString" handle="h3bef2945g8164g4da0g9fddg9637fe13c1ba" version="1"/>
                     <attribute id="UUID" type="guid" value="a6d1eef9-d43e-42be-9f53-6fb7113e2da0"/>
+                </node>
+                <node id="TooltipExtraTexts">
+                    <attribute id="Text" type="TranslatedString" handle="h6c12a817gcc17g41dcg98bagbb8ccc2d6bff" version="1"/>
+                    <attribute id="UUID" type="guid" value="a5c12a60-0c12-4ced-8bb7-e74e554981c6"/>
                 </node>
             </children>
         </node>

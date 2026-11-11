@@ -4,11 +4,11 @@
 	<region id="MultiEffectInfos">
 		<node id="MultiEffectInfos">
 			<attribute id="UUID" type="guid" value="e9b482da-4a93-4d6f-9602-6f0f654ae042" />
-			<attribute id="Name" type="LSString" value="Warding_Wind_AuratEffect" />
+			<attribute id="Name" type="LSString" value="Warding_Wind_AuraEffect" />
 			<children>
 				<node id="EffectInfo">
 					<attribute id="UUID" type="guid" value="1b50e2dd-0d8a-420d-b424-8105131c5c26" />
-					<attribute id="EffectResourceGuid" type="guid" value="ca94d439-3eb9-4e63-9522-4f133f75b3b1" />
+					<attribute id="EffectResourceGuid" type="guid" value="719ba6d7-cb58-e7d3-9606-e84bb129f17b" />
 					<attribute id="DetachSource" type="bool" value="False" />
 					<attribute id="DetachTarget" type="bool" value="False" />
 					<attribute id="KeepRotation" type="bool" value="True" />
@@ -26,11 +26,6 @@
 					<attribute id="DamageType" type="uint32" value="0" />
 					<attribute id="VerbalIntent" type="uint32" value="0" />
 					<attribute id="Enabled" type="bool" value="True" />
-					<children>
-						<node id="TargetBone">
-							<attribute id="Value" type="LSString" value="Dummy_Root" />
-						</node>
-					</children>
 				</node>
 			</children>
 		</node>
