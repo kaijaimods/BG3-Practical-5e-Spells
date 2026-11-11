@@ -1405,6 +1405,46 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h24769c10g3c9fg4217ga1a9g0370c1dabfd5" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="80532c14-73f8-44cd-80c4-b2a77a221b1a" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_StormSphere" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_StormSphere" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Target_StormSphere&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Target_StormSphere" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Target_StormSphere" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="h78097c51gb69dg4897gac75g60168caacd87" version="1" />
 					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
 					<attribute id="LevelName" type="FixedString" value="" />
@@ -1443,6 +1483,75 @@
 							</children>
 						</node>
 					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CanClickThrough" type="bool" value="True" />
+					<attribute id="CanShootThrough" type="bool" value="True" />
+					<attribute id="Description" type="TranslatedString" handle="h7d6fa246ge9e5g4cf5g88b2g9c06cbff71e6" version="1" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h5a196223ga368g4a31g8e76g0afe74234247" version="1" />
+					<attribute id="GravityType" type="uint8" value="1" />
+					<attribute id="Icon" type="FixedString" value="Spell_Conjuration_SleetStorm" />
+					<attribute id="IsInteractionDisabled" type="bool" value="True" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="a25d4084-138a-4257-83f6-d7e37f18e7c3" />
+					<attribute id="Name" type="LSString" value="Helper_Spell_SleetStorm" />
+					<attribute id="ParentTemplateId" type="FixedString" value="06f96d65-0ee5-4ed5-a30a-92a3bfe3f708" />
+					<attribute id="PhysicsTemplate" type="FixedString" value="" />
+					<attribute id="Stats" type="FixedString" value="OBJ_GenericImmutableObject" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="VisualTemplate" type="FixedString" value="144238e0-707e-e6b4-ed40-79820dce39dc" />
+					<attribute id="WalkThrough" type="bool" value="True" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209023" />
+					<children>
+						<node id="Bounds">
+							<children>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.19999999" />
+									<attribute id="Max" type="fvec3" value="0.09510566 0.099999994 0.090450816" />
+									<attribute id="Min" type="fvec3" value="-0.07694207 -0.099999994 -0.090450816" />
+									<attribute id="Radius" type="float" value="0.090450816" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="0" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.19999999" />
+									<attribute id="Max" type="fvec3" value="0.09510566 0.099999994 0.090450816" />
+									<attribute id="Min" type="fvec3" value="-0.07694207 -0.099999994 -0.090450816" />
+									<attribute id="Radius" type="float" value="0.090450816" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="1" />
+								</node>
+								<node id="Bound">
+									<attribute id="Height" type="float" value="0.19999999" />
+									<attribute id="Max" type="fvec3" value="0.09510566 0.099999994 0.090450816" />
+									<attribute id="Min" type="fvec3" value="-0.07694207 -0.099999994 -0.090450816" />
+									<attribute id="Radius" type="float" value="0.090450816" />
+									<attribute id="Shape" type="uint8" value="1" />
+									<attribute id="Type" type="uint8" value="2" />
+								</node>
+							</children>
+						</node>
+						<node id="Tags">
+							<children>
+								<node id="Tag">
+									<attribute id="Object" type="guid" value="6d60bed7-10cc-4b52-8fb7-baa75181cd49" />
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="CharacterVisualResourceID" type="FixedString" value="a92ada31-bdae-40ea-95fb-5b47191f1cf4" />
+					<attribute id="DisplayName" type="TranslatedString" handle="h739f85eege2edg4364g9bcfg93b9c0c3a716" version="1" />
+					<attribute id="GeneratePortrait" type="LSString" value="Item_BASE_LOOT_Arrow" />
+					<attribute id="Icon" type="FixedString" value="28e02807-1ca8-2e13-0f37-e162c0b6610c-_(Icon_Shadow_Hound)" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="31083c88-f888-4972-857a-9a9f3c827856" />
+					<attribute id="Name" type="LSString" value="CordonOfArrows" />
+					<attribute id="ParentTemplateId" type="FixedString" value="e72703ea-c0dc-44a1-aab8-d7b7269f7458" />
+					<attribute id="Stats" type="FixedString" value="HoundOfIllOmen" />
+					<attribute id="Type" type="FixedString" value="character" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="145241087982698496" />
 				</node>
 				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="SPL_DancingLights" />

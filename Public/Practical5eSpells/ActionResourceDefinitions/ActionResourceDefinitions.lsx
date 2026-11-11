@@ -5,6 +5,16 @@
     <node id="root">
       <children>
         <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="ha989c873g5bb3g4bccga477g98e019470608" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h0661cc46ga510g4eb1ga24fg9828ce1de25e" version="1" />
+                    <attribute id="IsSpellResource" type="bool" value="false" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="CordonOfArrowsCharges" />
+                    <attribute id="ReplenishType" type="FixedString" value="Never" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="407c6028-587c-4f49-af75-8c96fbf799c5" />
+                </node>
+        <node id="ActionResourceDefinition">
                     <attribute id="DisplayName" type="TranslatedString" handle="hd10061c5g987cg495agb549ga200834835c7" version="1" />
                     <attribute id="Description" type="TranslatedString" handle="hc29a07degffdfg42e0gac62ga425accb8595" version="1" />
                     <attribute id="IsSpellResource" type="bool" value="false" />

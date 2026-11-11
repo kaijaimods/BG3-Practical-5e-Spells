@@ -143,6 +143,7 @@
 	<content contentuid="h8993f426ga5c0g4598g8b72gbbfd49fb1317" version="1">Scroll of Elemental Bane</content>
 	<content contentuid="h1d14258age7d8g4498gb311g03e5f3a95b92" version="1">Scroll of Gravity Sinkhole</content>
 	<content contentuid="h6bd4d372gbbd4g492agb8d8ge4b3cef529cc" version="1">Scroll of Raulothim's Psychic Lance</content>
+	<content contentuid="h24769c10g3c9fg4217ga1a9g0370c1dabfd5" version="1">Scroll of Storm Sphere</content>
 	<content contentuid="h69bd94e7g85afg43e8gbca8ge40853427a7f" version="1">Healing Spirit</content>
 	<content contentuid="h166ed9a2gfb0eg4d6ag97b4g300fed59128d" version="1">Summon an intangible spirit. Whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore [1] hit points to that creature (no action required).</content>
 	<content contentuid="hcd76b64ag9793g4d75g9808g48924d79b69e" version="1">The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice).</content>
@@ -243,5 +244,16 @@
 	<content contentuid="h946b50b9g3389g4217g8038gbeb95cd35077" version="1">On a failed save, the target is &lt;LSTag Type="Status" Tooltip="KJ_PSYCHIC_LANCE_INCAPACITATED"&gt;Incapacitated&lt;/LSTag&gt; until the start of your next turn.</content>
 	<content contentuid="h9f79fb89g8059g49c4gb1b2g01fc52c8d213" version="1">Incapacitated</content>
 	<content contentuid="h29c3339fg19fag42daga9aegc6433fd7afbe" version="1">Cannot take actions or reactions.</content>
+	<content contentuid="hc76c5739g8bddg4c4agb4begcd9899f855ea" version="1">Shadow of Moil</content>
+	<content contentuid="h031ec8c3g5bd8g4bc5gaed9gff1f284a7573" version="1">You gain resistance to radiant damage. In addition, whenever a creature within [1] of you hits you with an attack, the shadows lash out at that creature, dealing [2].</content>
+	<content contentuid="h5a196223ga368g4a31g8e76g0afe74234247" version="1">Storm Sphere</content>
+	<content contentuid="h29b76663g2d1bg4889gad95g71e9b0f23809" version="1">Storm Sphere: Lightning</content>
+	<content contentuid="h8a3bda42g28c9g446cg9519g5860e2969ec3" version="1">A [1] radius storm rages, counting as &lt;LSTag Type="Status" Tooltip="DIFFICULT_TERRAIN"&gt;Difficult Terrain&lt;/LSTag&gt; and dealing [2] to creatures that start their turn within it.</content>
+	<content contentuid="h4f00e26fgb8fdg4e72gb813g6b650465fe8e" version="1">You can use a bonus action to call down lighting and strike a creature within [1] of the storm for [2].</content>
+	<content contentuid="h6f03bf39g2102g44ddg82d9gd50cd38b0db1" version="1">Call down lighting and strike a creature within [1] of the storm for [2].</content>
+	<content contentuid="h5d8b4fb3g1380g4cc1gb546g77426a124afd" version="1">Take [1] if you start your turn in the storm.</content>
+	<content contentuid="h739f85eege2edg4364g9bcfg93b9c0c3a716" version="1">Cordon of Arrows</content>
+	<content contentuid="ha989c873g5bb3g4bccga477g98e019470608" version="1">Arrows</content>
+	<content contentuid="h0661cc46ga510g4eb1ga24fg9828ce1de25e" version="1">Number of Arrows left for Cordon of Arrows</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>
