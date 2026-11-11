@@ -53,6 +53,7 @@
 	<content contentuid="h8e91f39fgf2deg4fa6g9ba3g32974fd11463" version="1">Can randomly leap to additional targets.</content>
 	<content contentuid="h81c760b2gd28eg43b1gb627gbd3467775c96" version="1">Fortune's Favor</content>
 	<content contentuid="ha424e2acge8deg4221ga256g022dbfe3f53b" version="1">Give one creature the ability to reroll one attack roll, ability check, or saving throw.</content>
+	<content contentuid="h87713d18g4a03g417bg8298g983434a96a12" version="1">You can reroll one attack roll, ability check, or saving throw.</content>
 	<content contentuid="h721604eagfbb7g42c2g9881g4c55a9428616" version="1">Dragon's Breath</content>
 	<content contentuid="h7603bf1dg09ffg4261gb204g52c10f80dcd3" version="1">Dragon's Breath: Acid</content>
 	<content contentuid="h0dd8524fgd0c5g4d32gadeag9295df219b19" version="1">Dragon's Breath: Cold</content>
@@ -129,6 +130,8 @@
 	<content contentuid="hb4aec53bgea4cg49fbga05bgb4b777b33003" version="1">Scroll of Vortex Warp</content>
 	<content contentuid="h19c8d392g995dg413dg993egb29c0dcde621" version="1">Scroll of Warding Wind</content>
 	<content contentuid="h0b757c4cg4f7ag4323ga157g3daf758da947" version="1">Scroll of Wither and Bloom</content>
+	<content contentuid="h3d7927a0g18d4g49ebg82c1ga9433cb81091" version="1">Scroll of Melf's Minute Meteors</content>
+	<content contentuid="h2a3bd909gd0a4g48d0gb276g9c2593c0edc8" version="1">Scroll of Spirit Shroud</content>
 	<content contentuid="h69bd94e7g85afg43e8gbca8ge40853427a7f" version="1">Healing Spirit</content>
 	<content contentuid="h166ed9a2gfb0eg4d6ag97b4g300fed59128d" version="1">Summon an intangible spirit. Whenever you or a creature you can see moves into the spirit's space for the first time on a turn or starts its turn there, you can cause the spirit to restore [1] hit points to that creature (no action required).</content>
 	<content contentuid="hcd76b64ag9793g4d75g9808g48924d79b69e" version="1">The spirit can heal a number of times equal to 1 + your spellcasting ability modifier (minimum of twice).</content>
@@ -149,5 +152,33 @@
 	<content contentuid="h42d8faf2gd056g4882g823dg753c70a32a0d" version="1">A flurry of magic snowballs erupts from a point you choose within a 5-foot-radius area.</content>
 	<content contentuid="h27e1002dg9519g47a3ga910g48d6d80f6eb1" version="1">Mental Barrier</content>
 	<content contentuid="h9b8219e0gb9feg47e4g8f33gacf90ac1aa6e" version="1">You protect your mind with a wall of looping, repetitive thought. Until the start of your next turn, you have advantage on Intelligence, Wisdom, and Charisma saving throws, and you have resistance to psychic damage.</content>
+	<content contentuid="h3c9e0dc4g7af5g4a1dg911egd633ff31087a" version="1">Tidal Wave</content>
+	<content contentuid="h94336bfegf343g4e87g8cd8gc9b3566c8a5c" version="1">You conjure up a wave of water that crashes down on an area within range.</content>
+	<content contentuid="habb4207cgae98g4bb3g899egf8f4c94d378f" version="1">Thunder Step</content>
+	<content contentuid="h86c77804g3acbg44d5gae14gb5d911a0928e" version="1">You teleport yourself to an unoccupied space you can see within range. Immediately after you disappear, a thunderous boom sounds, damaging each creature within [1] of the space you left.</content>
+	<content contentuid="ha3138095g07aag4b22g89dbgf6117f9d33a9" version="1">You can bring one extra creature with you.</content>
+	<content contentuid="h4d1f6b51g3c8ag4319gaa19g6995b38728cc" version="1">Spirit Shroud</content>
+	<content contentuid="h2761fed9g707bg4f23g9a2dged9e28913d21" version="1">Spirit Shroud: Cold</content>
+	<content contentuid="h221265aag8ec6g4c57g8a63g024e48e43679" version="1">Spirit Shroud: Necrotic</content>
+	<content contentuid="h19aad7cfg752bg44acg9d3fg85d3ab26619c" version="1">Spirit Shroud: Radiant</content>
+	<content contentuid="h0e6b2e9cgd5a9g4a79g8754gbdb7ec17cd4c" version="1">Any attack you make deals an extra [1] when you hit a creature within [2] of you. This damage is radiant, necrotic, or cold. Any creature that takes this damage can’t regain hit points until the start of your next turn.</content>
+	<content contentuid="hd0c6e4fbgd4f0g4391gad57g9e7970113d63" version="1">Enemies that starts their turn within [1] of you has its speed reduced by [1] until the start of your next turn.</content>
+	<content contentuid="h2e5f6eb7g1492g42afga82bga99f2e8af62e" version="1">Spririt Shrouded</content>
+	<content contentuid="hdf0f815fgcb4ag4ad8g8240gcc4baf8fd85e" version="1">Spirits are hindering your movement. Your speed is reduced by [1].</content>
+	<content contentuid="h44446647g1343g443fga403gef3cb85d530a" version="1">Spirits are preventing you from healing.</content>
+	<content contentuid="h7f24232dg7c3dg40ecg9920g8dad33bca312" version="1">Motivational Speech</content>
+	<content contentuid="h3d829823g712bg4245g980bg8459c62803a4" version="1">Each affected creature gains [1] and has advantage on Wisdom saving throws. If an affected creature is hit by an attack, it has advantage on the next attack roll it makes.</content>
+	<content contentuid="h9ae7a2bbgfeacg4436g9d40g747b1dc31950" version="1">Once an affected creature loses the temporary hit points granted by this spell, the spell ends for that creature.</content>
+	<content contentuid="h02f0167fgb6e5g40b0g91afg78fe4d7efecf" version="1">You gains [1] and have advantage on Wisdom saving throws. If you are hit by an attack, you have advantage on the next attack roll you make.</content>
+	<content contentuid="h8d0310cdg80a0g465cga90ag1699ffe2e911" version="1">When you lose the temporary hit points granted by this spell, the spell ends.</content>
+	<content contentuid="he031181egb365g4ea9g8088ge1a9e697cc6a" version="1">You have advantage on your next attack roll.</content>
+	<content contentuid="h5f9e5c25gb840g4f86g8854gc577246d8752" version="1">Melf's Minute Meteors</content>
+	<content contentuid="h7e523935g1a10g4a90gb131gf3cd3d8453ce" version="1">You create [1] tiny meteors in your space. When you cast the spell — and as a bonus action on each of your turns thereafter — you can launch one or two of the meteors, dealing [2] to creatures within [3].</content>
+	<content contentuid="h0778a11ag8389g49c9g8e4agdf53dee2cdc1" version="1">Minute Meteors are floating around you.</content>
+	<content contentuid="hc0c5d48dgd010g4372g8e02ga7301c72da38" version="1">Launch Minute Meteors</content>
+	<content contentuid="h607a8031g5718g4284g8f5bgda88a8c69098" version="1">Launch [1] meteors at target location, dealing [2] to each creature within [3] of the impact.</content>
+	<content contentuid="hd7a1afcag9994g419bgad81gd4c79b71ad98" version="1">Minute Meteor</content>
+	<content contentuid="h929ed0f6ge944g4583ga8b9gbb79c6eb7b0f" version="1">The number of remaining meteors.</content>
+	<content contentuid="he51b19c9gd730g4455g9ea9g8bb47fbe8508" version="1">The number of meteors created increases by two for each slot level above 3rd.</content>
 	<content contentuid="haa0c218egb29bg460fgb337g1df11f7f79cf" version="1">Test Variables: [1], [2], [3], [4], [5], [6], [7], [8]</content>
 </contentList>

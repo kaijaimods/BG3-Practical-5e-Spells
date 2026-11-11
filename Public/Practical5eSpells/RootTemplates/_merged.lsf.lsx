@@ -925,6 +925,86 @@
 					</children>
 				</node>
 				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h3d7927a0g18d4g49ebg82c1ga9433cb81091" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="f0e5a149-ddd6-4b9d-9a1a-f5c524a310c2" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_MelfsMinuteMeteors" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_MelfsMinuteMeteors" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Shout_MelfsMinuteMeteors&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Shout_MelfsMinuteMeteorsMelfsMinuteMeteors" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Shout_MelfsMinuteMeteors" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="h2a3bd909gd0a4g48d0gb276g9c2593c0edc8" version="1" />
+					<attribute id="Icon" type="FixedString" value="Item_LOOT_SCROLL_ArcaneLock" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="5f2b9729-9c16-42bb-996c-4046009f44e5" />
+					<attribute id="Name" type="LSString" value="LOOT_SCROLL_SpiritShroud" />
+					<attribute id="ParentTemplateId" type="FixedString" value="4ffd5c4b-4c56-4f05-a228-a33754bb1806" />
+					<attribute id="Stats" type="FixedString" value="OBJ_Scroll_SpiritShroud" />
+					<attribute id="Type" type="FixedString" value="item" />
+					<attribute id="_OriginalFileVersion_" type="int64" value="144115207403209017" />
+					<children>
+						<node id="OnUsePeaceActions">
+							<children>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="12" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="ClassId" type="guid" value="a865965f-501b-46e9-9eaa-7748e8c04d09" />
+											<attribute id="Conditions" type="LSString" value="CanUseSpellScroll(&quot;Shout_SpiritShroud&quot;)" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SkillID" type="FixedString" value="Shout_SpiritShroud" />
+										</node>
+									</children>
+								</node>
+								<node id="Action">
+									<attribute id="ActionType" type="int32" value="33" />
+									<children>
+										<node id="Attributes">
+											<attribute id="Animation" type="FixedString" value="" />
+											<attribute id="Conditions" type="LSString" value="" />
+											<attribute id="Consume" type="bool" value="True" />
+											<attribute id="SpellId" type="FixedString" value="Shout_SpiritShroud" />
+										</node>
+									</children>
+								</node>
+							</children>
+						</node>
+					</children>
+				</node>
+				<node id="GameObjects">
 					<attribute id="AnubisConfigName" type="FixedString" value="SPL_DancingLights" />
 					<attribute id="CanClickThrough" type="bool" value="True" />
 					<attribute id="DisplayName" type="TranslatedString" handle="h5ff99e33g9f85g4463g9026g6622608667c4" version="1" />

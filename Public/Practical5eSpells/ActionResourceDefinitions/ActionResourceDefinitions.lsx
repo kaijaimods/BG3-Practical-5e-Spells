@@ -5,14 +5,24 @@
     <node id="root">
       <children>
         <node id="ActionResourceDefinition">
-                    <attribute id="Description" type="TranslatedString" handle="hc29a07degffdfg42e0gac62ga425accb8595" version="1" />
                     <attribute id="DisplayName" type="TranslatedString" handle="hd10061c5g987cg495agb549ga200834835c7" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="hc29a07degffdfg42e0gac62ga425accb8595" version="1" />
                     <attribute id="IsSpellResource" type="bool" value="false" />
                     <attribute id="MaxLevel" type="uint32" value="0" />
                     <attribute id="Name" type="FixedString" value="HealingSpiritCharges" />
                     <attribute id="ReplenishType" type="FixedString" value="Never" />
                     <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
                     <attribute id="UUID" type="guid" value="4c1e12bf-8686-4200-8444-cd2210fa12c1" />
+                </node>
+        <node id="ActionResourceDefinition">
+                    <attribute id="DisplayName" type="TranslatedString" handle="hd7a1afcag9994g419bgad81gd4c79b71ad98" version="1" />
+                    <attribute id="Description" type="TranslatedString" handle="h929ed0f6ge944g4583ga8b9gbb79c6eb7b0f" version="1" />
+                    <attribute id="IsSpellResource" type="bool" value="false" />
+                    <attribute id="MaxLevel" type="uint32" value="0" />
+                    <attribute id="Name" type="FixedString" value="MinuteMeteors" />
+                    <attribute id="ReplenishType" type="FixedString" value="Never" />
+                    <attribute id="ShowOnActionResourcePanel" type="bool" value="true" />
+                    <attribute id="UUID" type="guid" value="f644b4e6-e4bc-4aa1-a997-66141217af28" />
                 </node>
       </children>
     </node>

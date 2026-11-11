@@ -19,6 +19,11 @@
                     <attribute id="Text" type="TranslatedString" handle="hab768585g76eag40f1gbf90g6cd6e69b6322" version="1"/>
                     <attribute id="UUID" type="guid" value="af1dfbc2-bde8-46f2-85d8-0cfd8fae70f7"/>
                 </node>
+                <node id="TooltipUpcastDescriptions">
+                    <attribute id="Name" type="FixedString" value="Additional meteor"/>
+                    <attribute id="Text" type="TranslatedString" handle="5142acf3-2918-4275-9ce8-bb67a2f69747" version="1"/>
+                    <attribute id="UUID" type="guid" value="5142acf3-2918-4275-9ce8-bb67a2f69747"/>
+                </node>
             </children>
         </node>
     </region>

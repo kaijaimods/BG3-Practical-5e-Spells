@@ -58,6 +58,10 @@ function KJHasDragonsBreath()
 	return ConditionResult(HasStatus('KJ_DRAGONSBREATH_DC',context.Target).Result,{ConditionError("CE_Status_SG_DragonsBreath_True")},{ConditionError("CE_Status_SG_DragonsBreath_True")})
 end
 
+function KJIsCloudSurface()
+	return Surface('WaterCloud') | Surface('WaterCloudElectrified') | Surface('PoisonCloud') | Surface('ExplosionCloud') | Surface('ShockwaveCloud') | Surface('CloudkillCloud') | Surface('MaliceCloud') | Surface('BloodCloud') | Surface('StinkingCloud') | Surface('DarknessCloud') | Surface('FogCloud') | Surface('GithPheromoneGasCloud') | Surface('SporeWhiteCloud') | Surface('SporeGreenCloud') | Surface('SpreBlackCloud') | Surface('DrowPoisonCloud') | Surface('IceCloud') | Surface('SporePinkCloud') | Surface('BlackPowderDetonationCloud') | Surface('VoidCloud') | Surface('CrawlerMucusCloud') | Surface('Cloudkill6Cloud')
+end
+
 function IsMentalSaveInteresting(value)
     local value = value or 20
     local rollInteresting = IsRerollInteresting(value)
