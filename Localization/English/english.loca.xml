@@ -72,7 +72,7 @@
 	<content contentuid="h3f0d85d3gf9c7g4cb5g8e03g23a094079d18" version="1">You have the power to spew magical energy from your mouth.</content>
 	<content contentuid="h78be6f00gd1edg40e4gb2fcgdef516f41318" version="1">Target cannot already have Dragon's Breath.</content>
 	<content contentuid="h444ecb09g7b17g45aeg81d6g4c06f00c48b9" version="1">Kinetic Jaunt</content>
-	<content contentuid="h6976f26eg62ffg4c6ag992agae7f47ed406e" version="1">You have increased mobility and your movement doesn’t provoke opportunity attacks.</content>
+	<content contentuid="h6976f26eg62ffg4c6ag992agae7f47ed406e" version="1">Your &lt;LSTag Tooltip="MovementSpeed"&gt;Movement speed&lt;/LSTag&gt; increases by [1] and your movement doesn’t provoke opportunity attacks.</content>
 	<content contentuid="hbbe773fageaeag4e5ag8754ge6576309cc42" version="1">You will take [1] if you end your turn inside another creature.</content>
 	<content contentuid="h1dbf8a37ga64fg45e4gb24cg009c28b54c7c" version="1">Aganazzar's Scorcher</content>
 	<content contentuid="h214998d4geea3g4ea8gbc94g41e3e76befae" version="1">Project a line of fire [1] long</content>
