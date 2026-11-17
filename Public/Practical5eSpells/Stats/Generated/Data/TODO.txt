@@ -8,6 +8,7 @@ Tasha's Caustic Brew -- Would like a longer acid spray
 
 2nd
 Aganazzar's Scorcher -- would like a longer fire spray
+Cordon of Arrows -- 
 healing spirit -- need to get interrupt working for the player and add move spell
 Warding Wind -- add Deafened status and handle it in all spells that are affected, like Harpy's Lure  ability or Command spell.
 
@@ -16,3 +17,18 @@ Ash's Strike -- Would like a better AoE indicator
 Life Transference -- want an animation that doesn't float
 Spirit Shroud -- Might want to replace the aura effect again
 Tidal Wave -- Refactor. Needs to be a wall, not a zone. Update sounds/visuals. Add scroll. Update spell lists
+
+4th level
+Arcane Eye.. practically implemented already by Larian, but maybe this isn't really necessary since Mage Hand or quasit does the same... and scouting is kind of useless
+
+
+5th level
+Conjure Volley -- VFX and SFX need updates
+
+
+
+
+
+War Caster Mod -- compatability patch for unsupported Practical 5e Spells
+					greenflame blade, sapping sting, sorcerous burst, etc.
+               -- compatability patch for Sorcery Point Casting mod
