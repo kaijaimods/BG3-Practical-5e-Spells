@@ -101,6 +101,7 @@
 	<content contentuid="ha86eef28ge4b6g4940g9a1bgad0be15dd196" version="1">You feel like someone is watching you.</content>
 	<content contentuid="h562ecd57g6b37g489agbd7dg8c7743b81f65" version="1">Vortex Warp</content>
 	<content contentuid="h1616e2bbg9c97g450cg9a30g0c3fc02929ad" version="1">Teleport target creature.</content>
+	<content contentuid="h01489ea6g13f1g48b1g954ege19795d586a4" version="1">Cannot target neutral NPCs outside of combat to avoid exploits.</content>
 	<content contentuid="h911647e5g27a3g4f47g9d60g090be45fefb7" version="1">The range increases by [1] per level.</content>
 	<content contentuid="ha1f1d0ecg762bg4268g8452g2189911eba4a" version="1">Warding Wind</content>
 	<content contentuid="h06fbe7a8ga95ag47fbg8e2aged56af846a73" version="1">A strong wind blows around you in a [1] radius and moves with you, remaining centered on you.</content>
