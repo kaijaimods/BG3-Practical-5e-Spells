@@ -1586,7 +1586,7 @@
 					<attribute id="GeneratePortrait" type="LSString" value="Item_BASE_LOOT_Arrow" />
 					<attribute id="Icon" type="FixedString" value="28e02807-1ca8-2e13-0f37-e162c0b6610c-_(Icon_Shadow_Hound)" />
 					<attribute id="LevelName" type="FixedString" value="" />
-					<attribute id="MapKey" type="FixedString" value="31083c88-f888-4972-857a-9a9f3c827856" />
+					<attribute id="MapKey" type="FixedString" value="01f93922-fcb8-46f0-9c7e-5da219a481fa" />
 					<attribute id="Name" type="LSString" value="CordonOfArrows" />
 					<attribute id="ParentTemplateId" type="FixedString" value="e72703ea-c0dc-44a1-aab8-d7b7269f7458" />
 					<attribute id="Stats" type="FixedString" value="HoundOfIllOmen" />
